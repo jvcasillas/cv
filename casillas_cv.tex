@@ -1,0 +1,404 @@
+%!TEX program = xelatex
+
+\documentclass[11pt]{article}
+
+%%%------------------------------------------------------------------------
+%%% Metadata
+%%%------------------------------------------------------------------------
+
+\def\myauthor{Joseph Vincent Casillas}
+\def\mytitle{Vita}
+\def\mycopyright{\myauthor}
+\def\mykeywords{}
+\def\mybibliostyle{plain}
+\def\mybibliocommand{}
+\def\mysubtitle{}
+\def\myaffiliation{University of Arizona}
+\def\myaddress{Department of Spanish and Portuguese}
+\def\myemail{jvcasill@email.arizona.edu}
+\def\myweb{http://www.jvcasillas.com}
+\def\myphone{(520) 621-4702}
+\def\myfax{(520) 621-6104}
+\def\myversion{1.0}
+\def\myrevision{.1}
+
+
+\def\myaffiliation{University of Arizona}
+\def\myauthor{Joseph Vincent Casillas}
+\date{} % not used (revision control instead)
+\def\mykeywords{Casillas, Joseph, Joseph Casillas, Vita, CV, Resume, Linguistics}
+
+
+%%%------------------------------------------------------------------------
+%%% Required style files
+%%%------------------------------------------------------------------------
+\usepackage{url,fancyhdr}
+
+%% needed for xelatex to work
+\usepackage{fontspec}
+\usepackage{xunicode}
+
+%% color for the links 
+\usepackage[usenames,dvipsnames]{color}
+
+
+
+%% hyperlinks
+\usepackage[xetex, 
+	colorlinks=true,
+	urlcolor=BlueViolet,
+	plainpages=false,
+  	pdfpagelabels,
+  	bookmarksnumbered,
+  	pdftitle={\mytitle},
+  	% pagebackref,
+  	pdfauthor={\myauthor},
+  	pdfkeywords={\mykeywords}
+  	]{hyperref}
+
+
+%% my stuff
+\let\sups\relax
+\usepackage{tipa}
+\usepackage{geometry}
+\usepackage{multicol}
+\usepackage[spanish, english]{babel}
+\usepackage{natbib}
+\usepackage{bibentry}
+\newcommand{\bibverse}[1]{\begin{verse} \bibentry{#1}. \end{verse}}
+
+\geometry{
+  body={380pt, 592pt},
+  left=115.63pt,
+  top=1.5in
+}
+
+\pagestyle{myheadings}
+\markright{\myauthor}
+\thispagestyle{empty}
+
+\AtBeginDocument{
+  \renewcommand\textipa[2][r]{{\fontfamily{cm#1}\tipaencoding #2}}
+}
+
+\renewenvironment{IPA}[1][r]
+ {\fontfamily{cm#1}\tipaencoding}
+ {}
+%%%------------------------------------------------------------------------
+%%% Document
+%%%------------------------------------------------------------------------
+\begin{document}
+
+%% Choose fonts for use with xelatex
+%% Minion and Myriad are widely available, from Adobe. 
+%% Pragmata is available to buy at http://www.fsd.it/fonts/pragma.htm
+%% and is worth every penny. Any good monospace font will work fine, though.
+%% Consolas or inconsolata are good alternatives.
+\setromanfont[Mapping={tex-text},Numbers={OldStyle},Ligatures={Common}]{Minion Pro} 
+\setsansfont[Mapping=tex-text,Colour=AA0000]{Myriad Pro}
+\setmonofont[Mapping=tex-text,Scale=0.9]{Consolas} 
+
+
+
+%%%------------------------------------------------------------------------
+%%% Local commands
+%%%------------------------------------------------------------------------
+
+%% Marginal header
+%% Note: as the document goes on you may need to introduce a (gradually increasing)
+%% \vspace element to keep the marginal header pleasingly aligned with the first 
+%% item in the body text. Like this: \marginhead{{\vskip 0.4em}Grants}, or 
+%% \marginhead{{\vskip 0.8em}Service}. Experiment as needed.
+\newcommand{\marginhead}[1]{\marginpar{\textsf{{\footnotesize\vspace{-1em}\flushright #1}}}}
+
+
+%% custom ampersand (font consistent with the one chosen above)
+\newcommand{\amper}{{\fontspec[Scale=.95,Colour=AA0000]{Minion Pro Medium}\selectfont\&\,}}
+
+%% No bullets on labels
+\renewcommand{\labelitemi}{~} 
+
+%% Custom hanging indent for vita items
+\def\ind{\hangindent=1 true cm\hangafter=1 \noindent}
+%\def\ind{\hangindent=18pt\hangafter=1 \noindent}
+\def\labelitemi{~}
+\renewcommand{\labelitemii}{~}
+
+%%%------------------------------------------------------------------------
+%%% Page layout
+%%%------------------------------------------------------------------------
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0pt}
+\fancyhead{}
+\fancyfoot{}
+\rhead{{\scriptsize\thepage}}
+\lhead{{\scriptsize{\sc \myauthor}}}
+
+%% git revision control footer 
+% \rfoot{\texttt{\scriptsize \VCRevision\ on \VCDateTEX}} % git revision info inserted via external script -- see docs for vc package for details. comment out this line if you're not using vc, and also remove the \input{vc} line above.
+
+%%%------------------------------------------------------------------------
+%%% Address and contact block
+%%%------------------------------------------------------------------------
+\begin{minipage}[t]{2.95in}
+ \flushright {\footnotesize \href{http://www.arizona.edu}{University of Arizona} \\ Department of Spanish and Portuguese \\ Modern Languages \\ \vspace{-0.05in} Tucson, \textsc{az} 85721}  
+  
+\end{minipage}
+\hfill     
+%\begin{minipage}[t]{0.0in}
+% dummy (needed here)
+%\end{minipage}
+\hfill
+\begin{minipage}[t]{1.7in}
+  \flushright \footnotesize Phone: \myphone \\ 
+  Fax: \myfax  \\ 
+  {\scriptsize \texttt{\href{mailto:\myemail}{\myemail}}} \\
+  {\scriptsize \texttt{\href{\myweb}{\myweb}}}
+\end{minipage}
+
+
+\bigskip
+
+%% Name 
+\vspace{.1in}\noindent{\Large {\textsc{Joseph Vincent Casillas}}}
+\reversemarginpar
+
+\bigskip       
+
+
+
+%% Education
+
+\marginhead{{\vskip -0.3em}Education}
+\noindent Ph.D, Hispanic Linguistics, University of Arizona, in progress. \vspace{-0.1in}
+\begin{itemize}
+  \item \small Minor: Second Language Acquisiton and Teaching.
+\end{itemize} 
+
+\noindent M.A., Hispanic Linguisctics, University of Arizona, 2012. \vspace{-0.1in}
+\begin{itemize}
+  \item \small Thesis: \emph{Production, perception and processing of English-specific \\vowel contrast by early Spanish-English bilinguals}.
+\end{itemize} 
+
+\noindent M.A., Spanish Philology, Middlebury College, 2009. \\ \vspace{-0.1in}
+
+\noindent B.A., \hspace{.4mm} Psychology, Western Washington University, 2006. \\ \vspace{-0.1in}
+
+\noindent B.A., \hspace{.4mm} Spanish, Western Washington University, 2006. 
+
+
+\bigskip
+ 
+
+%% Teaching experience
+\marginhead{{\vskip 0.3em}Teaching \mbox{experience}}
+\medskip
+\noindent Graduate Associate in Teaching, University of Arizona, 2012--present. \\ \vspace{-0.1in}
+
+\noindent Graduate Assistant in Teaching, University of Arizona, 2010--2012. \\
+\noindent Courses taught (in Spanish unless otherwise noted):\vspace{-0.075in}
+\begin{itemize}
+  \item \small \emph{Spanish 102 (2nd semester Spanish)}.\vspace{-0.1in}
+  \item \small \emph{Spanish 251 (5th semester Spanish)}.\vspace{-0.1in}
+  \item \small \emph{Spanish 340: Introduction to Spanish Phonetics}.\vspace{-0.1in}
+  \item \small \emph{Spanish 343: Spanish Phonetics for the Heritage Speaker}.\vspace{-0.1in}
+  \item \small \emph{Spanish 452: Introduction to Hispanic Linguistics}.\vspace{-0.1in}
+  \item \small \emph{Spanish 455: History of the Spanish Language}.\vspace{-0.1in}
+  \item \small \emph{Spanish 457: Applied Linguistics}.
+\end{itemize} 
+\noindent English Teacher, C.E.I.P Carmen Iglesias, Madrid, Spain, 2009--2010 \\ \vspace{-0.1in}
+
+\noindent Teaching Assistant, Escuela Oficial de Idiomas, Cádiz, Spain, 2006--2008.
+
+
+\bigskip
+ 
+
+%% Research experience
+\marginhead{{\vskip 0.4em}Research \mbox{experience}}
+\medskip
+\noindent Research assistant, Arizona Applied Phonetics Laboratory, 2011--Present. \\ 
+University of Arizona, Lab director: Dr. Miquel Simonet. \\ \vspace{-0.1in}
+
+\noindent Research assistant, Spanish Heritage Language Program, Spring 2012. \\ 
+University of Arizona, Director: Dr. Sara Beaudrie. \\ \vspace{-0.1in}
+
+\noindent Assistant to the Director, Spanish Heritage Language Program, Fall 2011. \\
+University of Arizona, Director: Dr. Sara Beaudrie. \\ \vspace{-0.1in}
+
+\noindent Phonetics lab assistant, Center of Social and Human Sciencies, Madrid, Spain, 2010. \\ 
+Spanish High Council of Scientific Investigation (CSIC), Lab director: María Juana Gil Fernández.
+
+
+% \bigskip
+\clearpage
+
+
+\marginhead{{\vskip 0.6em}\mbox{Grants and} scholarships}
+\medskip
+\noindent Comanche Nation Department of Higher Education Scholarship, 2008--2014. \\ \vspace{-0.1in} 
+
+\noindent College of Humanities Fellowship, University of Arizona, 2013. \\ \vspace{-0.1in}
+
+\noindent Second Language Acquisition and Teaching Travel Grant, University of Arizona, 2013. \\
+Awarded for travel to the Second Language Research Forum (SLRF) \\ \vspace{-0.1in} 
+
+\noindent College of Humanities Fellowship, University of Arizona, 2010--2011. \\ \vspace{-0.1in}
+
+\noindent Graduate College Fellowship, University of Arizona, 2010--2011.\\ \vspace{-0.1in}
+
+\noindent North American Language and Culture Scholarship, Spanish Ministry of Education and Science, 2006--2008. \\ \vspace{-0.1in}
+
+\noindent Eunice D. Faber Scholarship, Western Washington University, 2004--2006.
+
+
+\bigskip
+
+
+\marginhead{{\vskip 0.3em}Academic \mbox{honors}}
+\medskip
+\noindent Outstanding Graduate Student, Middlebury College, 2009. \\ \vspace{-0.1in}
+
+\noindent Outstanding Graduating Senior Nominee, Department of Psychology, Western Washington University, 2006. \\ \vspace{-0.1in}
+
+\noindent Outstanding Graduating Senior Nominee, Department of Modern and Classical Languages, Western Washington University, 2006.
+
+
+\bigskip
+
+
+\marginhead{{\vskip -0.3em}Publications}
+\nobibliography*
+
+\noindent Articles \\ \vspace{-0.1in}
+
+\noindent \bibentry{Casillas2012}. \\ \vspace{-0.1in}
+
+\noindent \bibentry{Casillas2010}. \\ \vspace{-0.1in}
+
+\noindent \bibentry{Casillas2009}. \\ 
+
+
+
+
+\noindent Proceedings \\ \vspace{-0.1in}
+
+\noindent \bibentry{CasillasWSS62013}. \\
+
+
+
+
+\marginhead{{\vskip -0.2em}Presentations}
+\noindent Oral Presentations \\ \vspace{-0.1in}
+
+\noindent \bibentry{CasillasSLRF2013}. \\ \vspace{-0.1in}
+
+\noindent \bibentry{CasillasPAPI2013}. \\ \vspace{-0.1in}
+
+\noindent \bibentry{CasillasWSS62013}. \\ \vspace{-0.1in}
+
+\noindent \bibentry{CasillasCONF2012a}. \\ \vspace{-0.1in}
+
+\noindent \bibentry{CasillasCONF2011}. \\ \vspace{-0.1in}
+
+\noindent \bibentry{CasillasCONF2011a}. \\ 
+
+
+\ind Poster Presentations \\ \vspace{-0.1in}
+
+\noindent \bibentry{CasillasPPLC2013}.
+ 
+
+\bigskip 
+ 
+
+\marginhead{{\vskip 0.5em}\mbox{Service and} outreach}
+\medskip
+\noindent Co-technology Director, Department of Spanish and Portuguese Film Festival, 2011--2014. \\ \vspace{-0.1in}
+
+\noindent Chair, Perception and Production of Phonological Variables. 6th International Workshop on Spanish Sociolinguistics, University of Arizona, Tucson, AZ, 2012. \\ \vspace{-0.1in}
+
+\noindent Organizing Committee, 6th International Workshop on Spanish Sociolinguistics, University of Arizona, Tucson, AZ, 2011--2012.  \\ \vspace{-0.1in}
+
+\noindent Assistant Editor, Arizona Journal of Hispanic Cultural Studies, Vol. 15, 2011. \\ \vspace{-0.1in}
+
+\noindent Webmaster, Divergencias: Revista de estudios lingüísticos y literarios, 2011--2012. \\ \vspace{-0.1in}
+
+\noindent Editor, Divergencias: Revista de estudios lingüísticos y literarios, Vol. 10, 1, 2012. \\ \vspace{-0.1in}
+
+\noindent Technology Director, University of Arizona Spanish and Portuguese Graduate Symposium, 2010--2012. \\ \vspace{-0.1in}
+
+\noindent Editor, Divergencias: Revista de estudios lingüísticos y literarios, Vol. 8, 2, 2010. \\ \vspace{-0.1in}
+
+\noindent Assistant Editor, Arizona Journal of Hispanic Cultural Studies, Vol. 14, 2010.
+
+
+% \bigskip 
+\clearpage
+
+
+\marginhead{{\vskip -0.1em}Professional memberships}
+\noindent Modern Language Association \\ \vspace{-0.1in}
+
+\noindent Sigma Delta Pi National Hispanic Honor Society, Chapter MU \\ \vspace{-0.1in}
+
+\noindent The American Council on the Teaching of Foreign Languages \\ \vspace{-0.1in}
+
+\noindent Psi Chi International Honors Society in Psychology, Western Washington University
+
+
+\bigskip 
+
+ 
+\marginhead{{\vskip -0.3em}Additional interests}
+\noindent Languages
+\begin{itemize}
+  \item English \vspace{-0.1in}
+  \item Spanish \vspace{-0.1in}
+  \item French
+\end{itemize}
+
+\noindent Programing Languages
+\begin{itemize}
+  \item R \vspace{-0.1in}
+  \item Python \vspace{-0.1in}
+  \item HTML \vspace{-0.1in}
+  \item Lisp \vspace{-0.1in}
+  \item TeX \vspace{-0.1in}
+  \item Markdown
+\end{itemize}
+
+\noindent Technology
+\begin{multicols}{3}
+  \begin{itemize}
+  \item Mac OS X \vspace{-0.1in}
+  \item Windows \vspace{-0.1in}
+  \item Linux \vspace{-0.1in}
+  \item Adobe Creative Suite
+
+  \item SPSS \vspace{-0.1in}
+  \item R \vspace{-0.1in}
+  \item Goldvarb X \vspace{-0.1in}
+  \item Praat 
+
+  \item PsychoPy \vspace{-0.1in}
+  \item SuperLab 4.5 \vspace{-0.1in}
+  \item Emacs \vspace{-0.1in}
+  \item \LaTeX
+  \end{itemize}
+\end{multicols}
+
+\noindent \rule{380pt}{.5 mm}
+
+\smallskip
+
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{http://www.jvcasillas.com}{http://www.jvcasillas.com}
+  \end{footnotesize}
+\end{center}
+
+\bibliographystyle{apalike}
+\nobibliography{publicationsCV}
+\end{document}

@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex casillas_cv"] 1389384858 "casillas_cv.aux" "casillas_cv.bbl" "casillas_cv" 1389389737
+["bibtex casillas_cv"] 1389384858 "casillas_cv.aux" "casillas_cv.bbl" "casillas_cv" 1389484275
   "/usr/local/texlive/2013/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "casillas_cv.aux" 1389385940 1769 d514de88f42e309aba528d8ec41967ce ""
+  "casillas_cv.aux" 1389484275 1769 d514de88f42e309aba528d8ec41967ce ""
   "casillas_cv.bcf" 0 -1 0 ""
   "publicationsCV.bib" 1389382723 4171 42b746fd9065c394f3f0bf5ddd555727 ""
   (generated)
   "casillas_cv.bbl"
   "casillas_cv.blg"
-["pdflatex"] 1389385938 "casillas_cv.tex" "casillas_cv.pdf" "casillas_cv" 1389389737
+["pdflatex"] 1389484273 "casillas_cv.tex" "casillas_cv.pdf" "casillas_cv" 1389484275
   "/usr/local/texlive/2013/texmf-dist/tex/generic/babel-english/english.ldf" 1367878877 6963 2e0cb3d93aa64508bdb0db58ae900d97 ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/babel-spanish/spanish.ldf" 1367879021 22488 2fdfe38f9b9c2fe7dc305567ba2c23ba ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.def" 1368743226 42950 b2c89311c96d7b70c24e1365a2fa51ee ""
@@ -83,10 +83,10 @@
   "/usr/local/texlive/2013/texmf-dist/tex/latex/url/url.sty" 1264379145 21932 e3a9cf32ee9b853b42be14c2f25b873c ""
   "/usr/local/texlive/2013/texmf-dist/tex/xelatex/xetex-def/xetex.def" 1369690666 15133 89e5eeafb0aa4a3a94dfe51054979861 ""
   "/usr/local/texlive/2013/texmf-dist/tex/xelatex/xunicode/xunicode.sty" 1315783907 205722 8027ed7ab2230086d647802c25f3ee42 ""
-  "casillas_cv.aux" 1389385940 1769 d514de88f42e309aba528d8ec41967ce ""
+  "casillas_cv.aux" 1389484275 1769 d514de88f42e309aba528d8ec41967ce ""
   "casillas_cv.bbl" 1389384859 2967 f73de748220d8d78b98aa0de68179ce1 "bibtex casillas_cv"
-  "casillas_cv.out" 1389385939 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "casillas_cv.tex" 1389385938 12678 281d76bb2bf83ec3f3144f20a090a613 ""
+  "casillas_cv.out" 1389484274 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "casillas_cv.tex" 1389484273 14017 acb04ac45b64940ac2720584e61bbc7c ""
   (generated)
   "casillas_cv.pdf"
   "casillas_cv.log"

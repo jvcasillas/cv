@@ -1,6 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: template.aux
+The top-level auxiliary file: casillas_cv.aux
 The style file: apalike.bst
 Database file #1: publicationsCV.bib
 Warning--empty booktitle in BessettCasillasMartinezWSS72014
@@ -13,7 +13,7 @@ Warning--empty booktitle in CasillasSLRF2013
 Warning--empty booktitle in CasillasPPLC2013
 You've used 11 entries,
             1935 wiz_defined-function locations,
-            531 strings with 6183 characters,
+            531 strings with 6189 characters,
 and the built_in function-call counts, 3371 in all, are:
 = -- 323
 > -- 94

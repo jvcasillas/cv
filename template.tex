@@ -1,0 +1,277 @@
+% -*- program: xelatex -*-
+
+%% start of file `template.tex'.
+%% Copyright 2006-2011 Xavier Danaux (xdanaux@gmail.com).
+%
+% This work may be distributed and/or modified under the
+% conditions of the LaTeX Project Public License version 1.3c,
+% available at http://www.latex-project.org/lppl/.
+
+\documentclass[11pt,letterpaper]{moderncv}
+
+%moderncv themes
+\moderncvtheme[grey,roman]{classic} % optional argument are 'blue' (default), 'orange', 'green', 'red', 'purple', 'grey' and 'roman' (for roman fonts, instead of sans serif fonts)
+
+
+\usepackage[utf8]{inputenc} %character encoding
+\usepackage{hyperref}
+\usepackage{url,fancyhdr}
+%% needed for xelatex to work
+\usepackage{fontspec}
+\usepackage{xunicode}
+
+%% my stuff
+\let\sups\relax
+\usepackage{tipa}
+\usepackage{multicol}
+\usepackage[spanish, english]{babel}
+\usepackage{natbib}
+\usepackage{bibentry}
+\newcommand{\bibverse}[1]{\begin{verse} \bibentry{#1}. \end{verse}}
+
+% adjust the page margins
+\usepackage[scale=0.8]{geometry}
+%\setlength{\hintscolumnwidth}{3cm}           % if you want to change the width of the column with the dates
+%\setlength{\maketitlenamewidth}{10cm}}       % only for the classic theme, if you want to change the width of your name placeholder (to leave more space for your address details
+
+% personal data
+\firstname{Joseph V.}
+\familyname{Casillas}
+% \title{PhD student}
+\address{University of Arizona \\ Department of Spanish and Portuguese}{Modern languages \\ Tucson, AZ 85721}
+% \mobile{}
+\phone{(520) 621-4702}
+\fax{(520) 621-6104}
+\email{jvcasill@email.arizona.edu}
+\homepage{www.jvcasillas.com}
+% \extrainfo{}
+\def\myphone{(520) 621-4702}
+\def\myfax{(520) 621-6104}
+\def\myemail{jvcasill@email.arizona.edu}
+\def\myweb{www.jvcasillas.com}
+\def\school{University of Arizona}
+\def\schoolweb{http://www.arizona.edu}
+
+
+%\nopagenumbers{}  % uncomment to suppress automatic page numbering for CVs longer than one page
+
+\AtBeginDocument{
+  \renewcommand\textipa[2][r]{{\fontfamily{cm#1}\tipaencoding #2}}
+}
+
+\renewenvironment{IPA}[1][r]
+ {\fontfamily{cm#1}\tipaencoding}
+ {}
+
+
+\begin{document}
+
+%% Choose fonts for use with xelatex
+\setromanfont[Mapping={tex-text},Numbers={OldStyle},Ligatures={Common}]{Minion Pro} 
+\setsansfont[Mapping=tex-text,Colour=AA0000]{Myriad Pro}
+\setmonofont[Mapping=tex-text,Scale=0.9]{Consolas} 
+
+
+%%%------------------------------------------------------------------------
+%%% Address and contact block
+%%%------------------------------------------------------------------------
+
+\begin{minipage}[t]{5in}
+ \flushright {\footnotesize \href{\schoolweb}{\school} \\ 
+ Department of Spanish and Portuguese \\ 
+ Modern Languages \\ 
+ \vspace{-0.05in} Tucson, \textsc{az} 85721}   
+\end{minipage}
+\hfill     
+%\begin{minipage}[t]{0.0in}
+% dummy (needed here)
+%\end{minipage}
+\hfill
+\begin{minipage}[t]{1.7in}
+  \flushright \footnotesize Phone: \myphone \\ 
+  Fax: \myfax  \\ 
+  {\scriptsize \texttt{\href{mailto:\myemail}{\myemail}}} \\
+  {\scriptsize \texttt{\href{\myweb}{\myweb}}}
+\end{minipage}
+
+
+% \maketitle
+\bigskip
+
+%% Name 
+\vspace{.1in}\noindent{\Large {\textsc{Joseph Vincent Casillas}}}
+\reversemarginpar
+
+% \bigskip       
+
+\section{Education}
+
+\cventry{2012 -- present}{Ph.D}{Hispanic Linguistics}{University of Arizona}{Tucson, AZ}{Minor: Second Language Acquisition and Teaching}
+\cventry{2012}{M.A.}{Hispanic Linguistics}{University of Arizona}{Tucson, AZ}{Thesis: \emph{Production, perception and processing of English-specific \\vowel contrast by early Spanish-English bilinguals} \\ Director: Dr. Miquel Simonet}
+\cventry{2009}{M.A.}{Spanish Philology}{Middlebury College}{Middlebury, VT}{Area: Linguistics}
+\cventry{2006}{B.A.}{Psychology}{Western Washington University}{Bellingham, WA}{}
+\cventry{2006}{B.A.}{Spanish}{Western Washington University}{Bellingham, WA}{}
+
+
+
+
+\section{Teaching Experience}
+
+\cventry{2012 -- present}{Graduate Associate in Teaching}{University of Arizona}{Tucson, AZ}{}{Courses taught (in Spanish unless otherwise noted):
+\begin{itemize}
+  \item[] \small \emph{Spanish 102 (2nd semester Spanish)}.\vspace{-.03in}
+  \item[] \small \emph{Spanish 251 (5th semester Spanish)}.\vspace{-.03in}
+  \item[] \small \emph{Spanish 340: Introduction to Spanish Phonetics}.\vspace{-.03in}
+  \item[] \small \emph{Spanish 343: Spanish Phonetics for the Heritage Speaker}.\vspace{-.03in}
+  \item[] \small \emph{Spanish 452: Introduction to Hispanic Linguistics}.\vspace{-.03in}
+  \item[] \small \emph{Spanish 455: History of the Spanish Language}.\vspace{-.03in}
+  \item[] \small \emph{Spanish 457: Applied Linguistics}.
+\end{itemize}}{}
+\cventry{2010 -- 2012}{Graduate Assistant in Teaching}{University of Arizona}{Tucson, AZ}{}{}
+\cventry{2009 -- 2010}{English Teacher}{C.E.I.P Carmen Iglesias}{Madrid, Spain}{}{}
+\cventry{2006 -- 2008}{Teaching Assistant}{Escuela Oficial de Idiomas}{C\'adiz, Spain}{}{}
+
+
+
+
+\section{Research Experience}
+
+\cventry{2011 -- present}{Research assistant}{University of Arizona}{Tucson, AZ}{}{Arizona Applied Phonetics Laboratory, Lab director: Dr. Miquel Simonet}
+\cventry{Spring 2012}{Research assistant}{University of Arizona}{Tucson, AZ}{}{Spanish Heritage Language Program, Director: Dr Sara Beaudrie}
+\cventry{Fall 2011}{Assistant to the Director}{University of Arizona}{Tucson, AZ}{}{Spanish Heritage Language Program, Director: Dr. Sara Beaudrie}
+\cventry{2010}{Phonetics lab assistant}{Center of Social and Human Sciencies}{Madrid, Spain}{}{Spanish High Council of Scientific Investigation (CSIC), Lab director: Mar\'ia Juana Gil Fern\'andez}
+
+
+
+
+\section{Professional Development}
+
+\cventry{2013 -- present}{Instructional technology graduate liaison}{University of Arizona}{Tucson, AZ}{}{College of Humanities Instructional Computing}{}{}
+\cventry{Summer 2013}{Bilingual Assistant}{Middlebury College}{Middlebury, VT}{}{Pronunciation Clinic (co-teaching undergraduate workshop) \\ Assistant to Dr. Armin Schwegler}
+\cventry{Summer 2012}{Bilingual Assistant}{Middlebury College}{Middlebury, VT}{}{Introduction to Spanish Phonetics (graduate course)\\ Pronunciation Clinic (undergraduate workshop), Assistant to Dr. Luis Ortiz L\'opez}
+\cventry{2008}{Diploma of Spanish as a Foreign Language (DELE)}{Instituto Cervantes}{Spain}{}{Level Superior (C2) in accordance with the Common European Framework of Reference for Languages (CEFR)}
+\cventry{2006}{Washington Association of Foreign Language Teachers regional conference}{Bellingham, WA}{}{}{Representative for Foreign Language Associates Northwest (FLAN)}{}
+\cventry{2004}{Certificate of Hispanic Studies}{University of Granada}{Granada, Spain}{}{}{}
+
+
+
+
+\section{Grants and Scholarships}
+
+\cventry{2008 -- 2014}{Comanche Nation Department of Higher Education Scholarship}{}{}{}{}{}
+\cventry{2013}{College of Humanities Fellowship}{University of Arizona}{Tucson, AZ}{}{}
+\cventry{2013}{Second Language Acquisition and Teaching Travel Grant}{University of Arizona}{Tucson, AZ}{}{Awarded for travel to the Second Language Research Forum (SLRF)}
+\cventry{2010 -- 2011}{College of Humanities Fellowship}{University of Arizona}{Tucson, AZ}{}{}
+\cventry{2010 -- 2011}{Graduate College Fellowship}{University of Arizona}{Tucson, AZ}{}{}
+\cventry{2006 -- 2008}{North American Language and Culture Scholarship}{Spanish Ministry of Education and Science}{}{}{}{}
+\cventry{2004 -- 2006}{Eunice D. Faber Scholarship}{Western Washington University}{Bellingham, WA}{}{}
+
+
+
+
+\section{Academic Honors}
+
+\cventry{2009}{Outstanding Graduate Student}{Middlebury College}{Middlebury, VT}{}{}{}
+\cventry{2006}{Outstanding Graduating Senior Nominee}{Western Washington University}{Bellingham, WA}{}{Department of Psychology}{}
+\cventry{2006}{Outstanding Graduating Senior Nominee}{Western Washington University}{Bellingham, WA}{}{Department of Modern and Classical Languages}{}
+
+
+
+\section{Publications}
+
+\nobibliography*
+
+\subsection{Articles}
+
+\cventry{}{\bibentry{Casillas2012}.}{}{}{}{}
+\cventry{}{\bibentry{Casillas2010}.}{}{}{}{}
+\cventry{}{\bibentry{Casillas2009}.}{}{}{}{}
+
+\subsection{Proceedings}
+\cventry{}{\bibentry{CasillasWSS62013}.}{}{}{}{}
+
+\section{Presentations}
+\subsection{Oral Presentations}
+\cventry{}{\bibentry{BessettCasillasMartinezWSS72014}.}{}{}{}{}
+\cventry{}{\bibentry{CasillasSLRF2013}.}{}{}{}{}
+\cventry{}{\bibentry{CasillasPAPI2013}.}{}{}{}{}
+\cventry{}{\bibentry{CasillasWSS62013}.}{}{}{}{}
+\cventry{}{\bibentry{CasillasCONF2012a}.}{}{}{}{}
+\cventry{}{\bibentry{CasillasCONF2011}.}{}{}{}{}
+\cventry{}{\bibentry{CasillasCONF2011a}.}{}{}{}{}
+
+\subsection{Poster Presentations}
+\cventry{}{\bibentry{CasillasPPLC2013}.}{}{}{}{}
+
+
+
+
+
+\section{Service and Outreach}
+
+\cventry{2011--2014}{Co-technology Director}{Department of Spanish and Portuguese Film Festival}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2012}{Chair, Perception and Production of Phonological Variables}{6th International Workshop on Spanish Sociolinguistics}{University of Arizona}{Tucson, AZ}{}
+\cventry{2011 -- 2012}{Organizing Committee}{6th International Workshop on Spanish Sociolinguistics}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2011}{Assistant Editor}{Arizona Journal of Hispanic Cultural Studies, Vol. 15.}{}{}{}
+\cventry{2011--2012}{Webmaster}{Divergencias: Revista de estudios ling\"u\'isticos y literarios}{}{}{}
+\cventry{2012}{Editor}{Divergencias: Revista de estudios ling\"u\'isticos y literarios, Vol. 10, 1.}{}{}{}
+\cventry{2010 -- 2012}{Technology Director}{Department of Spanish and Portuguese Graduate Symposium}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2010}{Editor}{Divergencias: Revista de estudios ling\"u\'isticos y literarios, Vol. 8, 2.}{}{}{}
+\cventry{2010}{Assistant Editor}{Arizona Journal of Hispanic Cultural Studies, Vol. 14.}{}{}{}
+
+
+
+
+\section{Professional memberships}
+
+\cventry{}{Modern Language Association}{}{}{}{}
+\cventry{}{Sigma Delta Pi National Hispanic Honor Society}{Chapter MU}{}{}{}
+\cventry{}{The American Council on the Teaching of Foreign Languages}{}{}{}{}
+\cventry{}{Psi Chi International Honors Society in Psychology}{Western Washington University}{}{}{}{}
+
+
+
+
+
+\section{Additional Interests}
+
+Languages \vspace{-.18in} \\
+\cventry{}{English}{}{}{}{}
+\cventry{}{Spanish}{}{}{}{}
+\cventry{}{French}{}{}{}{}
+
+Programing\\ Languages \vspace{-.37in} \\
+\cventry{}{R}{}{}{}{}
+\cventry{}{Python}{}{}{}{}
+\cventry{}{HTML}{}{}{}{}
+\cventry{}{Lisp}{}{}{}{}
+\cventry{}{TeX}{}{}{}{}
+\cventry{}{Markdown}{}{}{}{}
+
+Technology \\
+
+\begin{tabular}{p{1.15in}lp{.7in}lp{1.1in}l}
+   & Mac OS X             & & SPSS       & \phantom{.} & PsychoPy \\ [-2.5ex]
+   & Windows              & & R          & \phantom{.} & SuperLab \\ [-2.5ex]
+   & Linux                & & Goldvarb X & \phantom{.} & Emacs \\ [-2.5ex]
+   & Adobe Creative Suite & & Praat      & \phantom{.} & \LaTeX \\
+\end{tabular}
+
+
+\noindent \rule{490pt}{.5 mm}
+
+\smallskip
+
+\begin{center}
+  \begin{footnotesize}
+    Last updated: \today \\
+    \href{http://www.jvcasillas.com}{www.jvcasillas.com}
+  \end{footnotesize}
+\end{center}
+
+\bibliographystyle{apalike}
+\nobibliography{publicationsCV}
+
+
+
+\end{document}

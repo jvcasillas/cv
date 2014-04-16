@@ -1,8 +1,9 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: casillas_cv.aux
+The top-level auxiliary file: template.aux
 The style file: apalike.bst
 Database file #1: publicationsCV.bib
+Warning--empty booktitle in BessettCasillasMartinezWSS72014
 Warning--empty booktitle in CasillasCONF2011
 Warning--empty booktitle in CasillasCONF2011a
 Warning--empty booktitle in CasillasCONF2012a
@@ -10,45 +11,45 @@ Warning--empty booktitle in CasillasPAPI2013
 Warning--empty booktitle in CasillasWSS62013
 Warning--empty booktitle in CasillasSLRF2013
 Warning--empty booktitle in CasillasPPLC2013
-You've used 10 entries,
+You've used 11 entries,
             1935 wiz_defined-function locations,
-            524 strings with 5883 characters,
-and the built_in function-call counts, 2997 in all, are:
-= -- 287
-> -- 76
+            531 strings with 6183 characters,
+and the built_in function-call counts, 3371 in all, are:
+= -- 323
+> -- 94
 < -- 10
-+ -- 26
-- -- 22
-* -- 193
-:= -- 545
-add.period$ -- 33
-call.type$ -- 10
-change.case$ -- 61
-chr.to.int$ -- 6
-cite$ -- 17
-duplicate$ -- 158
-empty$ -- 251
-format.name$ -- 34
-if$ -- 592
++ -- 32
+- -- 28
+* -- 222
+:= -- 612
+add.period$ -- 37
+call.type$ -- 11
+change.case$ -- 69
+chr.to.int$ -- 7
+cite$ -- 19
+duplicate$ -- 175
+empty$ -- 278
+format.name$ -- 41
+if$ -- 666
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 10
-newline$ -- 53
-num.names$ -- 30
-pop$ -- 73
+missing$ -- 11
+newline$ -- 58
+num.names$ -- 33
+pop$ -- 84
 preamble$ -- 1
-purify$ -- 61
+purify$ -- 69
 quote$ -- 0
-skip$ -- 104
+skip$ -- 113
 stack$ -- 0
-substring$ -- 120
+substring$ -- 132
 swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 60
-warning$ -- 7
-while$ -- 20
+type$ -- 66
+warning$ -- 8
+while$ -- 22
 width$ -- 0
-write$ -- 129
-(There were 7 warnings)
+write$ -- 142
+(There were 8 warnings)

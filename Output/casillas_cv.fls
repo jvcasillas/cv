@@ -165,6 +165,10 @@ INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/euenc/eu1lmss.fd
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/euenc/eu1lmss.fd
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/fontspec/fontspec.cfg
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/fontspec/fontspec.cfg
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
+INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/latexconfig/color.cfg
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/tipa/tipa.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/tipa/tipa.sty
 INPUT /usr/local/texlive/2013/texmf-dist/tex/latex/base/fontenc.sty

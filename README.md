@@ -14,3 +14,4 @@ To add:
   - Assistant Reviewer
 - SLAT
   - Proseminar invited speaker
+  - Psychopy2 workshop

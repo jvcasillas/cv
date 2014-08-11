@@ -29,6 +29,7 @@
 \usepackage{natbib}
 \usepackage{bibentry}
 \newcommand{\bibverse}[1]{\begin{verse} \bibentry{#1}. \end{verse}}
+\usepackage{hanging}
 
 % adjust the page margins
 \usepackage[scale=0.8]{geometry}
@@ -67,6 +68,7 @@
 
 \begin{document}
 
+%% Path = fonts/, ...
 %% Choose fonts for use with xelatex
 \setromanfont[Mapping={tex-text},Numbers={OldStyle},Ligatures={Common}]{Minion Pro} 
 \setsansfont[Mapping=tex-text,Colour=AA0000]{Myriad Pro}
@@ -181,28 +183,33 @@
 \section{Publications}
 
 \nobibliography*
+\newcommand\hangbibentry[1]{%
+    \hangpara{1em}{1}\bibentry{#1}.\par %{indent}{afterline}
+}
 
 \subsection{Articles}
 
-\cventry{}{\bibentry{Casillas2012}.}{}{}{}{}
-\cventry{}{\bibentry{Casillas2010}.}{}{}{}{}
-\cventry{}{\bibentry{Casillas2009}.}{}{}{}{}
+\cventry{}{\hangbibentry{Casillas2012}}{}{}{}{}
+\cventry{}{\hangbibentry{Casillas2010}}{}{}{}{}
+\cventry{}{\hangbibentry{Casillas2009}}{}{}{}{}
 
 \subsection{Proceedings}
-\cventry{}{\bibentry{CasillasWSS62013}.}{}{}{}{}
+\cventry{}{\hangbibentry{SimonetCasillasDiazSP72014}}{}{}{}{}
+\cventry{}{\hangbibentry{CasillasWSS62013}}{}{}{}{}
 
 \section{Presentations}
 \subsection{Oral Presentations}
-\cventry{}{\bibentry{BessettCasillasMartinezWSS72014}.}{}{}{}{}
-\cventry{}{\bibentry{CasillasSLRF2013}.}{}{}{}{}
-\cventry{}{\bibentry{CasillasPAPI2013}.}{}{}{}{}
-\cventry{}{\bibentry{CasillasWSS62013}.}{}{}{}{}
-\cventry{}{\bibentry{CasillasCONF2012a}.}{}{}{}{}
-\cventry{}{\bibentry{CasillasCONF2011}.}{}{}{}{}
-\cventry{}{\bibentry{CasillasCONF2011a}.}{}{}{}{}
+\cventry{}{\hangbibentry{BessettCasillasMartinezWSS72014}}{}{}{}{}
+\cventry{}{\hangbibentry{CasillasSLRF2013}}{}{}{}{}
+\cventry{}{\hangbibentry{CasillasPAPI2013}}{}{}{}{}
+\cventry{}{\hangbibentry{CasillasWSS62013}}{}{}{}{}
+\cventry{}{\hangbibentry{CasillasCONF2012a}}{}{}{}{}
+\cventry{}{\hangbibentry{CasillasCONF2011}}{}{}{}{}
+\cventry{}{\hangbibentry{CasillasCONF2011a}}{}{}{}{}
 
 \subsection{Poster Presentations}
-\cventry{}{\bibentry{CasillasPPLC2013}.}{}{}{}{}
+\cventry{}{\hangbibentry{SimonetCasillasDiazSP72014poster}}{}{}{}{}
+\cventry{}{\hangbibentry{CasillasPPLC2013}}{}{}{}{}
 
 
 

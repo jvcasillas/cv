@@ -9,9 +9,10 @@ To add:
   - span 3151c
   - Pronunciation clinic
 - SP7
-  - Proceedings
-  - Presentation
   - Assistant Reviewer
 - SLAT
   - Proseminar invited speaker
   - Psychopy2 workshop
+- Work experience
+  - D2L job
+- HLS?

@@ -60,8 +60,6 @@ INPUT /usr/local/texlive/2014/texmf-dist/tex/latex/moderncv/tweaklist.sty
 INPUT /usr/local/texlive/2014/texmf-dist/tex/latex/moderncv/tweaklist.sty
 INPUT moderncvthemeclassic.sty
 INPUT moderncvthemeclassic.sty
-INPUT /usr/local/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
-INPUT /usr/local/texlive/2014/texmf-dist/tex/latex/base/inputenc.sty
 INPUT /usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2014/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty

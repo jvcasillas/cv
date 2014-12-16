@@ -23,3 +23,4 @@ To add:
 	- Taking advantage of google apps
 	- Creating a professional website
 	- Dissertations and theses in microsoft word
+- GPSC judge

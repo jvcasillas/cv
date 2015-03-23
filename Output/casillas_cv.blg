@@ -10,51 +10,54 @@ Warning--empty booktitle in CasillasCONF2012a
 Warning--empty booktitle in CasillasPAPI2013
 Warning--empty booktitle in CasillasWSS62013
 Warning--empty booktitle in CasillasSLRF2013
+Warning--empty booktitle in CasillasLaTeX2014
 Warning--empty booktitle in CasillasL2overview2014
 Warning--empty booktitle in CasillasPsyPy2014
+Warning--empty booktitle in CasillasRmarkdown2015
+Warning--empty booktitle in CasillasQualtrics2015
 Warning--empty booktitle in CasillasPPLC2013
 Warning--empty booktitle in SimonetCasillasDiazHLS2014poster
 Warning--empty booktitle in SimonetCasillasDiazSP72014
 Warning--empty booktitle in SimonetCasillasDiazSP72014poster
-You've used 16 entries,
+You've used 19 entries,
             1935 wiz_defined-function locations,
-            557 strings with 7537 characters,
-and the built_in function-call counts, 5117 in all, are:
-= -- 490
-> -- 162
-< -- 12
-+ -- 65
-- -- 50
-* -- 347
-:= -- 920
-add.period$ -- 56
-call.type$ -- 16
-change.case$ -- 105
-chr.to.int$ -- 9
-cite$ -- 29
-duplicate$ -- 260
-empty$ -- 413
-format.name$ -- 68
-if$ -- 1011
-int.to.chr$ -- 8
+            568 strings with 7823 characters,
+and the built_in function-call counts, 6041 in all, are:
+= -- 583
+> -- 183
+< -- 15
++ -- 73
+- -- 56
+* -- 404
+:= -- 1084
+add.period$ -- 68
+call.type$ -- 19
+change.case$ -- 123
+chr.to.int$ -- 10
+cite$ -- 35
+duplicate$ -- 311
+empty$ -- 494
+format.name$ -- 77
+if$ -- 1200
+int.to.chr$ -- 10
 int.to.str$ -- 0
-missing$ -- 16
-newline$ -- 83
-num.names$ -- 48
-pop$ -- 134
+missing$ -- 19
+newline$ -- 98
+num.names$ -- 57
+pop$ -- 158
 preamble$ -- 1
-purify$ -- 105
+purify$ -- 123
 quote$ -- 0
-skip$ -- 158
+skip$ -- 187
 stack$ -- 0
-substring$ -- 200
+substring$ -- 236
 swap$ -- 3
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 96
-warning$ -- 13
-while$ -- 32
+type$ -- 114
+warning$ -- 16
+while$ -- 38
 width$ -- 0
-write$ -- 207
-(There were 13 warnings)
+write$ -- 246
+(There were 16 warnings)

@@ -10,3 +10,5 @@ To add:
 	- lingreference.org
 	- lingStuff
 - Study abroad (director)
+- SLR article
+- Rasgos distintivos table

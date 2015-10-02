@@ -1,6 +1,6 @@
-This is BibTeX, Version 0.99d (TeX Live 2014)
+This is BibTeX, Version 0.99d (TeX Live 2015)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: casillas_cv.aux
+The top-level auxiliary file: Output/casillas_cv.aux
 The style file: apalike.bst
 Database file #1: publicationsCV.bib
 Warning--empty booktitle in BessettCasillasMartinezWSS72014
@@ -15,51 +15,52 @@ Warning--empty booktitle in CasillasL2overview2014
 Warning--empty booktitle in CasillasPsyPy2014
 Warning--empty booktitle in CasillasRmarkdown2015
 Warning--empty booktitle in CasillasQualtrics2015
+Warning--empty booktitle in CasillasDiazSimonetHLS2015
 Warning--empty booktitle in CasillasDiazSimonetICPhS2015article
 Warning--empty booktitle in CasillasDiazSimonetICPhS2015poster
 Warning--empty booktitle in CasillasPPLC2013
 Warning--empty booktitle in SimonetCasillasDiazHLS2014poster
 Warning--empty booktitle in SimonetCasillasDiazSP72014
 Warning--empty booktitle in SimonetCasillasDiazSP72014poster
-You've used 21 entries,
+You've used 23 entries,
             1935 wiz_defined-function locations,
-            579 strings with 8355 characters,
-and the built_in function-call counts, 6781 in all, are:
-= -- 652
-> -- 219
-< -- 15
-+ -- 86
-- -- 68
-* -- 462
-:= -- 1216
-add.period$ -- 75
-call.type$ -- 21
-change.case$ -- 139
-chr.to.int$ -- 11
-cite$ -- 39
-duplicate$ -- 345
-empty$ -- 548
-format.name$ -- 91
-if$ -- 1345
-int.to.chr$ -- 11
+            589 strings with 8800 characters,
+and the built_in function-call counts, 7466 in all, are:
+= -- 718
+> -- 250
+< -- 16
++ -- 97
+- -- 78
+* -- 514
+:= -- 1340
+add.period$ -- 82
+call.type$ -- 23
+change.case$ -- 154
+chr.to.int$ -- 12
+cite$ -- 42
+duplicate$ -- 375
+empty$ -- 595
+format.name$ -- 105
+if$ -- 1478
+int.to.chr$ -- 12
 int.to.str$ -- 0
-missing$ -- 21
-newline$ -- 108
-num.names$ -- 63
-pop$ -- 181
+missing$ -- 23
+newline$ -- 118
+num.names$ -- 69
+pop$ -- 198
 preamble$ -- 1
-purify$ -- 139
+purify$ -- 154
 quote$ -- 0
-skip$ -- 204
+skip$ -- 224
 stack$ -- 0
-substring$ -- 260
-swap$ -- 3
+substring$ -- 284
+swap$ -- 4
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 126
-warning$ -- 18
-while$ -- 42
+type$ -- 138
+warning$ -- 19
+while$ -- 46
 width$ -- 0
-write$ -- 272
-(There were 18 warnings)
+write$ -- 297
+(There were 19 warnings)

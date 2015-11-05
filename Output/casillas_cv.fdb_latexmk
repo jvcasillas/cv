@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex Output/casillas_cv"] 1443780700 "Output/casillas_cv.aux" "Output/casillas_cv.bbl" "Output/casillas_cv" 1443780701
+["bibtex Output/casillas_cv"] 1446308067 "Output/casillas_cv.aux" "Output/casillas_cv.bbl" "Output/casillas_cv" 1446745127
   "/usr/local/texlive/2015/texmf-dist/bibtex/bst/base/apalike.bst" 1292289607 24635 604dafcc79f521a11ea73e506e1fbd98 ""
-  "Output/casillas_cv.aux" 1443780701 3976 b8b0406ec6ea4187ff17581b2ba76d16 ""
+  "Output/casillas_cv.aux" 1446745126 4069 5968051d303f877a63e15ab65f2f5a38 ""
   "Output/casillas_cv.bcf" 0 -1 0 ""
-  "publicationsCV.bib" 1443780697 9421 7160a2592a2f3125eaefacef140f5ba3 ""
+  "publicationsCV.bib" 1446308064 9624 a12296f094c033d9d4837b66e5536286 ""
   (generated)
   "Output/casillas_cv.blg"
   "Output/casillas_cv.bbl"
-["pdflatex"] 1443780700 "/Users/casillas/Dropbox/Public/CV/academic_cv/casillas_cv.tex" "/Users/casillas/Dropbox/Public/CV/academic_cv/Output/casillas_cv.pdf" "casillas_cv" 1443780701
-  "/Users/casillas/Dropbox/Public/CV/academic_cv/Output/casillas_cv.aux" 1443780701 3976 b8b0406ec6ea4187ff17581b2ba76d16 ""
-  "/Users/casillas/Dropbox/Public/CV/academic_cv/casillas_cv.tex" 1443780640 16944 c28be621c92ddb25cee042ee6e32252f ""
+["pdflatex"] 1446745125 "/Users/casillas/Dropbox/Public/CV/academic_cv/casillas_cv.tex" "/Users/casillas/Dropbox/Public/CV/academic_cv/Output/casillas_cv.pdf" "casillas_cv" 1446745127
+  "/Users/casillas/Dropbox/Public/CV/academic_cv/Output/casillas_cv.aux" 1446745126 4069 5968051d303f877a63e15ab65f2f5a38 ""
+  "/Users/casillas/Dropbox/Public/CV/academic_cv/casillas_cv.tex" 1446745105 17005 3edc1b0f1d3465f837f3a029fa42cc4d ""
   "/usr/local/texlive/2015/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2015/texmf-dist/fonts/tfm/jknappen/ec/ecrm1095.tfm" 1136768653 3584 929cdff2b7a8c11bd4d49fd68cb0ae70 ""
@@ -102,17 +102,17 @@
   "/usr/local/texlive/2015/texmf-dist/web2c/texmf.cnf" 1443555511 31984 955cb5edfc30372739da64506c874658 ""
   "/usr/local/texlive/2015/texmf-var/web2c/xetex/xelatex.fmt" 1432479679 3445950 7f6125c6eb78b33bcedbe55e49dbfd83 ""
   "/usr/local/texlive/2015/texmf.cnf" 1432479636 577 0d611272082f3cdb8e80e09a3c69cf07 ""
-  "Output/casillas_cv.aux" 1443780701 3976 b8b0406ec6ea4187ff17581b2ba76d16 ""
-  "Output/casillas_cv.bbl" 1443780700 6922 354de90d91af58dec9e1efb0b4f89216 "bibtex Output/casillas_cv"
-  "Output/casillas_cv.out" 1443780701 617 9b58aeb9aa7eddf3dd85a2bdd733f8b1 ""
-  "casillas_cv.tex" 1443780640 16944 c28be621c92ddb25cee042ee6e32252f ""
+  "Output/casillas_cv.aux" 1446745126 4069 5968051d303f877a63e15ab65f2f5a38 ""
+  "Output/casillas_cv.bbl" 1446308067 7166 5f6579e3bc6b92b935d94a2d2798f4d9 "bibtex Output/casillas_cv"
+  "Output/casillas_cv.out" 1446745126 617 9b58aeb9aa7eddf3dd85a2bdd733f8b1 ""
+  "casillas_cv.tex" 1446745105 17005 3edc1b0f1d3465f837f3a029fa42cc4d ""
   "moderncv.cls" 1407273270 18044 504bfff1812a1b0914cbbbb937a5ab4d ""
   "moderncvcompatibility.sty" 1407273270 2852 9de341f1768acba272debffbe6735d1f ""
   "moderncvthemeclassic.sty" 1407273270 7870 2d856500070b8086a58661555b35a19c ""
   (generated)
+  "/Users/casillas/Dropbox/Public/CV/academic_cv/Output/casillas_cv.log"
   "Output/casillas_cv.aux"
   "/Users/casillas/Dropbox/Public/CV/academic_cv/Output/casillas_cv.pdf"
-  "/Users/casillas/Dropbox/Public/CV/academic_cv/Output/casillas_cv.log"
   "Output/casillas_cv.pdf"
   "Output/casillas_cv.out"
   "Output/casillas_cv.log"

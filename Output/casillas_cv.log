@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  2 OCT 2015 12:11
+This is XeTeX, Version 3.14159265-2.6-0.99992 (TeX Live 2015) (preloaded format=xelatex 2015.5.24)  5 NOV 2015 18:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1048,122 +1048,122 @@ Package xcolor Warning: Incompatible color definition on input line 395.
 Package xcolor Warning: Incompatible color definition on input line 402.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 404--408
+Underfull \hbox (badness 10000) in paragraph at lines 404--409
 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 409.
+Package xcolor Warning: Incompatible color definition on input line 410.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 410--413
+Underfull \hbox (badness 10000) in paragraph at lines 411--414
 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 413.
+Package xcolor Warning: Incompatible color definition on input line 414.
 
 [3]
 
-Package xcolor Warning: Incompatible color definition on input line 414.
-
-
-Package xcolor Warning: Incompatible color definition on input line 414.
+Package xcolor Warning: Incompatible color definition on input line 415.
 
 
 Package xcolor Warning: Incompatible color definition on input line 415.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 416--424
+Package xcolor Warning: Incompatible color definition on input line 416.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 417--425
 
  []
 
-
-Package xcolor Warning: Incompatible color definition on input line 424.
-
-[4]
 
 Package xcolor Warning: Incompatible color definition on input line 425.
 
+[4]
 
-Underfull \hbox (badness 10000) in paragraph at lines 426--430
-
- []
-
-
-Package xcolor Warning: Incompatible color definition on input line 431.
+Package xcolor Warning: Incompatible color definition on input line 426.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--437
+Underfull \hbox (badness 10000) in paragraph at lines 427--431
 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 437.
+Package xcolor Warning: Incompatible color definition on input line 432.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 433--438
+
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 438.
 
 [5]
 
-Package xcolor Warning: Incompatible color definition on input line 442.
+Package xcolor Warning: Incompatible color definition on input line 443.
 
 
-Package xcolor Warning: Incompatible color definition on input line 442.
+Package xcolor Warning: Incompatible color definition on input line 443.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 449--522
-
- []
-
-
-Package xcolor Warning: Incompatible color definition on input line 526.
-
-
-Package xcolor Warning: Incompatible color definition on input line 526.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 528--532
+Underfull \hbox (badness 10000) in paragraph at lines 450--523
 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 537.
+Package xcolor Warning: Incompatible color definition on input line 527.
 
 
-Package xcolor Warning: Incompatible color definition on input line 537.
+Package xcolor Warning: Incompatible color definition on input line 527.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 539--545
+Underfull \hbox (badness 10000) in paragraph at lines 529--533
 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 545.
+Package xcolor Warning: Incompatible color definition on input line 538.
+
+
+Package xcolor Warning: Incompatible color definition on input line 538.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--546
+
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 546.
 
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 547--553
+Underfull \hbox (badness 10000) in paragraph at lines 548--554
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 555--556
+Underfull \hbox (badness 10000) in paragraph at lines 556--557
 
  []
 
 (/Users/casillas/Dropbox/Public/CV/academic_cv/Output/casillas_cv.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 581.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 582.
 
-Package xcolor Warning: Incompatible color definition on input line 581.
+Package xcolor Warning: Incompatible color definition on input line 582.
 
 [7]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 581.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 582.
 (/Users/casillas/Dropbox/Public/CV/academic_cv/Output/casillas_cv.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 581.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 581.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 582.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 582.
  ) 
 Here is how much of TeX's memory you used:
- 24689 strings out of 493706
- 448884 string characters out of 6145769
- 502806 words of memory out of 5000000
- 27767 multiletter control sequences out of 15000+600000
+ 24693 strings out of 493706
+ 448997 string characters out of 6145769
+ 502834 words of memory out of 5000000
+ 27771 multiletter control sequences out of 15000+600000
  17247 words of font info for 64 fonts, out of 8000000 for 9000
  1328 hyphenation exceptions out of 8191
  36i,11n,67p,10429b,340s stack positions out of 5000i,500n,10000p,200000b,80000s

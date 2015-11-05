@@ -22,45 +22,45 @@ Warning--empty booktitle in CasillasPPLC2013
 Warning--empty booktitle in SimonetCasillasDiazHLS2014poster
 Warning--empty booktitle in SimonetCasillasDiazSP72014
 Warning--empty booktitle in SimonetCasillasDiazSP72014poster
-You've used 23 entries,
+You've used 24 entries,
             1935 wiz_defined-function locations,
-            589 strings with 8800 characters,
-and the built_in function-call counts, 7466 in all, are:
-= -- 718
-> -- 250
-< -- 16
-+ -- 97
-- -- 78
-* -- 514
-:= -- 1340
-add.period$ -- 82
-call.type$ -- 23
-change.case$ -- 154
-chr.to.int$ -- 12
-cite$ -- 42
-duplicate$ -- 375
-empty$ -- 595
-format.name$ -- 105
-if$ -- 1478
+            595 strings with 9019 characters,
+and the built_in function-call counts, 7736 in all, are:
+= -- 744
+> -- 257
+< -- 17
++ -- 99
+- -- 80
+* -- 531
+:= -- 1392
+add.period$ -- 85
+call.type$ -- 24
+change.case$ -- 160
+chr.to.int$ -- 13
+cite$ -- 43
+duplicate$ -- 388
+empty$ -- 615
+format.name$ -- 108
+if$ -- 1529
 int.to.chr$ -- 12
 int.to.str$ -- 0
-missing$ -- 23
-newline$ -- 118
-num.names$ -- 69
-pop$ -- 198
+missing$ -- 24
+newline$ -- 123
+num.names$ -- 72
+pop$ -- 203
 preamble$ -- 1
-purify$ -- 154
+purify$ -- 160
 quote$ -- 0
-skip$ -- 224
+skip$ -- 235
 stack$ -- 0
-substring$ -- 284
-swap$ -- 4
+substring$ -- 296
+swap$ -- 5
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 138
+type$ -- 144
 warning$ -- 19
-while$ -- 46
+while$ -- 48
 width$ -- 0
-write$ -- 297
+write$ -- 309
 (There were 19 warnings)

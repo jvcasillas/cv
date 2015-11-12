@@ -9,7 +9,7 @@ Bessett, R.~M., Casillas, J.~V., and {Ram\'irez Mart\'inez}, M. (2014).
 
 \bibitem[Casillas, 2009]{Casillas2009}
 Casillas, J.~V. (2009).
-\newblock El uso de los refranes en el quijote.
+\newblock El uso de los refranes en {E}l {Q}uijote.
 \newblock {\em La Gaceta Hisp{\'a}nica de Madrid}, VIII.
 
 \bibitem[Casillas, 2010]{Casillas2010}
@@ -97,6 +97,11 @@ Casillas, J.~V. (2015b).
 \newblock College of Humanities Instructional Computing (workshop). University
   of Arizona. Tucson, Arizona.
 
+\bibitem[Casillas, tion]{CasillasDICT}
+Casillas, J.~V. (in preparation).
+\newblock Community approaches to translating specialized terminology in
+  linguistics: lingreference.org.
+
 \bibitem[Casillas, ress]{CasillasPhonetica2015}
 Casillas, J.~V. (in press).
 \newblock Production and perception of the \textipa{/i/-/I/} vowel contrast:
@@ -112,7 +117,7 @@ Casillas, J.~V., D\'iaz, Y., and Simonet, M. (2015a).
 \bibitem[Casillas et~al., 2015b]{CasillasDiazSimonetICPhS2015article}
 Casillas, J.~V., Díaz, Y., and Simonet, M. (2015b).
 \newblock Acoustics of {S}panish and {E}nglish coronal stops.
-\newblock In Proceedings of the 18th International Congresses of Phonetic
+\newblock In Proceedings of the 18th International Congress of Phonetic
   Sciences, University of Glasgow: Glasgow. http://www.icphs2015.info, ISSN:
   241-0669.
 
@@ -136,6 +141,12 @@ Casillas, J.~V. and Simonet, M. (in press).
   contrast in switched-dominance speakers.
 \newblock {\em Second Language Research}.
 
+\bibitem[Llompart and Casillas, view]{LlmopartCasillasJASAEL2016}
+Llompart, M. and Casillas, J.~V. (Under review).
+\newblock Lexically-driven selective adaptation occurs after limited adaptor
+  repetition.
+\newblock {\em Journal of the Acoustical Society of America}.
+
 \bibitem[Simonet et~al., 2014a]{SimonetCasillasDiazHLS2014poster}
 Simonet, M., Casillas, J.~V., and D\'iaz, Y. (2014a).
 \newblock A contrastive acoustic analysis of dental and alveolar stops in
@@ -145,7 +156,7 @@ Simonet, M., Casillas, J.~V., and D\'iaz, Y. (2014a).
 
 \bibitem[Simonet et~al., 2014b]{SimonetCasillasDiazSP72014}
 Simonet, M., Casillas, J.~V., and D\'iaz, Y. (2014b).
-\newblock The effects of stress/accent on vot depend on language ({E}nglish,
+\newblock The effects of stress/accent on {VOT} depend on language ({E}nglish,
   {S}panish), consonant (/d/, /t/) and linguistic experience (monolinguals,
   bilinguals).
 \newblock In Speech Prosody 7 - Proceedings of the 7th international conference

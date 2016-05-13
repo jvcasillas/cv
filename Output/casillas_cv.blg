@@ -25,43 +25,43 @@ Warning--empty booktitle in SimonetCasillasDiazSP72014
 Warning--empty booktitle in SimonetCasillasDiazSP72014poster
 You've used 26 entries,
             1935 wiz_defined-function locations,
-            608 strings with 9543 characters,
-and the built_in function-call counts, 8389 in all, are:
-= -- 807
+            611 strings with 9548 characters,
+and the built_in function-call counts, 8487 in all, are:
+= -- 819
 > -- 277
 < -- 19
 + -- 106
 - -- 86
-* -- 582
-:= -- 1508
+* -- 599
+:= -- 1518
 add.period$ -- 90
 call.type$ -- 26
 change.case$ -- 173
 chr.to.int$ -- 14
 cite$ -- 46
-duplicate$ -- 415
-empty$ -- 664
+duplicate$ -- 416
+empty$ -- 675
 format.name$ -- 118
-if$ -- 1656
+if$ -- 1677
 int.to.chr$ -- 13
 int.to.str$ -- 0
 missing$ -- 26
 newline$ -- 132
 num.names$ -- 78
-pop$ -- 214
+pop$ -- 212
 preamble$ -- 1
 purify$ -- 173
 quote$ -- 0
 skip$ -- 257
 stack$ -- 0
-substring$ -- 341
+substring$ -- 366
 swap$ -- 6
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 156
 warning$ -- 20
-while$ -- 53
+while$ -- 55
 width$ -- 0
-write$ -- 332
+write$ -- 333
 (There were 20 warnings)

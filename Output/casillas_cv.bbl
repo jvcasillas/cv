@@ -7,6 +7,12 @@ Bessett, R.~M., Casillas, J.~V., and {Ram\'irez Mart\'inez}, M. (2014).
 \newblock 7th Workshop on Spanish Sociolinguistics. University of
   Wisconsin-Madison, Madison, WI.
 
+\bibitem[Bessett et~al., pted]{BessettCasillasRamirezSIC2017}
+Bessett, R.~M., Casillas, J.~V., and {Ram\'irez Mart\'inez}, M. (accepted).
+\newblock Language choice and accommodation: Casual encounters in {S}an
+  {Y}sidro and {N}ogales.
+\newblock {\em Spanish in Context}, 14(1).
+
 \bibitem[Casillas, 2009]{Casillas2009}
 Casillas, J.~V. (2009).
 \newblock El uso de los refranes en {E}l {Q}uijote.
@@ -108,6 +114,15 @@ Casillas, J.~V. (in preparation).
 \newblock Community approaches to translating specialized terminology in
   linguistics: lingreference.org.
 
+\bibitem[Casillas and Bessett, 2013]{CasillasBessettDFTable2013}
+Casillas, J.~V. and Bessett, R.~M. (2013).
+\newblock Cuadro de los rasgos distintivos y los al\'ofonos del espa\~nol
+  [table].
+\newblock In Cedeño, R. A.~N., Colina, S., and Bradley, T.~G., editors, {\em
+  Fonolog\'ia generativa contempor\'anea de la lengua espa\~nola}. Georgetown
+  University Press. Available:
+  \href{https://github.com/jvcasill/rasgos_distintivos}{https://github.com/jvcasill/rasgos\_distintivos}.
+
 \bibitem[Casillas et~al., 2015a]{CasillasDiazSimonetHLS2015}
 Casillas, J.~V., D\'iaz, Y., and Simonet, M. (2015a).
 \newblock Acoustics of coronal stops in {S}panish-{E}nglish bilingual speech.
@@ -141,11 +156,21 @@ Casillas, J.~V. and Simonet, M. (2016).
   contrast in switched-dominance speakers.
 \newblock {\em Second Language Research}, 32(2):171--195.
 
-\bibitem[Llompart and Casillas, pted]{LlmopartCasillasJASAEL2016}
-Llompart, M. and Casillas, J.~V. (Accepted).
-\newblock Lexically-driven selective adaptation occurs after limited adaptor
-  repetition.
-\newblock {\em Journal of the Acoustical Society of America}.
+\bibitem[Llompart and Casillas, 2016]{LlmopartCasillasJASAEL2016}
+Llompart, M. and Casillas, J.~V. (2016).
+\newblock Lexically driven selective adaptation by ambiguous auditory stimuli
+  occurs after limited exposure to adaptors.
+\newblock {\em Journal of the Acoustical Society of America},
+  139(5):EL172--EL177.
+
+\bibitem[{Ram\'irez Mart\'inez} and Casillas,
+  2016]{RamirezCasillasWSS82016poster}
+{Ram\'irez Mart\'inez}, M. and Casillas, J.~V. (2016).
+\newblock La producci\'on de la vibrante m\'ultiple en los estudiantes de
+  espa\~nol como lengua heredada y en los estudiantes de espa\~nol como lengua
+  extranjera.
+\newblock 8th Workshop on Spanish Sociolinguistics. University of Puerto Rico,
+  R\'io Piedras, PR.
 
 \bibitem[Simonet et~al., 2014a]{SimonetCasillasDiazHLS2014poster}
 Simonet, M., Casillas, J.~V., and D\'iaz, Y. (2014a).
@@ -170,5 +195,12 @@ Simonet, M., Casillas, J.~V., and D\'iaz, Y. (2014c).
   bilinguals).
 \newblock Speech Prosody 7: Social and Linguistic Speech Prosody. Trinity
   College, Dublin.
+
+\bibitem[Simonet et~al., 2016]{SimonetCasillasOsborneSOUNDWORD2016}
+Simonet, M., Casillas, J.~V., and Osborne, D. (2016).
+\newblock Second language acquisition and the double perceptual boundary
+  effect.
+\newblock Sound to Word in Bilingual and Second Language Speech Perception.
+  University of Iowa, Iowa City, Iowa.
 
 \end{thebibliography}

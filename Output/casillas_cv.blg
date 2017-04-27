@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2015)
+This is BibTeX, Version 0.99d (TeX Live 2016)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: Output/casillas_cv.aux
 The style file: apalike.bst
@@ -15,55 +15,60 @@ Warning--empty booktitle in CasillasL2overview2014
 Warning--empty booktitle in CasillasPsyPy2014
 Warning--empty booktitle in CasillasRmarkdown2015
 Warning--empty booktitle in CasillasQualtrics2015
+Warning--empty booktitle in casillasHLS2016
+Warning--empty booktitle in casillasSSHL2017
+Warning--empty booktitle in CasillasHeritagePedagogy2017
+Warning--empty booktitle in casillasLSRL2017
 Warning--empty journal in CasillasDICT
 Warning--empty booktitle in CasillasDiazSimonetHLS2015
 Warning--empty booktitle in CasillasDiazSimonetICPhS2015article
 Warning--empty booktitle in CasillasDiazSimonetICPhS2015poster
 Warning--empty booktitle in CasillasPPLC2013
 Warning--empty booktitle in RamirezCasillasWSS82016poster
+Warning--empty booktitle in casillasLSRL2017morph
 Warning--empty booktitle in SimonetCasillasDiazHLS2014poster
 Warning--empty booktitle in SimonetCasillasDiazSP72014
 Warning--empty booktitle in SimonetCasillasDiazSP72014poster
 Warning--empty booktitle in SimonetCasillasOsborneSOUNDWORD2016
-You've used 30 entries,
+You've used 36 entries,
             1935 wiz_defined-function locations,
-            641 strings with 10935 characters,
-and the built_in function-call counts, 10097 in all, are:
-= -- 974
-> -- 350
-< -- 21
-+ -- 129
-- -- 109
-* -- 735
-:= -- 1800
-add.period$ -- 105
-call.type$ -- 30
-change.case$ -- 203
-chr.to.int$ -- 18
-cite$ -- 52
-duplicate$ -- 482
-empty$ -- 796
-format.name$ -- 149
-if$ -- 1998
-int.to.chr$ -- 13
+            671 strings with 12226 characters,
+and the built_in function-call counts, 11961 in all, are:
+= -- 1160
+> -- 398
+< -- 27
++ -- 148
+- -- 123
+* -- 857
+:= -- 2132
+add.period$ -- 128
+call.type$ -- 36
+change.case$ -- 240
+chr.to.int$ -- 21
+cite$ -- 63
+duplicate$ -- 580
+empty$ -- 952
+format.name$ -- 171
+if$ -- 2374
+int.to.chr$ -- 16
 int.to.str$ -- 0
-missing$ -- 30
-newline$ -- 152
-num.names$ -- 92
-pop$ -- 246
+missing$ -- 36
+newline$ -- 182
+num.names$ -- 110
+pop$ -- 290
 preamble$ -- 1
-purify$ -- 203
+purify$ -- 240
 quote$ -- 0
-skip$ -- 296
+skip$ -- 357
 stack$ -- 0
-substring$ -- 451
-swap$ -- 8
+substring$ -- 525
+swap$ -- 9
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 180
-warning$ -- 22
-while$ -- 66
+type$ -- 216
+warning$ -- 27
+while$ -- 78
 width$ -- 0
-write$ -- 386
-(There were 22 warnings)
+write$ -- 464
+(There were 27 warnings)

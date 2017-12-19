@@ -13,12 +13,6 @@ Bessett, R.~M., Casillas, J.~V., and {Ram{\'i}rez Mart{\'i}nez}, M. (2017).
   {Y}sidro and {N}ogales.
 \newblock {\em Spanish in Context}, 14(1):78--98.
 
-\bibitem[Bessett et~al., pted]{BessettCasillasRamirezSIC2017}
-Bessett, R.~M., Casillas, J.~V., and {Ram\'irez Mart\'inez}, M. (accepted).
-\newblock Language choice and accommodation: Casual encounters in {S}an
-  {Y}sidro and {N}ogales.
-\newblock {\em Spanish in Context}, 14(1).
-
 \bibitem[Casillas, 2009]{Casillas2009}
 Casillas, J.~V. (2009).
 \newblock El uso de los refranes en {E}l {Q}uijote.
@@ -76,8 +70,8 @@ Casillas, J.~V. (2013b).
 Casillas, J.~V. (2013c).
 \newblock Perception of {E}nglish \textipa{/i/-/I/} tense/lax vowel contrast by
   early learners of {E}nglish.
-\newblock Second Language Research Forum (SRLF). Brigham Young University.
-  Provo, Utah.
+\newblock Second Language Research Forum. Brigham Young University. Provo,
+  Utah.
 
 \bibitem[Casillas, 2014a]{CasillasLaTeX2014}
 Casillas, J.~V. (2014a).
@@ -121,36 +115,64 @@ Casillas, J.~V. (2016).
   language-specific speech perception in adults.
 \newblock Hispanic Linguistic Symposium. Georgetown University, Washinton D.C.
 
-\bibitem[Casillas, 2017a]{casillasSSHL2017}
+\bibitem[Casillas, 2017a]{CasillasPsyPy2017}
 Casillas, J.~V. (2017a).
+\newblock Best practices and tools for pycholinguistic research with
+  bilinguals: A gentle introduction to {PsychoPy2}.
+\newblock Hispanic Linguistics Symposium (workshop). Texas Tech University.
+  Lubbock, Texas.
+
+\bibitem[Casillas, 2017b]{casillasSSHL2017}
+Casillas, J.~V. (2017b).
 \newblock Coronal stop production in {S}panish heritage speakers.
 \newblock 4th National Symposium on Spanish as a Heritage Language. University
   of California at Irvine, Irvine, CA.
 
-\bibitem[Casillas, 2017b]{CasillasHeritagePedagogy2017}
-Casillas, J.~V. (2017b).
+\bibitem[Casillas, 2017c]{CasillasMidd2017}
+Casillas, J.~V. (2017c).
+\newblock Crossing borders? {T}he status and future of {S}panish in the {U.S.}
+\newblock School of Spanish Round Table. Middlebury College, Middlebury, VT.
+
+\bibitem[Casillas, 2017d]{CasillasHeritagePedagogy2017}
+Casillas, J.~V. (2017d).
 \newblock From code-mixing to mixed methods: Strategies for teaching heritage
   language learners in the `{L}2 classroom'.
 \newblock The Language Center Workshop Series in Collaboration with the World
   Language Classroom (workshop). Rutgers University. New Brunswick, New Jersey.
 
-\bibitem[Casillas, 2017c]{casillasLSRL2017}
-Casillas, J.~V. (2017c).
+\bibitem[Casillas, 2017e]{casillasLSRL2017prodperc}
+Casillas, J.~V. (2017e).
 \newblock The longitudinal development of fine-phonetic detail: Production and
   perception of spanish stops in a stateside immersion context.
 \newblock 47th Linguistics Symposium on Romance Languages. University of
   Delaware, Newark, DE.
 
-\bibitem[Casillas, 2017d]{casillasROUTLEDGEreview2017}
-Casillas, J.~V. (2017d).
+\bibitem[Casillas, 2017f]{casillasROUTLEDGEreview2017}
+Casillas, J.~V. (2017f).
 \newblock Reseña de {L}acorte, {M}anel. 2014. {T}he {R}outledge {H}andbook of
   {H}ispanic {A}pplied {L}inguistics. {N}ew {Y}ork: {R}outledge.
 \newblock {\em Infoling}, 2(43).
 
-\bibitem[Casillas, tion]{CasillasDICT}
-Casillas, J.~V. (in preparation).
+\bibitem[Casillas, 2017g]{CasillasPronunciation2017}
+Casillas, J.~V. (2017g).
+\newblock Second language pronunciation and variation in the spanish-speaking
+  world.
+\newblock Department of Modern Languages Invited talk. Washington College.
+  Chestertown, Maryland.
+
+\bibitem[Casillas, ion a]{CasillasDICT}
+Casillas, J.~V. (in preparation{ }a).
 \newblock Community approaches to translating specialized terminology in
   linguistics: lingreference.org.
+
+\bibitem[Casillas, ion b]{CasillasStress}
+Casillas, J.~V. (in preparation{ }b).
+\newblock {L1/L2} cue-weighting strategies in the perception of lexical stress.
+
+\bibitem[Casillas, ion c]{CasillasProdPercStops}
+Casillas, J.~V. (in preparation{ }c).
+\newblock The longitudinal development of fine-phonetic detail: Production and
+  perception of {S}panish bilabial stops in a stateside immersion context.
 
 \bibitem[Casillas and Bessett, 2013]{CasillasBessettDFTable2013}
 Casillas, J.~V. and Bessett, R.~M. (2013).
@@ -194,12 +216,30 @@ Casillas, J.~V. and Simonet, M. (2016).
   contrast in switched-dominance speakers.
 \newblock {\em Second Language Research}, 32(2):171--195.
 
+\bibitem[Casillas and Simonet, ion ]{CasillasSimonetPercNorm}
+Casillas, J.~V. and Simonet, M. (in preparation{ }).
+\newblock Language-specific perceptual normalization: Assessing the double
+  phonemic boundary in simultaneous bilinguals and late second language
+  learners.
+
 \bibitem[Llompart and Casillas, 2016]{LlmopartCasillasJASAEL2016}
 Llompart, M. and Casillas, J.~V. (2016).
 \newblock Lexically driven selective adaptation by ambiguous auditory stimuli
   occurs after limited exposure to adaptors.
 \newblock {\em Journal of the Acoustical Society of America},
   139(5):EL172--EL177.
+
+\bibitem[Lozano et~al., 2017a]{casillasSLRF2017morph}
+Lozano, C., Sagarra, N., and Casillas, J.~V. (2017a).
+\newblock Anticipatory eye-movements in morphological prediction: Evidence from
+  interpreters and bilinguals.
+\newblock Second Language Research Forum. The Ohio State University.
+
+\bibitem[Lozano et~al., 2017b]{casillasHLSa2017morph}
+Lozano, C., Sagarra, N., and Casillas, J.~V. (2017b).
+\newblock The role of stress in morphological anticipation: Evidence from
+  interpreters.
+\newblock Hispanic Linguistics Symposium. Texas Tech University, Lubbock, TX.
 
 \bibitem[{Ram\'irez Mart\'inez} and Casillas,
   2016]{RamirezCasillasWSS82016poster}
@@ -216,6 +256,12 @@ Sagarra, N. and Casillas, J.~V. (2017).
 \newblock 47th Linguistics Symposium on Romance Languages. University of
   Delaware, Newark, DE.
 
+\bibitem[Sagarra and Casillas, pted]{SagarraCasillas}
+Sagarra, N. and Casillas, J.~V. (accepted).
+\newblock Suprasegmental information cues morphological anticipation during
+  {L1/L2} lexical access.
+\newblock {\em Journal of Second Language Studies}.
+
 \bibitem[Sagarra et~al., 2017a]{SagarraCasillasLozanoEriksson2017poster}
 Sagarra, N., Casillas, J.~V., Lozano, C., Eriksson, F., Uscamayta, J., and
   Overton, J. (2017a).
@@ -228,6 +274,11 @@ Sagarra, N., Casillas, J.~V., Lozano, C., and Rodr{\'i}guez, N. (2017b).
 \newblock Eye-tracking reveals bilinguals use stress to predict morphology.
 \newblock 11th annual Perceptual and Cognitive Science Forum. Rutgers
   University, New Brunswick.
+
+\bibitem[Sagarra et~al., 2017c]{casillasHLSb2017morph}
+Sagarra, N., Casillas, J.~V., and Rodr{\'i}guez, N. (2017c).
+\newblock The use of stress in lexical access in early and late bilinguals.
+\newblock Hispanic Linguistics Symposium. Texas Tech University, Lubbock, TX.
 
 \bibitem[Simonet et~al., 2014a]{SimonetCasillasDiazHLS2014poster}
 Simonet, M., Casillas, J.~V., and D\'iaz, Y. (2014a).

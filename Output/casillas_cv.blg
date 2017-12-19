@@ -16,61 +16,70 @@ Warning--empty booktitle in CasillasPsyPy2014
 Warning--empty booktitle in CasillasRmarkdown2015
 Warning--empty booktitle in CasillasQualtrics2015
 Warning--empty booktitle in casillasHLS2016
+Warning--empty booktitle in CasillasPsyPy2017
 Warning--empty booktitle in casillasSSHL2017
+Warning--empty booktitle in CasillasMidd2017
 Warning--empty booktitle in CasillasHeritagePedagogy2017
-Warning--empty booktitle in casillasLSRL2017
+Warning--empty booktitle in casillasLSRL2017prodperc
+Warning--empty booktitle in CasillasPronunciation2017
 Warning--empty journal in CasillasDICT
+Warning--empty journal in CasillasStress
+Warning--empty journal in CasillasProdPercStops
 Warning--empty booktitle in CasillasDiazSimonetHLS2015
 Warning--empty booktitle in CasillasDiazSimonetICPhS2015article
 Warning--empty booktitle in CasillasDiazSimonetICPhS2015poster
 Warning--empty booktitle in CasillasPPLC2013
+Warning--empty journal in CasillasSimonetPercNorm
+Warning--empty booktitle in casillasSLRF2017morph
+Warning--empty booktitle in casillasHLSa2017morph
 Warning--empty booktitle in RamirezCasillasWSS82016poster
 Warning--empty booktitle in casillasLSRL2017morph
 Warning--empty booktitle in SagarraCasillasLozanoEriksson2017poster
 Warning--empty booktitle in SagarraCasillasLozanoRodriguez2017poster
+Warning--empty booktitle in casillasHLSb2017morph
 Warning--empty booktitle in SimonetCasillasDiazHLS2014poster
 Warning--empty booktitle in SimonetCasillasDiazSP72014
 Warning--empty booktitle in SimonetCasillasDiazSP72014poster
 Warning--empty booktitle in SimonetCasillasOsborneSOUNDWORD2016
-You've used 39 entries,
+You've used 48 entries,
             1935 wiz_defined-function locations,
-            687 strings with 13054 characters,
-and the built_in function-call counts, 13244 in all, are:
-= -- 1281
-> -- 472
-< -- 27
-+ -- 175
-- -- 149
-* -- 970
-:= -- 2362
-add.period$ -- 139
-call.type$ -- 39
-change.case$ -- 268
-chr.to.int$ -- 23
-cite$ -- 68
-duplicate$ -- 628
-empty$ -- 1034
-format.name$ -- 200
-if$ -- 2620
-int.to.chr$ -- 17
+            724 strings with 14601 characters,
+and the built_in function-call counts, 16101 in all, are:
+= -- 1556
+> -- 569
+< -- 34
++ -- 218
+- -- 179
+* -- 1166
+:= -- 2872
+add.period$ -- 169
+call.type$ -- 48
+change.case$ -- 328
+chr.to.int$ -- 25
+cite$ -- 86
+duplicate$ -- 769
+empty$ -- 1255
+format.name$ -- 243
+if$ -- 3181
+int.to.chr$ -- 24
 int.to.str$ -- 0
-missing$ -- 39
-newline$ -- 197
-num.names$ -- 119
-pop$ -- 322
+missing$ -- 48
+newline$ -- 239
+num.names$ -- 146
+pop$ -- 401
 preamble$ -- 1
-purify$ -- 268
+purify$ -- 328
 quote$ -- 0
-skip$ -- 384
+skip$ -- 472
 stack$ -- 0
-substring$ -- 580
+substring$ -- 694
 swap$ -- 10
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 234
-warning$ -- 29
-while$ -- 86
+type$ -- 288
+warning$ -- 38
+while$ -- 104
 width$ -- 0
-write$ -- 503
-(There were 29 warnings)
+write$ -- 610
+(There were 38 warnings)

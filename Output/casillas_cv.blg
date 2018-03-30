@@ -1,5 +1,5 @@
-This is BibTeX, Version 0.99d (TeX Live 2016)
-Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
 The top-level auxiliary file: Output/casillas_cv.aux
 The style file: apalike.bst
 Database file #1: publicationsCV.bib
@@ -31,7 +31,10 @@ Warning--empty booktitle in CasillasDiazSimonetICPhS2015poster
 Warning--empty booktitle in CasillasPPLC2013
 Warning--empty journal in CasillasSimonetPercNorm
 Warning--empty booktitle in casillasSLRF2017morph
+Warning--empty booktitle in lozano_sagarra_casillasISB2017morph
 Warning--empty booktitle in casillasHLSa2017morph
+Warning--empty booktitle in lozano_sagarra_casillas_BAP2018
+Warning--empty booktitle in lozano_sagarra_casillasISBPAC2018morph
 Warning--empty booktitle in RamirezCasillasWSS82016poster
 Warning--empty booktitle in casillasLSRL2017morph
 Warning--empty booktitle in SagarraCasillasLozanoEriksson2017poster
@@ -41,45 +44,45 @@ Warning--empty booktitle in SimonetCasillasDiazHLS2014poster
 Warning--empty booktitle in SimonetCasillasDiazSP72014
 Warning--empty booktitle in SimonetCasillasDiazSP72014poster
 Warning--empty booktitle in SimonetCasillasOsborneSOUNDWORD2016
-You've used 48 entries,
+You've used 51 entries,
             1935 wiz_defined-function locations,
-            724 strings with 14601 characters,
-and the built_in function-call counts, 16101 in all, are:
-= -- 1556
-> -- 569
+            740 strings with 15333 characters,
+and the built_in function-call counts, 17227 in all, are:
+= -- 1664
+> -- 623
 < -- 34
-+ -- 218
-- -- 179
-* -- 1166
-:= -- 2872
-add.period$ -- 169
-call.type$ -- 48
-change.case$ -- 328
-chr.to.int$ -- 25
-cite$ -- 86
-duplicate$ -- 769
-empty$ -- 1255
-format.name$ -- 243
-if$ -- 3181
-int.to.chr$ -- 24
++ -- 240
+- -- 197
+* -- 1253
+:= -- 3072
+add.period$ -- 181
+call.type$ -- 51
+change.case$ -- 352
+chr.to.int$ -- 26
+cite$ -- 92
+duplicate$ -- 820
+empty$ -- 1336
+format.name$ -- 264
+if$ -- 3403
+int.to.chr$ -- 26
 int.to.str$ -- 0
-missing$ -- 48
-newline$ -- 239
-num.names$ -- 146
-pop$ -- 401
+missing$ -- 51
+newline$ -- 254
+num.names$ -- 155
+pop$ -- 434
 preamble$ -- 1
-purify$ -- 328
+purify$ -- 352
 quote$ -- 0
-skip$ -- 472
+skip$ -- 498
 stack$ -- 0
-substring$ -- 694
+substring$ -- 732
 swap$ -- 10
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 288
-warning$ -- 38
-while$ -- 104
+type$ -- 306
+warning$ -- 41
+while$ -- 110
 width$ -- 0
-write$ -- 610
-(There were 38 warnings)
+write$ -- 649
+(There were 41 warnings)

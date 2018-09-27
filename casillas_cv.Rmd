@@ -1,0 +1,32 @@
+---
+documentclass: moderncv/moderncv
+classoption: [11pt,letterpaper]
+output:
+  pdf_document:
+    includes:
+      in_header: includes/preamble.tex
+    keep_tex: yes
+    number_sections: no
+    latex_engine: xelatex
+    template: moderncv/my_template.tex
+---
+
+\input{./includes/set_fonts.tex}                <!-- Set fonts ---------------->
+\input{./includes/address_block.tex}            <!-- Adress block ------------->
+\input{./includes/make_title.tex}               <!-- Make title --------------->
+\input{./includes/education.tex}                <!-- Education ---------------->
+\input{./includes/publications.tex}             <!-- Publications ------------->
+\input{./includes/presentations.tex}            <!-- Presentations ------------>
+\input{./includes/academic_accolades.tex}       <!-- Academic accolades ------->
+\input{./includes/research_experience.tex}      <!-- Research experience ------>
+\input{./includes/teaching_experience.tex}      <!-- Teaching experience ------>
+\input{./includes/service_outreach.tex}         <!-- Service/outreach --------->
+\input{./includes/professional_development.tex} <!-- Professional development-->
+\input{./includes/professional_memberships.tex} <!-- Professional memberships-->
+\input{./includes/additional_interests.tex}     <!-- Additional interests ----->
+\input{./includes/footer.tex}                   <!-- Footer ------------------->
+
+
+\bibliographystyle{apalike}
+\nobibliography{bib/publicationsCV}
+

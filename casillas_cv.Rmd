@@ -1,5 +1,5 @@
 ---
-documentclass: moderncv/moderncv
+documentclass: texmf/moderncv
 classoption: [11pt,letterpaper]
 output:
   pdf_document:
@@ -8,13 +8,14 @@ output:
     keep_tex: yes
     number_sections: no
     latex_engine: xelatex
-    template: moderncv/my_template.tex
+    template: texmf/my_template.tex
 ---
 
 \input{./includes/set_fonts.tex}                <!-- Set fonts ---------------->
-\input{./includes/address_block.tex}            <!-- Adress block ------------->
 \input{./includes/make_title.tex}               <!-- Make title --------------->
+\input{./includes/address_block.tex}            <!-- Address block ------------>
 \input{./includes/education.tex}                <!-- Education ---------------->
+\input{./includes/appointments.tex}             <!-- Appointments ------------->
 \input{./includes/publications.tex}             <!-- Publications ------------->
 \input{./includes/presentations.tex}            <!-- Presentations ------------>
 \input{./includes/academic_accolades.tex}       <!-- Academic accolades ------->

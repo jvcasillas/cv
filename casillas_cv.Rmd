@@ -1,5 +1,5 @@
 ---
-documentclass: moderncv
+documentclass: assets/tex/moderncv
 classoption: [11pt,letterpaper]
 output:
   pdf_document:
@@ -10,6 +10,7 @@ output:
     latex_engine: xelatex
     template: assets/tex/my_template.tex
 ---
+
 
 
 ```{r, eval=TRUE, echo=FALSE, cache=FALSE, warning=FALSE, eval=FALSE}

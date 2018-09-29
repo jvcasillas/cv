@@ -1,5 +1,6 @@
 
-\noindent \rule{492pt}{.8 mm}
+\noindent \rule{492pt}{1.5pt}
+\vspace{-0.1in}
 
 \begin{minipage}[t]{2.4in}
  \flushleft 

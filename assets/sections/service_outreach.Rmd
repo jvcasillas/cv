@@ -1,6 +1,8 @@
 
 \section{Service and Outreach}
 
+\vspace{-0.1in}
+
 \subsection{Mentoring of doctoral students}
 
 \cventry{2018}{Julio C{\'e}sar L{\'o}pez Otero}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}

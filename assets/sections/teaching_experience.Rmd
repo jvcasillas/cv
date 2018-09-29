@@ -18,6 +18,8 @@
         \begin{itemize}
             \item[] \small \emph{Spanish Phonology/Phonetics}
             \item[] \small \emph{Data Science for Linguists}
+            \item[] \small \emph{Research Methods: Open Science and Reproducible 
+                                 Reseach in Linguistics}
         \end{itemize}
         }
 \cventry{2014 -- present}

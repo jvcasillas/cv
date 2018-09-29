@@ -1,0 +1,48 @@
+
+\section{Software}
+
+<!--
+- R packages
+  - lingstuff https://www.jvcasillas.com/lingStuff/index.html
+  - untidydata https://www.jvcasillas.com/untidydata/index.html
+  - academicWriteR https://www.jvcasillas.com/academicWriteR/index.html
+-->
+
+\cventry{}{\bibentry{casillas_academicWriteR}}{}{}{}{}
+\cventry{}{\bibentry{casillas_lingStuff}}{}{}{}{}
+\cventry{}{\bibentry{casillas_untidydata}}{}{}{}{}
+
+<!--
+- Shiny apps
+  - spanish distinctive features https://jvcasillas.shinyapps.io/shiny_distinctiveFeatures/
+  - r for linguists https://jvcasillas.shinyapps.io/r_for_linguists/
+  - central limit theorom https://jvcasillas.shinyapps.io/shiny_clt/
+  - bivariate linear regression https://jvcasillas.shinyapps.io/shiny_bivariate_regression/
+  - generalized linear model https://jvcasillas.shinyapps.io/shiny_glm/
+  - crossover https://jvcasillas.shinyapps.io/shiny_crossOver/
+  - power calculator https://jvcasillas.shinyapps.io/shiny_power/
+-->
+
+\cventry{}{\bibentry{casillas_distinctive_features}}{}{}{}{}
+\cventry{}{\bibentry{casillas_r_4_ling}}{}{}{}{}
+\cventry{}{\bibentry{casillas_cental_limit}}{}{}{}{}
+\cventry{}{\bibentry{casillas_blr}}{}{}{}{}
+\cventry{}{\bibentry{casillas_glm}}{}{}{}{}
+\cventry{}{\bibentry{casillas_crossover}}{}{}{}{}
+\cventry{}{\bibentry{casillas_power}}{}{}{}{}
+
+<!--
+- sublime text snippets 
+  - r-snippets
+    - https://www.jvcasillas.com/project/r_snippets/
+    - https://packagecontrol.io/packages/R-snippets
+  - ipa-snippets
+    - https://packagecontrol.io/packages/LaTeX-IPA
+    - https://github.com/jvcasillas/LaTeX-IPA
+-->
+
+\cventry{}{\bibentry{casillas_r_snippets}}{}{}{}{}
+\cventry{}{\bibentry{casillas_latex_ipa}}{}{}{}{}
+
+
+

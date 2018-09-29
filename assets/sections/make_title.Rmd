@@ -1,9 +1,9 @@
 
-% \maketitle 
+<!-- \maketitle -->
 \bigskip
 
-%% Name 
+<!-- Name here -->
 \vspace{.1in}\noindent{\huge {\textsc{Joseph Vincent Casillas}, Ph.D.}}
 \reversemarginpar
 
-% \bigskip
+<!-- \bigskip -->

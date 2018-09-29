@@ -1,0 +1,6 @@
+
+<!-- Path = fonts/, ...  -->
+<!-- Choose fonts for use with xelatex  -->
+\setromanfont[Mapping=tex-text,Numbers=OldStyle,Ligatures=TeX]{Minion Pro} 
+\setsansfont[Mapping=tex-text,Color=black]{Myriad Pro}
+\setmonofont[Mapping=tex-text,Scale=0.9]{Consolas} 

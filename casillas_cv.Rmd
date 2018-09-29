@@ -1,33 +1,61 @@
 ---
-documentclass: texmf/moderncv
+documentclass: moderncv
 classoption: [11pt,letterpaper]
 output:
   pdf_document:
     includes:
-      in_header: includes/preamble.tex
+      in_header: assets/tex/preamble.tex
     keep_tex: yes
     number_sections: no
     latex_engine: xelatex
-    template: texmf/my_template.tex
+    template: assets/tex/my_template.tex
 ---
 
-\input{./includes/set_fonts.tex}                <!-- Set fonts ---------------->
-\input{./includes/make_title.tex}               <!-- Make title --------------->
-\input{./includes/address_block.tex}            <!-- Address block ------------>
-\input{./includes/education.tex}                <!-- Education ---------------->
-\input{./includes/appointments.tex}             <!-- Appointments ------------->
-\input{./includes/publications.tex}             <!-- Publications ------------->
-\input{./includes/presentations.tex}            <!-- Presentations ------------>
-\input{./includes/academic_accolades.tex}       <!-- Academic accolades ------->
-\input{./includes/research_experience.tex}      <!-- Research experience ------>
-\input{./includes/teaching_experience.tex}      <!-- Teaching experience ------>
-\input{./includes/service_outreach.tex}         <!-- Service/outreach --------->
-\input{./includes/professional_development.tex} <!-- Professional development-->
-\input{./includes/professional_memberships.tex} <!-- Professional memberships-->
-\input{./includes/additional_interests.tex}     <!-- Additional interests ----->
-\input{./includes/footer.tex}                   <!-- Footer ------------------->
+
+```{r, eval=TRUE, echo=FALSE, cache=FALSE, warning=FALSE, eval=FALSE}
+library(RefManageR)
+
+fileUrl <- "https://raw.githubusercontent.com/jvcasillas/mybib/master/publicationsCVclean.bib"
+download.file(fileUrl, destfile = "./assets/bib/publicationsCVclean.bib", method = "curl")
+bib <- ReadBib("./assets/bib/publicationsCVclean.bib", check = FALSE)
+```
+
+```{r, child='./assets/sections/set_fonts.Rmd'}
+```
+```{r, child='./assets/sections/make_title.Rmd'}
+```
+```{r, child='./assets/sections/address_block.Rmd'}
+```
+```{r, child='./assets/sections/education.Rmd'}
+```
+```{r, child='./assets/sections/appointments.Rmd'}
+```
+```{r, child='./assets/sections/publications.Rmd'}
+```
+```{r, child='./assets/sections/software.Rmd'}
+```
+```{r, child='./assets/sections/presentations.Rmd'}
+```
+```{r, child='./assets/sections/research_experience.Rmd'}
+```
+```{r, child='./assets/sections/academic_accolades.Rmd'}
+```
+```{r, child='./assets/sections/teaching_experience.Rmd'}
+```
+```{r, child='./assets/sections/service_outreach.Rmd'}
+```
+```{r, child='./assets/sections/professional_development.Rmd'}
+```
+```{r, child='./assets/sections/professional_memberships.Rmd'}
+```
+```{r, child='./assets/sections/additional_interests.Rmd'}
+```
+```{r, child='./assets/sections/footer.Rmd'}
+```
 
 
 \bibliographystyle{apalike}
-\nobibliography{bib/publicationsCV}
+\nobibliography{assets/bib/publicationsCV}
+
+
 

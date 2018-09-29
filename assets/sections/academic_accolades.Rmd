@@ -1,5 +1,7 @@
 \section{Academic Accolades}
 
+\vspace{-0.2in}
+
 \subsection{Grants and Scholarships}
 
 \cventry{2008 -- 2016}
@@ -45,12 +47,12 @@
         {}
         {}
         {Spanish Ministry of Education and Science}
-% \cventry{2004 -- 2006}
-%         {Eunice D. Faber Scholarship}
-%         {}
-%         {}
-%         {}
-%         {Western Washington University, Bellingham, WA}
+\cventry{2004 -- 2006}
+        {Eunice D. Faber Scholarship}
+        {}
+        {}
+        {}
+        {Western Washington University, Bellingham, WA}
 
 \subsection{Awards and Honors}
 
@@ -85,17 +87,17 @@
         {}
         {}
         {}
-% \cventry{2006}
-%         {Outstanding Graduating Senior Nominee}
-%         {Western Washington University}
-%         {Bellingham, WA}
-%         {Department of Psychology}
-%         {}
-%         {}
-% \cventry{2006}
-%         {Outstanding Graduating Senior Nominee}
-%         {Western Washington University}
-%         {Bellingham, WA}
-%         {Department of Modern and Classical Languages}
-%         {}
-%         {}
+\cventry{2006}
+        {Outstanding Graduating Senior Nominee}
+        {Western Washington University}
+        {Bellingham, WA}
+        {Department of Psychology}
+        {}
+        {}
+\cventry{2006}
+        {Outstanding Graduating Senior Nominee}
+        {Western Washington University}
+        {Bellingham, WA}
+        {Department of Modern and Classical Languages}
+        {}
+        {}

@@ -1,13 +1,15 @@
 
+
 % moderncv themes
 \moderncvtheme[black]{classic} % optional argument are 'blue' (default), 
-                                    % 'orange', 'green', 'red', 'purple', 
-                                    % 'grey' and 'roman' (for roman fonts, 
-                                    % instead of sans serif fonts)
+                               % 'orange', 'green', 'red', 'purple', 
+                               % 'grey' and 'roman' (for roman fonts, 
+                               % instead of sans serif fonts)
 
 
-% \usepackage[utf8]{inputenc} %character encoding
-\usepackage{hyperref}
+%\usepackage[utf8]{inputenc} %character encoding
+
+%\usepackage{hyperref}
 \usepackage{url,fancyhdr}
 
 % needed for xelatex to work
@@ -48,11 +50,10 @@
 \familyname{Casillas}
 \title{Assistant Professor}
 \address{Rutgers University \\ 
-         Department of Spanish and Portuguese}
-        {New Brunswick, NJ 08901}
+         Department of Spanish and Portuguese}{New Brunswick, NJ 08901}
 % \mobile{}
 \phone{(848) 932-6930}
-\fax{(520) 621-6104}
+%\fax{(520) 621-6104}
 \email{joseph.casillas@rutgers.edu}
 \homepage{www.jvcasillas.com}
 % \extrainfo{}
@@ -77,4 +78,20 @@
  {\fontfamily{cm#1}\tipaencoding}
  {}
 
+% Adjust section rule thickness
+% Decrease vertical distance after section header
+\makeatletter
+\renewcommand{\section}[1]
+{\vspace*{2.5ex \@plus 1ex \@minus .2ex}%
+\phantomsection{}% reset the anchor for hyperrefs
+\addcontentsline{toc}{part}{#1}%
+\parbox[m]{\hintscolumnwidth}{\raggedleft  \hintfont{\color{sectionrectanglecolor}\rule{\hintscolumnwidth}{1.5pt}}}%<- auf 11pt geaendert
+\hspace{\separatorcolumnwidth}%
+\parbox[m]{\maincolumnwidth}{\sectionstyle{#1}}\\[0ex]}
+\makeatother
 
+% hanging bib
+\nobibliography*
+\newcommand\hangbibentry[1]{%
+    \hangpara{1.5em}{1}\bibentry{#1}.\par %{indent}{afterline}
+}

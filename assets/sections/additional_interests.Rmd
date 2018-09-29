@@ -1,8 +1,7 @@
 
 \section{Additional Interests}
 
-\definecolor{UAred}{HTML}{000000}
-{\color{UAred} Languages} \vspace{-.18in} \\
+Languages \vspace{-.18in}  
 \cventry{}{English}{}{}{}{}
 \cventry{}{Spanish}{}{}{}{}
 \cventry{}{French}{}{}{}{}
@@ -10,15 +9,16 @@
 \cventry{}{Latin}{}{}{}{}
 
 
-{\color{UAred} Programing\\ Languages} \vspace{-.37in} \\
+Programing  
+Languages \vspace{-.37in}  
 \cventry{}{R}{}{}{}{}
 \cventry{}{Python}{}{}{}{}
-\cventry{}{HTML}{}{}{}{}
+\cventry{}{HTML/CSS}{}{}{}{}
 \cventry{}{\LaTeX}{}{}{}{}
 \cventry{}{PHP}{}{}{}{}
  
 
-{\color{UAred} Technology} \\
+Technology  
 
 \begin{tabular}{p{1.15in}lp{.7in}l}
    & Mac OS X             & & SPSS      \\ 

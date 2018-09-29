@@ -1,5 +1,7 @@
 \section{Presentations}
 
+\vspace{-0.2in}
+
 \subsection{Conference Presentations}
 
 \cventry{}{\hangbibentry{lozano_sagarra_casillasISBPAC2018morph}}{}{}{}{}

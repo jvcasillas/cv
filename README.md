@@ -7,10 +7,6 @@ To add:
 
 
 - Research
-	- jphon article (published)
-	- language and speech (under review)
-	- BLC (under review)
-	- Stop production (in prep)
 - Projects
 	- lingreference.org
 	- lingStuff
@@ -27,3 +23,18 @@ To add:
 - journal reviews
 	- langauges 265622
 	- 
+- software
+  - bivariate linear regression https://jvcasillas.shinyapps.io/shiny_bivariate_regression/
+  - central limit theorom https://jvcasillas.shinyapps.io/shiny_clt/
+  - crossover https://jvcasillas.shinyapps.io/shiny_crossOver/
+  - generalized linear model https://jvcasillas.shinyapps.io/shiny_glm/
+  - power calculator https://jvcasillas.shinyapps.io/shiny_power/
+  - r-snippets 
+    - https://www.jvcasillas.com/project/r_snippets/
+    - https://packagecontrol.io/packages/R-snippets
+  - r for linguists https://jvcasillas.shinyapps.io/r_for_linguists/
+  - lingstuff https://www.jvcasillas.com/lingStuff/index.html
+  - spanish distinctive features https://jvcasillas.shinyapps.io/shiny_distinctiveFeatures/
+  - untidydata https://www.jvcasillas.com/untidydata/index.html
+  - academicWriteR https://www.jvcasillas.com/academicWriteR/index.html
+

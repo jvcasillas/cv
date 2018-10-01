@@ -5,19 +5,20 @@ output:
   pdf_document:
     includes:
       in_header: assets/tex/preamble.tex
-    keep_tex: yes
+    keep_tex: no
     number_sections: no
     latex_engine: xelatex
     template: assets/tex/my_template.tex
 ---
 
 
-
 ```{r, eval=TRUE, echo=FALSE, cache=FALSE, warning=FALSE, eval=FALSE}
 library(RefManageR)
 
-fileUrl <- "https://raw.githubusercontent.com/jvcasillas/mybib/master/publicationsCVclean.bib"
-download.file(fileUrl, destfile = "./assets/bib/publicationsCVclean.bib", method = "curl")
+fileUrl <- "http://bit.ly/my_bib"
+download.file(fileUrl, 
+              destfile = "./assets/bib/publicationsCVclean.bib", 
+              method = "curl")
 bib <- ReadBib("./assets/bib/publicationsCVclean.bib", check = FALSE)
 ```
 
@@ -57,6 +58,5 @@ bib <- ReadBib("./assets/bib/publicationsCVclean.bib", check = FALSE)
 
 \bibliographystyle{apalike}
 \nobibliography{assets/bib/publicationsCV}
-
 
 

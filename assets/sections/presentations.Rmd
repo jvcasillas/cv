@@ -45,6 +45,9 @@
 
 \subsection{Invited Talks/Workshops}
 
+\cventry{}{\hangbibentry{Casillas_AMWclassA_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{Casillas_AMWclassB_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{Casillas_MIDD_LS_2018}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasPronunciation2017}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasPsyPy2017}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasHeritagePedagogy2017}}{}{}{}{}

@@ -5,7 +5,10 @@
 
 \subsection{Mentoring of doctoral students}
 
-\cventry{2018}{Julio C{\'e}sar L{\'o}pez Otero}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
+
+\cventry{2018}{Tadjou-N'Dine Mamadou Yacoubou}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
+\cventry{}{Nathan Koser}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
+\cventry{}{Julio C{\'e}sar L{\'o}pez Otero}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Michele Goldin}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Esther Hur}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{2017}{Cristina Lozano}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
@@ -115,7 +118,7 @@
         {}
 
 
-\subsection{Organizations and Committees Volunteerism}
+\subsection{Organizations and Committees}
 
 \cventry{2017}
         {Chair, Phonetics/Phonology}

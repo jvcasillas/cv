@@ -20,10 +20,10 @@
 \hfill
 \begin{minipage}[t]{1.7in}
   \flushright 
-  Google scholar: \href{www.google.com}{\aiGoogleScholar} \\ 
-  ResearchGate: \href{www.researchgate.com}{\aiResearchGate} \\
-  @jvcasillas \href{www.github.com/jvcasillas}{\faGithub} \\ 
-  @jvcasill \href{www.twitter.com/jvcasill}{\faTwitter}
+  Google scholar: \href{http://bit.ly/casillas_google_scholar}{\aiGoogleScholar} \\ 
+  ResearchGate: \href{http://bit.ly/casillas_researchgate}{\aiResearchGate} \\
+  @jvcasillas \href{https://www.github.com/jvcasillas}{\faGithub} \\ 
+  @jvcasill \href{https://www.twitter.com/jvcasill}{\faTwitter}
 \end{minipage}
 
 \vspace{0.1in}

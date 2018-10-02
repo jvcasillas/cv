@@ -2,21 +2,21 @@
 \section{Appointments}
 
 \cventry{2016 -- Present}
-        {Rutgers University, New Brunswick}
         {\mytitle}
+        {Rutgers University, New Brunswick}
         {}
         {}
         {Bilingualism \& Second Language Acquisition, 
         Department of Spanish and Portuguese}
 \cventry{2013 -- Present}
+        {Visiting Faculty Member}
         {Middlebury College}
-        {Seasonal Faculty}
         {}
         {}
         {Language Schools -- School of Spanish}
 \cventry{2010 -- 2016}
-        {University of Arizona}
         {Graduate Associate}
+        {University of Arizona}
         {}
         {}
         {Teaching -- Department of Spanish and Portuguese \\

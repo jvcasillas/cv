@@ -6,12 +6,5 @@ all : $(PDF_FILE)
 clean : 
 	rm -f $(PDF_FILE) 
 
-
 %.pdf : %.Rmd
 	Rscript -e 'rmarkdown::render("$<")'
-
-
-
-#export TEXINPUTS=".:./assets/tex:"
-
-

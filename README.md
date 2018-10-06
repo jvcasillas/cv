@@ -1,10 +1,12 @@
-academic_cv
+Academic CV
 ===========
 
-Version controlled cv
+## Overview
 
-To add:
+Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown. 
 
+
+## To add:
 
 - Research
 - Presentations

@@ -8,8 +8,11 @@ To add:
 
 - Research
 - Presentations
-- journal reviews
+  - HLS 2018
+    - glide affiliation
+    - something eyetracking
+- reviews
 	- langauges 265622
-	- 
+	- Heritage phonetics/phonology chapter
 - Service
   - addmissions committee

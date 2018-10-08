@@ -1,4 +1,4 @@
-academic_cv
+Academic CV
 ===========
 
 Version controlled cv
@@ -13,6 +13,7 @@ To add:
     - something eyetracking
 - reviews
 	- langauges 265622
-	- Heritage phonetics/phonology chapter
+	- Routledge Edited Volume: El español como lengua de herencia
+	  - Chapter: La fonética y fonología del español como lengua heredada
 - Service
   - addmissions committee

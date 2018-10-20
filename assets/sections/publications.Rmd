@@ -40,4 +40,7 @@
 
 \cventry{}{\hangbibentry{CasillasProdSemantic}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasStress}}{}{}{}{}
+\cventry{}{\hangbibentry{SagarraCasillasETL2}}{}{}{}{}
+\cventry{}{\hangbibentry{SagarraCasillasETheritage}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasDICT}}{}{}{}{}
+

@@ -61,4 +61,3 @@ bib <- ReadBib("./assets/bib/publicationsCVclean.bib", check = FALSE)
 
 \bibliographystyle{apalike}
 \nobibliography{assets/bib/publicationsCV}
-

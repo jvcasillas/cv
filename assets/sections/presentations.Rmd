@@ -4,6 +4,8 @@
 
 \subsection{Conference Presentations}
 
+\cventry{}{\hangbibentry{colina_diaz_casillas_HLS2018_glide}}{}{}{}{}
+\cventry{}{\hangbibentry{lozano_sagarra_casillasHLS2018morph}}{}{}{}{}
 \cventry{}{\hangbibentry{lozano_sagarra_casillasISBPAC2018morph}}{}{}{}{}
 \cventry{}{\hangbibentry{lozano_sagarra_casillasISB2017morph}}{}{}{}{}
 \cventry{}{\hangbibentry{casillasHLSa2017morph}}{}{}{}{}

@@ -41,6 +41,12 @@
         {}
         {}
         {University of Arizona, Tucson, AZ}
+\cventry{2009}
+        {Betty Jones Scholarship, \$7,260.00}
+        {}
+        {}
+        {}
+        {School of French, Middlebury College}
 \cventry{2006 -- 2008}
         {North American Language and Culture Scholarship}
         {}

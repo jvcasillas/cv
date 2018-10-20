@@ -5,22 +5,36 @@
 
 \subsection{Mentoring of doctoral students}
 
-
 \cventry{2018}{Tadjou-N'Dine Mamadou Yacoubou}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
+\cventry{}{Cristina Lozano Arg\"uelles}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{}{Michele Goldin}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{}{Julio C{\'e}sar L{\'o}pez Otero}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{}{Esther Hur}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Nathan Koser}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
 \cventry{}{Julio C{\'e}sar L{\'o}pez Otero}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Michele Goldin}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Esther Hur}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{2017}{Cristina Lozano}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Eileen Blum}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
+\cventry{}{Gwendolyn Rehrig}{Member of Dissertation committee}{}{}{Psychology, Rutgers University}
 
 
+\subsection{Mentoring of undergraduate students}
+
+\cventry{2018 -- 2019}{Maxine Ellicott}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Pre-med, Rutgers University}
+\cventry{}{Hamail Iqbal}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Rutgers University}
+\cventry{}{Jessica Philip}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Statistics, Rutgers University}
+\cventry{2017 -- 2018}{Jessyca Campos}{Independent Study}{}{}{How syllable weight influences the perception of stress in second language learners of Spanish \\ Linguistics, Rutgers University}
+\cventry{}{Tiffany Calvache}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Molecular Biology and Biochemistry, Rutgers University}
+\cventry{}{Shuxiang Michelle Fan}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Linguistic Anthropology, Rutgers University}
 
 
 \subsection{Manuscript Reviewer}
 
 \cventry{2018}{Language and Speech.}{}{}{}{}
 \cventry{}{Bilingualism: Language and Cognition.}{}{}{}{}
+\cventry{}{Langauges.}{}{}{}{}
+\cventry{}{Routledge Edited Volume: El español como lengua de herencia.}{}{}{}{}
 \cventry{2017}{Hispanic Studies Review.}{}{}{}{}
 \cventry{}{Language and Speech.}{}{}{}{}
 \cventry{}{Bilingualism: Language and Cognition.}{}{}{}{}
@@ -80,14 +94,38 @@
 
 \subsection{Departmental Committees and Administrative Assignments}
 
+\cventry{2018 -- 2019}
+        {Graduate Admissions Committee}
+        {}
+        {}
+        {}
+        {Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{2018 -- ongoing}
+        {Language Engagement Research Advisory Group}
+        {}
+        {}
+        {}
+        {Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
 \cventry{2017 -- 2018}
         {Ad-hoc Committee on Graduate Student Grants and Proposals}
         {}
         {}
         {}
         {Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{2017 -- 2018}
+        {Department Website Improvement Committee}
+        {}
+        {}
+        {}
+        {Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
 \cventry{2016 -- 2017}
         {Undergraduate Curriculum Committee}
+        {}
+        {}
+        {}
+        {Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{2016 -- present}
+        {School of Arts and Sciences Honors Program}
         {}
         {}
         {}
@@ -104,13 +142,13 @@
         {}
         {}
         {Department of Spanish and Portuguese, University of Arizona, Tucson, AZ}
-\cventry{2011--2014}
+\cventry{2011 -- 2014}
         {Co-technology Director}
         {}
         {}
         {}
         {Department of Spanish and Portuguese Film Festival, University of Arizona, Tucson, AZ.}
-\cventry{2011--2012}
+\cventry{2011 -- 2012}
         {Webmaster}
         {Divergencias: Revista de estudios ling\"u\'isticos y literarios}
         {}

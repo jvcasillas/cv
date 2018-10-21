@@ -16,6 +16,8 @@
 \cventry{}{\hangbibentry{casillasSSHL2017}}{}{}{}{}
 \cventry{}{\hangbibentry{casillasHLS2016}}{}{}{}{}
 \cventry{}{\hangbibentry{SimonetCasillasOsborneSOUNDWORD2016}}{}{}{}{}
+\cventry{}{\hangbibentry{SimonetCasillasOsborneIPSP2016}}{}{}{}{}
+\cventry{}{\hangbibentry{SimonetCasillasOsborneSLAT2016}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasDiazSimonetHLS2015}}{}{}{}{}
 \cventry{}{\hangbibentry{BessettCasillasMartinezWSS72014}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasSLRF2013}}{}{}{}{}

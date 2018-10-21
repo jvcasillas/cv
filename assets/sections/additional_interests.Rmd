@@ -2,27 +2,34 @@
 \section{Additional Interests}
 
 Languages \vspace{-.18in}  
-\cventry{}{English}{}{}{}{}
-\cventry{}{Spanish}{}{}{}{}
-\cventry{}{French}{}{}{}{}
-\cventry{}{Portuguese}{}{}{}{}
-\cventry{}{Latin}{}{}{}{}
+
+\begin{tabular}{p{1.15in}lp{.7in}l}
+  & English & & Portuguese \\
+  & Spanish & & Italian    \\
+  & French  & & Latin      \\ [2.5ex]
+\end{tabular}
+
+
+\vspace{.2in}
 
 
 Programing  
 Languages \vspace{-.37in}  
-\cventry{}{R}{}{}{}{}
-\cventry{}{Python}{}{}{}{}
-\cventry{}{HTML/CSS}{}{}{}{}
-\cventry{}{\LaTeX}{}{}{}{}
-\cventry{}{PHP}{}{}{}{}
- 
 
-Technology  
+\begin{tabular}{p{1.15in}lp{.6in}l}
+  & R        & & \LaTeX \\
+  & Python   & & PHP    \\
+  & HTML/CSS & &        \\ [2.5ex]
+\end{tabular}
 
-\begin{tabular}{p{1.15in}lp{.7in}l}
-   & Mac OS X             & & SPSS      \\ 
-   & Windows              & & R/RStudio \\ 
-   & Linux                & & Praat     \\ 
-   & Adobe Creative Suite & & PsychoPy  \\ [2.5ex]
+
+\vspace{.2in}
+
+
+Technology \vspace{-.18in}  
+
+\begin{tabular}{p{1.15in}lp{.7in}lp{.7in}l}
+   & Mac OS X             & & SPSS      & & Praat                \\ 
+   & Windows              & & R/RStudio & & PsychoPy             \\ 
+   & Linux                & & Jasp      & & Adobe Creative Suite \\ [2.5ex]
 \end{tabular}

@@ -43,4 +43,3 @@
 \cventry{}{\hangbibentry{SagarraCasillasETL2}}{}{}{}{}
 \cventry{}{\hangbibentry{SagarraCasillasETheritage}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasDICT}}{}{}{}{}
-

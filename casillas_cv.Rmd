@@ -58,6 +58,5 @@ bib <- ReadBib("./assets/bib/publicationsCVclean.bib", check = FALSE)
 ```{r, child='./assets/sections/footer.Rmd'}
 ```
 
-
 \bibliographystyle{apalike}
 \nobibliography{assets/bib/publicationsCV}

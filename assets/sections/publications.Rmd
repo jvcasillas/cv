@@ -32,8 +32,8 @@
 \subsection{Manuscripts Under Review}
 
 \cventry{}{\hangbibentry{CasillasProdPercStops}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasProdStops}}{}{}{}{}
 \cventry{}{\hangbibentry{SagarraLozanoCasillas_blc2018}}{}{}{}{}
+\cventry{}{\hangbibentry{CasillasProdStops}}{}{}{}{}
 
 
 \subsection{Manuscripts in Preparation}

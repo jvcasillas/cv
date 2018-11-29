@@ -15,5 +15,7 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
 - Service
   - Reviews
   - Committees
+  - workshops
+    - job series workshop
 
 

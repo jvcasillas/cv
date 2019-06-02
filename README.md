@@ -1,7 +1,7 @@
 
 # Academic CV
 
-Last update: 2019-04-09
+Last update: 2019-06-02
 
 ## Overview
 
@@ -15,13 +15,16 @@ RMarkdown.
       - Presentations
   - Teaching
       - 911 challenge course/grant ($1000)
+      - OAT grant ($1000)
   - Service
       - Reviews
           - Studies in Hispanic and Lusophone Linguistics, 2019
           - abstract reviewer HLS 2019
-          - Ad-hoc reviews for JPhon and ??? (check folder)
+          - Ad-hoc reviews for JPhon and LAB
+          - Ad-hoc reviews for JASA and Languages
       - Committees
           - Grad admissions committee
+          - QP committee Nate and Dine
       - workshops
           - job series workshop (Fall 2018)
   - Misc

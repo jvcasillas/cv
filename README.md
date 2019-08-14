@@ -1,7 +1,7 @@
 
 # Academic CV
 
-Last update: 2019-06-02
+Last update: 2019-08-14
 
 ## Overview
 
@@ -12,7 +12,12 @@ RMarkdown.
 
   - Research
       - Publications
+          - ICPhS
+          - Language and Speech
       - Presentations
+          - ICPhS
+          - ISB
+          - HLS
   - Teaching
       - 911 challenge course/grant ($1000)
       - OAT grant ($1000)
@@ -22,10 +27,12 @@ RMarkdown.
           - abstract reviewer HLS 2019
           - Ad-hoc reviews for JPhon and LAB
           - Ad-hoc reviews for JASA and Languages
+          - Ad-hoc review for Language Learning
       - Committees
           - Grad admissions committee
           - QP committee Nate and Dine
+          - Grad admissions committee again
       - workshops
-          - job series workshop (Fall 2018)
+          - job series workshop (Fall 2018, Fall 2019)
   - Misc
       - Associate Faculty member of the Department of Linguistics

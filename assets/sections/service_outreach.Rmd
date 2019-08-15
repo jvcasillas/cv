@@ -5,12 +5,14 @@
 
 \subsection{Mentoring of doctoral students}
 
-\cventry{2018}{Tadjou-N'Dine Mamadou Yacoubou}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
-\cventry{}{Cristina Lozano Arg\"uelles}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{2019}{Tadjou-N'Dine Mamadou Yacoubou}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
+\cventry{}{Nathan Koser}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
+\cventry{}{Laura Fern\'andez Arroyo}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{}{Nicole Rodr\'iguez}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{2018}{Cristina Lozano Arg\"uelles}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Michele Goldin}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Julio C{\'e}sar L{\'o}pez Otero}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Esther Hur}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
-\cventry{}{Nathan Koser}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
 \cventry{}{Julio C{\'e}sar L{\'o}pez Otero}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Michele Goldin}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Esther Hur}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
@@ -31,6 +33,13 @@
 
 \subsection{Manuscript Reviewer}
 
+\cventry{2019}{Language and Speech.}{}{}{}{}
+\cventry{}{Studies in Hispanic and Lusiphone Linguistics.}{}{}{}{}
+\cventry{}{Journal of Phonetics.}{}{}{}{}
+\cventry{}{Linguistic Approaches to Bilingualism.}{}{}{}{}
+\cventry{}{Journal of the Acoustical Society of America.}{}{}{}{}
+\cventry{}{Languages.}{}{}{}{}
+\cventry{}{Language Learning.}{}{}{}{}
 \cventry{2018}{Language and Speech.}{}{}{}{}
 \cventry{}{Bilingualism: Language and Cognition.}{}{}{}{}
 \cventry{}{Langauges.}{}{}{}{}

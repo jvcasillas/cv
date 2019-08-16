@@ -5,7 +5,7 @@ output:
   pdf_document:
     includes:
       in_header: assets/tex/preamble.tex
-    keep_tex: yes
+    keep_tex: no
     number_sections: no
     latex_engine: xelatex
     template: assets/tex/my_template.tex
@@ -60,4 +60,3 @@ bib <- ReadBib("./assets/bib/publicationsCVclean.bib", check = FALSE)
 
 \bibliographystyle{apalike}
 \nobibliography{assets/bib/publicationsCV}
-

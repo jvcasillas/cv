@@ -1,11 +1,11 @@
 ---
-documentclass: assets/tex/moderncv
+documentclass: moderncv
 classoption: [11pt,letterpaper]
 output:
   pdf_document:
     includes:
       in_header: assets/tex/preamble.tex
-    keep_tex: no
+    keep_tex: yes
     number_sections: no
     latex_engine: xelatex
     template: assets/tex/my_template.tex
@@ -15,7 +15,7 @@ output:
 Sys.setenv(TEXINPUTS = ".:./assets/tex:")
 ```
 
-```{r, eval=TRUE, echo=FALSE, cache=FALSE, warning=FALSE, eval=FALSE}
+```{r, 'download-refs', echo=F, cache=F, warning=F, eval=F}
 library(RefManageR)
 
 fileUrl <- "http://bit.ly/my_bib"

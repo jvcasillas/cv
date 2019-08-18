@@ -1,51 +1,11 @@
 
 \section{Research Experience}
 
-\cventry{2018}
-        {Principle Investigator}
-        {Rutgers Applied Phonetics Group: \href{https://rap-group.github.io/}{\faLink}}
-        {}
-        {}
-        {Rutgers University, New Brunswick, NJ}
-\cventry{2016 -- present}
-        {Member}
-        {Bilingualism and Second Language Acquisition Group}
-        {}
-        {}
-        {Rutgers University, New Brunswick, NJ}
-\cventry{2016 -- present}
-        {Affiliated member}
-        {Phonology and Field Research lab}
-        {}
-        {}
-        {Rutgers University, New Brunswick, NJ}
-\cventry{2015 -- present}
-        {Co-Principle Investigator}
-        {Program Articulation and Language Acquisition Research (PArLAR)}
-        {}
-        {}
-        {Middlebury College, Middlebury, VT}
-\cventry{2011 -- 2016}
-        {Research Assistant}
-        {Arizona Applied Phonetics Laboratory}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ, Lab director: Dr. Miquel Simonet}
-\cventry{Spring 2012}
-        {Research Assistant}
-        {Spanish Heritage Language Program}
-        {}
-        {}
-        {University of Arizona. Tucson, AZ, Director: Dr. Sara Beaudrie}
-\cventry{Fall 2011}
-        {Assistant to the Director}
-        {Spanish Heritage Language Program}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ, Director: Dr. Sara Beaudrie}
-\cventry{2010}
-        {Phonetics Lab Assistant}
-        {Spanish High Council of Scientific Investigation (CSIC)}
-        {}
-        {}
-        {Center of Social and Human Sciences, Madrid, Spain, Director: Mar\'ia Juana Gil Fern\'andez}
+\cventry{2018}{Principle Investigator}{Rutgers Applied Phonetics Group: \href{https://rap-group.github.io/}{\faLink}}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{2016 -- present}{Member}{Bilingualism and Second Language Acquisition Group}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{2016 -- present}{Affiliated member}{Phonology and Field Research lab}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{2015 -- present}{Co-Principle Investigator}{Program Articulation and Language Acquisition Research (PArLAR)}{}{}{Middlebury College, Middlebury, VT}
+\cventry{2011 -- 2016}{Research Assistant}{Arizona Applied Phonetics Laboratory}{}{}{University of Arizona, Tucson, AZ, Lab director: Dr. Miquel Simonet}
+\cventry{Spring 2012}{Research Assistant}{Spanish Heritage Language Program}{}{}{University of Arizona. Tucson, AZ, Director: Dr. Sara Beaudrie}
+\cventry{Fall 2011}{Assistant to the Director}{Spanish Heritage Language Program}{}{}{University of Arizona, Tucson, AZ, Director: Dr. Sara Beaudrie}
+\cventry{2010}{Phonetics Lab Assistant}{Spanish High Council of Scientific Investigation (CSIC)}{}{}{Center of Social and Human Sciences, Madrid, Spain, Director: Mar\'ia Juana Gil Fern\'andez}

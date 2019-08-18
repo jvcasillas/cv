@@ -28,7 +28,6 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
   - OAT grant ($1000)
 - Service
   - Reviews
-    - abstract reviewer HLS 2019
   - Committees
     - Grad admissions committee
     - Grad admissions committee again

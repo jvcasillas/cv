@@ -4,107 +4,23 @@
 
 \subsection{Grants and Scholarships}
 
-\cventry{2008 -- 2016}
-        {Comanche Nation Department of Higher Education Scholarship}
-        {}
-        {}
-        {}
-        {}
-        {}
-\cventry{2015}
-        {Karen Smith Endowment Scholarship}
-        {}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ}
-\cventry{2015}
-        {Graduate and Professional Student Council Research and Project Grant}
-        {\newline Awarded \$1,666.00 for professional recording equipment}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ}
-\cventry{2014}
-        {Graduate and Professional Student Council Travel Grant}
-        {\newline Awarded for travel to the Hispanic Linguistics Symposium (HLS)}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ}
-\cventry{2014}
-        {Second Language Acquisition and Teaching Travel Grant}
-        {\newline Awarded for travel to the Hispanic Linguistics Symposium (HLS)}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ}
-\cventry{2013}
-        {Second Language Acquisition and Teaching Travel Grant}
-        {\newline Awarded for travel to the Second Language Research Forum (SLRF)}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ}
-\cventry{2009}
-        {Betty Jones Scholarship, \$7,260.00}
-        {}
-        {}
-        {}
-        {School of French, Middlebury College}
-\cventry{2006 -- 2008}
-        {North American Language and Culture Scholarship}
-        {}
-        {}
-        {}
-        {Spanish Ministry of Education and Science}
-\cventry{2004 -- 2006}
-        {Eunice D. Faber Scholarship}
-        {}
-        {}
-        {}
-        {Western Washington University, Bellingham, WA}
+\cventry{2008 -- 2016}{Comanche Nation Department of Higher Education Scholarship}{}{}{}{}{} 
+\cventry{2015}{Karen Smith Endowment Scholarship}{}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2015}{Graduate and Professional Student Council Research and Project Grant}{\newline Awarded \$1,666.00 for professional recording equipment}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2014}{Graduate and Professional Student Council Travel Grant}{\newline Awarded for travel to the Hispanic Linguistics Symposium (HLS)}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2014}{Second Language Acquisition and Teaching Travel Grant}{\newline Awarded for travel to the Hispanic Linguistics Symposium (HLS)}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2013}{Second Language Acquisition and Teaching Travel Grant}{\newline Awarded for travel to the Second Language Research Forum (SLRF)}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2009}{Betty Jones Scholarship, \$7,260.00}{}{}{}{School of French, Middlebury College}
+\cventry{2006 -- 2008}{North American Language and Culture Scholarship}{}{}{}{Spanish Ministry of Education and Science}
+\cventry{2004 -- 2006}{Eunice D. Faber Scholarship}{}{}{}{Western Washington University, Bellingham, WA}
 
 \subsection{Awards and Honors}
 
-\cventry{2015}
-        {College of Humanities Fellowship}
-        {}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ}
-\cventry{2013}
-        {College of Humanities Fellowship}
-        {}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ}
-\cventry{2010 -- 2011}
-        {College of Humanities Fellowship}
-        {}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ}
-\cventry{2010 -- 2011}
-        {Graduate College Fellowship}
-        {}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ}
-\cventry{2009}
-        {Outstanding Graduate Student}
-        {Middlebury College}
-        {Middlebury, VT}
-        {}
-        {}
-        {}
-\cventry{2006}
-        {Outstanding Graduating Senior Nominee}
-        {Western Washington University}
-        {Bellingham, WA}
-        {Department of Psychology}
-        {}
-        {}
-\cventry{2006}
-        {Outstanding Graduating Senior Nominee}
-        {Western Washington University}
-        {Bellingham, WA}
-        {Department of Modern and Classical Languages}
-        {}
-        {}
+\cventry{2015}{College of Humanities Fellowship}{}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2013}{College of Humanities Fellowship}{}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2010 -- 2011}{College of Humanities Fellowship}{}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2010 -- 2011}{Graduate College Fellowship}{}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2009}{Outstanding Graduate Student}{Middlebury College}{Middlebury, VT}{}{}{}
+\cventry{2006}{Outstanding Graduating Senior Nominee}{Western Washington University}{Bellingham, WA}{Department of Psychology}{}{}
+\cventry{2006}{Outstanding Graduating Senior Nominee}{Western Washington University}{Bellingham, WA}{Department of Modern and Classical Languages}{}{}
 

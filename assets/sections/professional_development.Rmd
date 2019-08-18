@@ -1,19 +1,8 @@
 
 \section{Professional Development}
 
-\cventry{Fall 2015}
-        {Study Abroad Program Director}
-        {University of Alcalá (Franklin Institute)}
-        {}
-        {}
-        {Alcalá de Henares, Spain}
-        {}
-\cventry{2014 -- 2015}
-        {Data Science Specialization}
-        {Johns Hopkins University}
-        {coursera.org}
-        {}
-        {Instructors: Jeff Leek, PhD, Roger D. Peng, PhD \& Brian Caffo, PhD\\
+\cventry{Fall 2015}{Study Abroad Program Director}{University of Alcalá (Franklin Institute)}{}{}{Alcalá de Henares, Spain}{}
+\cventry{2014 -- 2015}{Data Science Specialization}{Johns Hopkins University}{coursera.org}{}{Instructors: Jeff Leek, PhD, Roger D. Peng, PhD \& Brian Caffo, PhD\\
         Courses completed (with distinction):
         \begin{itemize}
           \item[] \small \emph{The Data Scientist’s Toolbox}.\vspace{-.03in}
@@ -26,40 +15,8 @@
           \item[] \small \emph{Practical Machine Learning}.\vspace{-.03in}
           \item[] \small \emph{Developing Data Products}.
         \end{itemize}}
-        {}
-\cventry{2013 -- 2016}
-        {Instructional Technology Graduate Liaison}
-        {University of Arizona}{Tucson, AZ}
-        {}
-        {College of Humanities Instructional Computing}
-        {}
-        {}
-\cventry{Summer 2013}
-        {Bilingual Assistant}
-        {Middlebury College}
-        {Middlebury, VT}
-        {}
-        {Pronunciation Clinic (co-teaching undergraduate workshop) \\ 
-        Assistant to Dr. Armin Schwegler}
-\cventry{Summer 2012}
-        {Bilingual Assistant}
-        {Middlebury College}
-        {Middlebury, VT}
-        {}
-        {Introduction to Spanish Phonetics (graduate course)\\ 
-        Pronunciation Clinic (undergraduate workshop), Assistant to Dr. Luis 
-        Ortiz L\'opez}
-\cventry{2008}
-        {Diploma of Spanish as a Foreign Language (DELE)}
-        {Instituto Cervantes}
-        {Spain}
-        {}
-        {Level Superior (C2) in accordance with the Common European Framework 
-        of Reference for Languages (CEFR)}
-\cventry{2006}
-        {Washington Association of Foreign Language Teachers regional conference}
-        {Bellingham, WA}
-        {}
-        {}
-        {Representative for Foreign Language Associates Northwest (FLAN)}
-        {}
+\cventry{2013 -- 2016}{Instructional Technology Graduate Liaison}{University of Arizona}{Tucson, AZ}{}{College of Humanities Instructional Computing}{}{}
+\cventry{Summer 2013}{Bilingual Assistant}{Middlebury College}{Middlebury, VT}{}{Pronunciation Clinic (co-teaching undergraduate workshop) \\ Assistant to Dr. Armin Schwegler}
+\cventry{Summer 2012}{Bilingual Assistant}{Middlebury College}{Middlebury, VT}{}{Introduction to Spanish Phonetics (graduate course)\\ Pronunciation Clinic (undergraduate workshop), Assistant to Dr. Luis Ortiz L\'opez}
+\cventry{2008}{Diploma of Spanish as a Foreign Language (DELE)}{Instituto Cervantes}{Spain}{}{Level Superior (C2) in accordance with the Common European Framework of Reference for Languages (CEFR)}
+\cventry{2006}{Washington Association of Foreign Language Teachers regional conference}{Bellingham, WA}{}{}{Representative for Foreign Language Associates Northwest (FLAN)}{}

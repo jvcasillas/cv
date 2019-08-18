@@ -53,142 +53,38 @@
 \cventry{}{Journal of Second Language Pronunciation.}{}{}{}{}
 \cventry{}{Hispanic Studies Review.}{}{}{}{}
 \cventry{2015}{Journal of Second Language Pronunciation.}{}{}{}{}
-\cventry{2012}
-        {Proceedings of the 6th International Workshop on Spanish Sociolinguistics}
-        {}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ.}
-\cventry{2012}
-        {Editor}
-        {Divergencias: Revista de estudios ling\"u\'isticos y literarios, Vol. 10, 1.}
-        {}
-        {}
-        {}
-\cventry{2011}
-        {Assistant Editor}
-        {Arizona Journal of Hispanic Cultural Studies, Vol. 15.}
-        {}
-        {}
-        {}
-\cventry{2010}
-        {Editor}
-        {Divergencias: Revista de estudios ling\"u\'isticos y literarios, Vol. 8, 2.}
-        {}
-        {}
-        {}
-\cventry{2010}
-        {Assistant Editor}
-        {Arizona Journal of Hispanic Cultural Studies, Vol. 14.}
-        {}
-        {}
-        {}
+\cventry{2012}{Proceedings of the 6th International Workshop on Spanish Sociolinguistics}{}{}{}{University of Arizona, Tucson, AZ.}
+\cventry{2012}{Editor}{Divergencias: Revista de estudios ling\"u\'isticos y literarios, Vol. 10, 1.}{}{}{}
+\cventry{2011}{Assistant Editor}{Arizona Journal of Hispanic Cultural Studies, Vol. 15.}{}{}{} 
+\cventry{2010}{Editor}{Divergencias: Revista de estudios ling\"u\'isticos y literarios, Vol. 8, 2.}{}{}{}
+\cventry{2010}{Assistant Editor}{Arizona Journal of Hispanic Cultural Studies, Vol. 14.}{}{}{}
 
 
 \subsection{Abstract Reviewer}
 
-\cventry{2014}
-        {Speech Prosody 7: Social and Linguistic Speech Prosody.}
-        {}
-        {}
-        {}
-        {Trinity College, Dublin.}
-\cventry{2014}
-        {Travel Grant Judge}
-        {Graduate and Professional Student Council (GPSC).}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ.}
+\cventry{2019}{Hispanic Linguistics Symposium.}{}{}{}{University of Texas, El Paso.}
+\cventry{2014}{Speech Prosody 7: Social and Linguistic Speech Prosody.}{}{}{}{Trinity College, Dublin.}
+\cventry{2014}{Travel Grant Judge}{Graduate and Professional Student Council (GPSC).}{}{}{University of Arizona, Tucson, AZ.}
 
 
 \subsection{Departmental Committees and Administrative Assignments}
 
-\cventry{2018 -- 2019}
-        {Graduate Admissions Committee}
-        {}
-        {}
-        {}
-        {Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
-\cventry{2018 -- ongoing}
-        {Language Engagement Research Advisory Group}
-        {}
-        {}
-        {}
-        {Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
-\cventry{2017 -- 2018}
-        {Ad-hoc Committee on Graduate Student Grants and Proposals}
-        {}
-        {}
-        {}
-        {Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
-\cventry{2017 -- 2018}
-        {Department Website Improvement Committee}
-        {}
-        {}
-        {}
-        {Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
-\cventry{2016 -- 2017}
-        {Undergraduate Curriculum Committee}
-        {}
-        {}
-        {}
-        {Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
-\cventry{2016 -- present}
-        {School of Arts and Sciences Honors Program}
-        {}
-        {}
-        {}
-        {Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
-\cventry{2014 -- 2015}
-        {Desire to Learn (D2L) Liaison}
-        {}
-        {}
-        {}
-        {Department of Spanish and Portuguese, University of Arizona, Tucson, AZ}
-\cventry{2014 -- 2015}
-        {Webmaster}
-        {}
-        {}
-        {}
-        {Department of Spanish and Portuguese, University of Arizona, Tucson, AZ}
-\cventry{2011 -- 2014}
-        {Co-technology Director}
-        {}
-        {}
-        {}
-        {Department of Spanish and Portuguese Film Festival, University of Arizona, Tucson, AZ.}
-\cventry{2011 -- 2012}
-        {Webmaster}
-        {Divergencias: Revista de estudios ling\"u\'isticos y literarios}
-        {}
-        {}
-        {}
+\cventry{2018 -- 2019}{Graduate Admissions Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{2018 -- ongoing}{Language Engagement Research Advisory Group}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{2017 -- 2018}{Ad-hoc Committee on Graduate Student Grants and Proposals}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{2017 -- 2018}{Department Website Improvement Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{2016 -- 2017}{Undergraduate Curriculum Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{2016 -- present}{School of Arts and Sciences Honors Program}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{2014 -- 2015}{Desire to Learn (D2L) Liaison}{}{}{}{Department of Spanish and Portuguese, University of Arizona, Tucson, AZ}
+\cventry{2014 -- 2015}{Webmaster}{}{}{}{Department of Spanish and Portuguese, University of Arizona, Tucson, AZ}
+\cventry{2011 -- 2014}{Co-technology Director}{}{}{}{Department of Spanish and Portuguese Film Festival, University of Arizona, Tucson, AZ.}
+\cventry{2011 -- 2012}{Webmaster}{Divergencias: Revista de estudios ling\"u\'isticos y literarios}{}{}{}
 
 
 \subsection{Organizations and Committees}
 
-\cventry{2017}
-        {Chair, Phonetics/Phonology}
-        {Hispanic Linguistics Symposium}
-        {}
-        {}
-        {Texas Tech University, Lubbock, TX}
-\cventry{2012}
-        {Chair, Perception and Production of Phonological Variables}
-        {6th International Workshop on Spanish Sociolinguistics}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ}
-\cventry{2011 -- 2012}
-        {Organizing Committee}
-        {6th International Workshop on Spanish Sociolinguistics}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ}
-\cventry{2010 -- 2012}
-        {Technology Director}
-        {Department of Spanish and Portuguese Graduate Symposium}
-        {}
-        {}
-        {University of Arizona, Tucson, AZ}
+\cventry{2017}{Chair, Phonetics/Phonology}{Hispanic Linguistics Symposium}{}{}{Texas Tech University, Lubbock, TX}
+\cventry{2012}{Chair, Perception and Production of Phonological Variables}{6th International Workshop on Spanish Sociolinguistics}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2011 -- 2012}{Organizing Committee}{6th International Workshop on Spanish Sociolinguistics}{}{}{University of Arizona, Tucson, AZ}
+\cventry{2010 -- 2012}{Technology Director}{Department of Spanish and Portuguese Graduate Symposium}{}{}{University of Arizona, Tucson, AZ}
 

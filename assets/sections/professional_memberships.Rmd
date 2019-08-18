@@ -4,5 +4,4 @@
 \cventry{}{Modern Language Association}{}{}{}{}
 \cventry{}{Sigma Delta Pi National Hispanic Honor Society}{Chapter MU}{}{}{}
 \cventry{}{The American Council on the Teaching of Foreign Languages}{}{}{}{}
-\cventry{}{Psi Chi International Honors Society in Psychology}
-        {Western Washington University}{}{}{}{}
+\cventry{}{Psi Chi International Honors Society in Psychology}{Western Washington University}{}{}{}{}

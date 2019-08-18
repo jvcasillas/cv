@@ -29,35 +29,34 @@ bib <- ReadBib("./assets/bib/publicationsCVclean.bib", check = FALSE)
 ```
 ```{r, child='./assets/sections/make_title.Rmd'}
 ```
-```{r, child='./assets/sections/address_block.Rmd'}
+```{r, child='./assets/sections/address_block.Rmd', eval=T}
 ```
-```{r, child='./assets/sections/appointments.Rmd'}
+```{r, child='./assets/sections/appointments.Rmd', eval=T}
 ```
-```{r, child='./assets/sections/education.Rmd'}
+```{r, child='./assets/sections/education.Rmd', eval=T}
 ```
-```{r, child='./assets/sections/publications.Rmd'}
+```{r, child='./assets/sections/publications.Rmd', eval=T}
 ```
-```{r, child='./assets/sections/software.Rmd'}
+```{r, child='./assets/sections/software.Rmd', eval=T}
 ```
-```{r, child='./assets/sections/presentations.Rmd'}
+```{r, child='./assets/sections/presentations.Rmd', eval=T}
 ```
-```{r, child='./assets/sections/research_experience.Rmd'}
+```{r, child='./assets/sections/research_experience.Rmd', eval=T}
 ```
-```{r, child='./assets/sections/academic_accolades.Rmd'}
+```{r, child='./assets/sections/academic_accolades.Rmd', eval=T}
 ```
-```{r, child='./assets/sections/teaching_experience.Rmd'}
+```{r, child='./assets/sections/teaching_experience.Rmd', eval=T}
 ```
-```{r, child='./assets/sections/service_outreach.Rmd'}
+```{r, child='./assets/sections/service_outreach.Rmd', eval=T}
 ```
-```{r, child='./assets/sections/professional_development.Rmd'}
+```{r, child='./assets/sections/professional_development.Rmd', eval=T}
 ```
-```{r, child='./assets/sections/professional_memberships.Rmd'}
+```{r, child='./assets/sections/professional_memberships.Rmd', eval=T}
 ```
-```{r, child='./assets/sections/additional_interests.Rmd'}
+```{r, child='./assets/sections/additional_interests.Rmd', eval=T}
 ```
-```{r, child='./assets/sections/footer.Rmd'}
+```{r, child='./assets/sections/footer.Rmd', eval=T}
 ```
 
 \bibliographystyle{apalike}
 \nobibliography{assets/bib/publicationsCV}
-

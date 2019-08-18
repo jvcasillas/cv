@@ -1,13 +1,7 @@
 
 \section{Teaching Experience}
 
-\cventry{2016 -- present}
-        {Assistant Professor}
-        {Rutgers University}
-        {New Brunswick, NJ}
-        {}
-        {
-        Undergraduate:
+\cventry{2016 -- present}{Assistant Professor}{Rutgers University}{New Brunswick, NJ}{}{ Undergraduate:
         \begin{itemize}
             \item[] \small \emph{Spanish Culture and Composition for Heritage Learners}
             \item[] \small \emph{Introduction to the Study of Language}
@@ -22,22 +16,12 @@
                                  Research in Linguistics}
         \end{itemize}
         }
-\cventry{2014 -- present}
-        {Instructor}
-        {Middlebury College}
-        {Middlebury, VT}
-        {}
-        {Courses taught (in Spanish):
+\cventry{2014 -- present}{Instructor}{Middlebury College}{Middlebury, VT}{}{Courses taught (in Spanish):
         \begin{itemize}
           \item[] \small \emph{High Beginner Spanish in Context}.\vspace{-.03in}
           \item[] \small \emph{Spanish Pronunciation Clinic for Beginners}.
         \end{itemize}}
-\cventry{2010 -- 2016}
-        {Graduate Associate in Teaching}
-        {University of Arizona}
-        {Tucson, AZ}
-        {}
-        {Courses taught (in Spanish):
+\cventry{2010 -- 2016}{Graduate Associate in Teaching}{University of Arizona}{Tucson, AZ}{}{Courses taught (in Spanish):
         \begin{itemize}
           \item[] \small \emph{Elementary 1st semester Spanish}.\vspace{-.03in}
           \item[] \small \emph{Elementary 2nd semester Spanish}.\vspace{-.03in}
@@ -48,32 +32,16 @@
           \item[] \small \emph{History of the Spanish Language}.\vspace{-.03in}
           \item[] \small \emph{Applied Linguistics}.
         \end{itemize}}
-        {}
-\cventry{Fall 2015}
-        {Instructor}
-        {Franklin Institute, University of Alcalá}
-        {Alcalá de Henares, Spain}
-        {}
-        {Course taught (in Spanish):
+\cventry{Fall 2015}{Instructor}{Franklin Institute, University of Alcalá}{Alcalá de Henares, Spain}{}{Course taught (in Spanish):
         \begin{itemize}
           \item[] \small \emph{Phonetics and oral Spanish}.
         \end{itemize}}
-\cventry{2009 -- 2010}
-        {English Teacher}
-        {C.E.I.P Carmen Iglesias}
-        {Madrid, Spain}
-        {}
-        {Courses taught (in English):
+\cventry{2009 -- 2010}{English Teacher}{C.E.I.P Carmen Iglesias}{Madrid, Spain}{}{Courses taught (in English):
         \begin{itemize}
           \item[] \small \emph{Kindergarten English}.\vspace{-.03in}
           \item[] \small \emph{3rd grade English}.
         \end{itemize}}
-\cventry{2006 -- 2008}
-        {Teaching Assistant}
-        {Escuela Oficial de Idiomas}
-        {C\'adiz, Spain}
-        {}
-        {Courses taught (in English):
+\cventry{2006 -- 2008}{Teaching Assistant}{Escuela Oficial de Idiomas}{C\'adiz, Spain}{}{Courses taught (in English):
         \begin{itemize}
           \item[] \small \emph{Beginning conversation}.\vspace{-.03in}
           \item[] \small \emph{Intermediate conversation}.\vspace{-.03in}

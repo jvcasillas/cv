@@ -1,25 +1,7 @@
 
 \section{Appointments}
 
-\cventry{2016 -- Present}
-        {\mytitle}
-        {Rutgers University, New Brunswick}
-        {}
-        {}
-        {Bilingualism \& Second Language Acquisition, 
-        Department of Spanish and Portuguese}
-\cventry{2013 -- Present}
-        {Visiting Faculty Member}
-        {Middlebury College}
-        {}
-        {}
-        {Language Schools -- School of Spanish}
-\cventry{2010 -- 2016} 
-        {Graduate Associate} 
-        {University of Arizona} 
-        {} 
-        {} 
-        {Teaching -- Department of Spanish and Portuguese \\ 
-        Instructional Technology -- College of Humanities Instructional 
-        Computing} 
+\cventry{2016 -- Present}{\mytitle}{Rutgers University, New Brunswick}{}{}{Bilingualism \& Second Language Acquisition, Department of Spanish and Portuguese}
+\cventry{2013 -- Present}{Visiting Faculty Member}{Middlebury College}{}{}{Language Schools -- School of Spanish}
+\cventry{2010 -- 2016}{Graduate Associate}{University of Arizona}{}{}{Teaching -- Department of Spanish and Portuguese \\ Instructional Technology -- College of Humanities Instructional Computing}
 

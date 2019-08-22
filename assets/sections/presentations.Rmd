@@ -30,6 +30,7 @@
 
 \subsection{Poster Presentations}
 
+\cventry{}{\hangbibentry{CasillasICPhS2019poster}}{}{}{}{}
 \cventry{}{\hangbibentry{lozano_sagarra_casillas_IICPEB2018}}{}{}{}{}
 \cventry{}{\hangbibentry{sagarra_casillas_SBL2P2018}}{}{}{}{}
 \cventry{}{\hangbibentry{lozano_sagarra_casillas_BAP2018}}{}{}{}{}

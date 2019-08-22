@@ -15,6 +15,7 @@
 
 \subsection{Selected Proceedings and Electronic Publications}
 
+\cventry{}{\hangbibentry{CasillasICPhS2019article}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasDiazSimonetICPhS2015article}}{}{}{}{}
 \cventry{}{\hangbibentry{SimonetCasillasDiazSP72014}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasBessettDFTable2013}}{}{}{}{}

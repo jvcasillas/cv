@@ -62,4 +62,3 @@ bib <- ReadBib(here("assets", "bib", "publications_latex.bib"), check = FALSE)
 \bibliographystyle{apalike}
 \nobibliography{assets/bib/publications_latex}
 
-

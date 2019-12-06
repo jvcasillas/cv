@@ -5,17 +5,17 @@
 
 \subsection{Mentoring of doctoral students}
 
-\cventry{}{Nicole Rodr\'iguez}{Co-chair of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{2019 -- present}{Nicole Rodr\'iguez}{Co-chair of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Laura Fern\'andez Arroyo}{Co-chair of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{2019}{Tadjou-N'Dine Mamadou Yacoubou}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
 \cventry{}{Nathan Koser}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
 \cventry{}{Laura Fern\'andez Arroyo}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Nicole Rodr\'iguez}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
-\cventry{2018}{Cristina Lozano Arg\"uelles}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{2018 -- present}{Cristina Lozano Arg\"uelles}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Michele Goldin}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Julio C{\'e}sar L{\'o}pez Otero}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Esther Hur}{Member of Dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
-\cventry{}{Julio C{\'e}sar L{\'o}pez Otero}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{2018}{Julio C{\'e}sar L{\'o}pez Otero}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Michele Goldin}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Esther Hur}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{2017}{Cristina Lozano}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}

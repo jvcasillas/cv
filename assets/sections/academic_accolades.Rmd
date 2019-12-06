@@ -4,6 +4,8 @@
 
 \subsection{Grants and Scholarships}
 
+\cventry{2019}{Open and Affordable Textbooks Program' grant}{\newline Awarded \$1,000.00 to develop open access educational materials for \emph{Intro to Spanish Phonetics}}{}{}{Rutgers University, New Brunswick, NJ}{}{}
+\cventry{2019}{Language Engagement Project: 991 Challenge Course Grant}{\newline Awarded \$1,000.00 to develop a 1-credit module entitled \emph{Data Science in Spanish}}{}{}{Rutgers University, New Brunswick, NJ}{}{}
 \cventry{2008 -- 2016}{Comanche Nation Department of Higher Education Scholarship}{}{}{}{}{} 
 \cventry{2015}{Karen Smith Endowment Scholarship}{}{}{}{University of Arizona, Tucson, AZ}
 \cventry{2015}{Graduate and Professional Student Council Research and Project Grant}{\newline Awarded \$1,666.00 for professional recording equipment}{}{}{University of Arizona, Tucson, AZ}

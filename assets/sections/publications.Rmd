@@ -5,6 +5,9 @@
 
 \subsection{Journal Articles}
 
+\cventry{}{\hangbibentry{CasillasProdStops_ll2019}}{}{}{}{}
+\cventry{}{\hangbibentry{SagarraLozanoCasillas_blc2019}}{}{}{}{}
+\cventry{}{\hangbibentry{CasillasProdPercStops}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasSimonet_jphon2018}}{}{}{}{}
 \cventry{}{\hangbibentry{SagarraCasillas_JSLS2018}}{}{}{}{}
 \cventry{}{\hangbibentry{BessettCasillasRamirezSpIC2017}}{}{}{}{}
@@ -32,9 +35,8 @@
 
 \subsection{Manuscripts Under Review}
 
-\cventry{}{\hangbibentry{CasillasProdPercStops}}{}{}{}{}
-\cventry{}{\hangbibentry{SagarraLozanoCasillas_blc2018}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasProdStops}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_dpbe_l2_2019}}{}{}{}{}
+
 
 
 \subsection{Manuscripts in Preparation}

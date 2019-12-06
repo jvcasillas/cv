@@ -16,13 +16,14 @@ Sys.setenv(TEXINPUTS = ".:./assets/tex:")
 ```
 
 ```{r, 'download-refs', echo=F, cache=F, warning=F, eval=F}
-library(RefManageR)
+library("RefManageR")
+library("here")
 
-fileUrl <- "http://bit.ly/my_bib"
+fileUrl <- "https://raw.githubusercontent.com/jvcasillas/mybib/master/publications_latex.bib"
 download.file(fileUrl, 
-              destfile = "./assets/bib/publicationsCVclean.bib", 
+              destfile = here("assets", "bib", "publications_latex.bib"), 
               method = "curl")
-bib <- ReadBib("./assets/bib/publicationsCVclean.bib", check = FALSE)
+bib <- ReadBib(here("assets", "bib", "publications_latex.bib"), check = FALSE)
 ```
 
 ```{r, child='./assets/sections/set_fonts.Rmd'}
@@ -59,5 +60,6 @@ bib <- ReadBib("./assets/bib/publicationsCVclean.bib", check = FALSE)
 ```
 
 \bibliographystyle{apalike}
-\nobibliography{assets/bib/publicationsCV}
+\nobibliography{assets/bib/publications_latex}
+
 

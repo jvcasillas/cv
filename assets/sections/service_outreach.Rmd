@@ -5,6 +5,8 @@
 
 \subsection{Mentoring of doctoral students}
 
+\cventry{}{Nicole Rodr\'iguez}{Co-chair of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{}{Laura Fern\'andez Arroyo}{Co-chair of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{2019}{Tadjou-N'Dine Mamadou Yacoubou}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
 \cventry{}{Nathan Koser}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
 \cventry{}{Laura Fern\'andez Arroyo}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
@@ -23,6 +25,8 @@
 
 \subsection{Mentoring of undergraduate students}
 
+\cventry{2019 -- 2020}{Avery Fields}{School of Arts and Sciences Aresty Research Program}{}{}{Spanish/Linguistics, Rutgers University}
+\cventry{}{Jack Fastenau}{School of Arts and Sciences Aresty Research Program}{}{}{Pre-med/Spanish, Rutgers University}
 \cventry{2018 -- 2019}{Maxine Ellicott}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Pre-med, Rutgers University}
 \cventry{}{Hamail Iqbal}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Rutgers University}
 \cventry{}{Jessica Philip}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Statistics, Rutgers University}
@@ -69,6 +73,8 @@
 
 \subsection{Departmental Committees and Administrative Assignments}
 
+\cventry{2019 -- 2020}{NTT Search Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{2019 -- 2020}{Graduate Admissions Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
 \cventry{2018 -- 2019}{Graduate Admissions Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
 \cventry{2018 -- ongoing}{Language Engagement Research Advisory Group}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
 \cventry{2017 -- 2018}{Ad-hoc Committee on Graduate Student Grants and Proposals}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
@@ -83,6 +89,7 @@
 
 \subsection{Organizations and Committees}
 
+\cventry{2019}{Chair, Pedagogy}{Hispanic Linguistics Symposium}{}{}{University of Texas, El Paso, TX}
 \cventry{2017}{Chair, Phonetics/Phonology}{Hispanic Linguistics Symposium}{}{}{Texas Tech University, Lubbock, TX}
 \cventry{2012}{Chair, Perception and Production of Phonological Variables}{6th International Workshop on Spanish Sociolinguistics}{}{}{University of Arizona, Tucson, AZ}
 \cventry{2011 -- 2012}{Organizing Committee}{6th International Workshop on Spanish Sociolinguistics}{}{}{University of Arizona, Tucson, AZ}

@@ -41,6 +41,7 @@
 
 \subsection{Manuscripts in Preparation}
 
+\cventry{}{\hangbibentry{Casillas_simonet_aldrich_coronal_stops}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasProdSemantic}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasStress}}{}{}{}{}
 \cventry{}{\hangbibentry{SagarraCasillasETL2}}{}{}{}{}

@@ -6,6 +6,7 @@
 
 \cventry{}{\hangbibentry{casillas_dpbe_HLS2019}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_morphpred_HLS2019}}{}{}{}{}
+\cventry{}{\hangbibentry{simonet_casillas_coloq2019}}{}{}{}{}
 \cventry{}{\hangbibentry{colina_diaz_casillas_HLS2018_glide}}{}{}{}{}
 \cventry{}{\hangbibentry{lozano_sagarra_casillasHLS2018morph}}{}{}{}{}
 \cventry{}{\hangbibentry{lozano_sagarra_casillasISBPAC2018morph}}{}{}{}{}

@@ -14,19 +14,22 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
 
 - Research
   - Publications
-    - in prep: Coronal stops, HL stops
-    - in press: LL, SSLA, LAS
+    - in prep: Coronal stops, HL stops, translation processing
     - under review
   - Presentations
-    - 
 - Teaching
   - add MAT
+  - add LEP
 - Service
   - Reviews
-    - LAS, LL, JPHON, check for more 
+    - LAS, LL, JPHON, LabPhon, check for more 
   - Committees
     - Juanjo, Laura, 
   - workshops
     - LABPHON cancelled
+  - Mentoring
+    - honors for 20/21
+    - lep exchange partners whatever
 - Academic accolades
 - Misc
+

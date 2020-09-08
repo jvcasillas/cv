@@ -4,6 +4,8 @@
 
 \subsection{Conference Presentations}
 
+\cventry{}{\hangbibentry{casillas_dpbe_CASPSLAP2020}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_wise_2020}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_dpbe_HLS2019}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_morphpred_HLS2019}}{}{}{}{}
 \cventry{}{\hangbibentry{simonet_casillas_coloq2019}}{}{}{}{}

@@ -5,6 +5,7 @@
 
 \subsection{Journal Articles}
 
+\cventry{}{\hangbibentry{casillas_dpbe_l2_2020}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasProdStops_ll2019}}{}{}{}{}
 \cventry{}{\hangbibentry{SagarraLozanoCasillas_blc2019}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasProdPercStops}}{}{}{}{}
@@ -32,11 +33,11 @@
 
 \cventry{}{\hangbibentry{casillasROUTLEDGEreview2017}}{}{}{}{}
 
-
+<!--
 \subsection{Manuscripts Under Review}
 
 \cventry{}{\hangbibentry{casillas_dpbe_l2_2019}}{}{}{}{}
-
+-->
 
 
 \subsection{Manuscripts in Preparation}

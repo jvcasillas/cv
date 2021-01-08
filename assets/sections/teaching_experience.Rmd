@@ -7,6 +7,8 @@
             \item[] \small \emph{Introduction to the Study of Language}
             \item[] \small \emph{Introduction to Spanish Phonetics/Phonology}
             \item[] \small \emph{Current Issues in Second Language Acquisition}
+            \item[] \small \emph{Languages and Cultures Across the Curriculum: 
+                                 Data Science in Spanish }
         \end{itemize}
         Graduate:
         \begin{itemize}
@@ -14,36 +16,38 @@
             \item[] \small \emph{Data Science for Linguists}
             \item[] \small \emph{Research Methods: Open Science and Reproducible 
                                  Research in Linguistics}
+            \item[] \small \emph{Spanish Phonetics for Teachers}
         \end{itemize}
         }
 \cventry{2014 -- present}{Instructor}{Middlebury College}{Middlebury, VT}{}{Courses taught (in Spanish):
         \begin{itemize}
-          \item[] \small \emph{High Beginner Spanish in Context}.\vspace{-.03in}
-          \item[] \small \emph{Spanish Pronunciation Clinic for Beginners}.
+          \item[] \small \emph{High Beginner Spanish in Context}\vspace{-.03in}
+          \item[] \small \emph{Spanish Pronunciation Clinic for Beginners}
         \end{itemize}}
 \cventry{2010 -- 2016}{Graduate Associate in Teaching}{University of Arizona}{Tucson, AZ}{}{Courses taught (in Spanish):
         \begin{itemize}
-          \item[] \small \emph{Elementary 1st semester Spanish}.\vspace{-.03in}
-          \item[] \small \emph{Elementary 2nd semester Spanish}.\vspace{-.03in}
-          \item[] \small \emph{Intermediate 5th semester Spanish}.\vspace{-.03in}
-          \item[] \small \emph{Introduction to Spanish Phonetics}.\vspace{-.03in}
-          \item[] \small \emph{Spanish Phonetics for the Heritage Speaker}.\vspace{-.03in}
-          \item[] \small \emph{Introduction to Hispanic Linguistics}.\vspace{-.03in}
-          \item[] \small \emph{History of the Spanish Language}.\vspace{-.03in}
-          \item[] \small \emph{Applied Linguistics}.
+          \item[] \small \emph{Elementary 1st semester Spanish}\vspace{-.03in}
+          \item[] \small \emph{Elementary 2nd semester Spanish}\vspace{-.03in}
+          \item[] \small \emph{Intermediate 5th semester Spanish}\vspace{-.03in}
+          \item[] \small \emph{Introduction to Spanish Phonetics}\vspace{-.03in}
+          \item[] \small \emph{Spanish Phonetics for the Heritage 
+                               Speaker}\vspace{-.03in}
+          \item[] \small \emph{Introduction to Hispanic Linguistics}\vspace{-.03in}
+          \item[] \small \emph{History of the Spanish Language}\vspace{-.03in}
+          \item[] \small \emph{Applied Linguistics}
         \end{itemize}}
 \cventry{Fall 2015}{Instructor}{Franklin Institute, University of Alcalá}{Alcalá de Henares, Spain}{}{Course taught (in Spanish):
         \begin{itemize}
-          \item[] \small \emph{Phonetics and oral Spanish}.
+          \item[] \small \emph{Phonetics and oral Spanish}
         \end{itemize}}
 \cventry{2009 -- 2010}{English Teacher}{C.E.I.P Carmen Iglesias}{Madrid, Spain}{}{Courses taught (in English):
         \begin{itemize}
-          \item[] \small \emph{Kindergarten English}.\vspace{-.03in}
-          \item[] \small \emph{3rd grade English}.
+          \item[] \small \emph{Kindergarten English}\vspace{-.03in}
+          \item[] \small \emph{3rd grade English}
         \end{itemize}}
 \cventry{2006 -- 2008}{Teaching Assistant}{Escuela Oficial de Idiomas}{C\'adiz, Spain}{}{Courses taught (in English):
         \begin{itemize}
-          \item[] \small \emph{Beginning conversation}.\vspace{-.03in}
-          \item[] \small \emph{Intermediate conversation}.\vspace{-.03in}
-          \item[] \small \emph{Advanced conversation}.
+          \item[] \small \emph{Beginning conversation}\vspace{-.03in}
+          \item[] \small \emph{Intermediate conversation}\vspace{-.03in}
+          \item[] \small \emph{Advanced conversation}
         \end{itemize}}

@@ -26,6 +26,11 @@ download.file(fileUrl,
 bib <- ReadBib(here("assets", "bib", "publications_latex.bib"), check = FALSE)
 ```
 
+```{r, 'fix-color-incompatibilities', echo=F}
+library("knitr")
+knit_hooks$set(document = function(x) {sub('\\usepackage[]{color}', '\\usepackage[table]{xcolor}', x, fixed = TRUE)})
+```
+
 ```{r, child='./assets/sections/set_fonts.Rmd'}
 ```
 ```{r, child='./assets/sections/make_title.Rmd'}

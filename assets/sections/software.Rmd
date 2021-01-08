@@ -6,6 +6,7 @@
   - lingstuff https://www.jvcasillas.com/lingStuff/index.html
   - untidydata https://www.jvcasillas.com/untidydata/index.html
   - academicWriteR https://www.jvcasillas.com/academicWriteR/index.html
+  - contributoR https://www.jvcasillas.com/contributoR/index.html
 -->
 
 <!--
@@ -28,6 +29,7 @@
     - https://github.com/jvcasillas/LaTeX-IPA
 -->
 
+\cventry{}{\bibentry{casillas_contributoR}}{}{}{}{}
 \cventry{}{\bibentry{casillas_academicWriteR}}{}{}{}{}
 \cventry{}{\bibentry{casillas_untidydata}}{}{}{}{}
 \cventry{}{\bibentry{casillas_r_4_ling}}{}{}{}{}

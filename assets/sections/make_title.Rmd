@@ -3,7 +3,7 @@
 \bigskip
 
 <!-- Name here -->
-\vspace{.1in}\noindent{\huge {\textsc{Joseph Vincent Casillas}, Ph.D.}}
+\vspace{.1in}\noindent{\huge {\textsc{Joseph V. Casillas}, Ph.D.}}
 \reversemarginpar
 
 <!-- \bigskip -->

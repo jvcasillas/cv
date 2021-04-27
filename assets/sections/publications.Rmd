@@ -5,6 +5,7 @@
 
 \subsection{Journal Articles}
 
+\cventry{}{\hangbibentry{jimenez_casillas_trans_processing_2021}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_perfomance_mismatches_2021}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_dpbe_l2_2020}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasProdStops_ll2020}}{}{}{}{}
@@ -34,15 +35,16 @@
 
 \cventry{}{\hangbibentry{casillasROUTLEDGEreview2017}}{}{}{}{}
 
-<!--
+
 \subsection{Manuscripts Under Review}
 
-\cventry{}{\hangbibentry{casillas_dpbe_l2_2019}}{}{}{}{}
--->
+\cventry{}{\hangbibentry{coretta_casillas_roettger_many_analyses}}{}{}{}{}
+
 
 
 \subsection{Manuscripts in Preparation}
 
+\cventry{}{\hangbibentry{Casillas_et_al_empathy_intonation}}{}{}{}{}
 \cventry{}{\hangbibentry{Casillas_simonet_aldrich_coronal_stops}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasProdSemantic}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasStress}}{}{}{}{}

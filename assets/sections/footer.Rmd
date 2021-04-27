@@ -6,6 +6,6 @@
 \begin{center}
   \begin{footnotesize}
     Last updated: \today \\
-    \href{http://www.jvcasillas.com}{www.jvcasillas.com}
+    \href{https://www.jvcasillas.com}{www.jvcasillas.com}
   \end{footnotesize}
 \end{center}

@@ -15,22 +15,33 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
 - Research
   - Publications
     - in press: 
-    - under review: translation processing
-    - in prep: Coronal stops
+    - under review: 
+    - accepted: translation processing
+    - in prep: 
+      - Coronal stops
+      - Many analyses
   - Presentations
+    - ISB (I think) 
+      - Authors: Cristina Lozano-Argüelles, Nuria Sagarra and 
+      Joseph V. Casillas 
+      - Title:   The role of working memory during L2 prediction 
+      of morphology: evidence from professional interpreters
 - Teaching
+  - lep exchange partners whatever (two semesters)
 - Service
   - Reviews
   - Committees
-  - workshops
+  - Workshops
     - LABPHON reproducibility (canceled)
     - LABPhon stats
+    - academic publishing
   - Mentoring
-    - honors for 20/21
-    - lep exchange partners whatever
+    - honors for 20/21: 
+    - Honors thesis: 
+    - lep exchange partners whatever (two semesters)
     - QPs: 
     - Diss committees
 - Academic accolades
 - Software
+  - ds4ling
 - Misc
-

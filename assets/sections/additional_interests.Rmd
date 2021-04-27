@@ -16,7 +16,7 @@ Languages \vspace{-.18in}
 Programing  
 Languages \vspace{-.37in}  
 
-\begin{tabular}{p{1.15in}lp{.6in}l}
+\begin{tabular}{p{1.15in}lp{.7in}l}
   & R        & & \LaTeX   \\
   & Python   & & PHP      \\
   & Stan     & & HTML/CSS \\ [2.5ex]
@@ -28,8 +28,8 @@ Languages \vspace{-.37in}
 
 Technology \vspace{-.18in}  
 
-\begin{tabular}{p{1.15in}lp{.7in}lp{.7in}l}
-   & Mac OS X             & & SPSS      & & Praat                \\ 
+\begin{tabular}{p{1.15in}lp{.55in}lp{.7in}l}
+   & MacOS X             & & SPSS      & & Praat                \\ 
    & Windows              & & R/RStudio & & PsychoPy             \\ 
    & Linux                & & GIt       & & Adobe Creative Suite \\ [2.5ex]
 \end{tabular}

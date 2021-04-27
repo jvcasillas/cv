@@ -29,6 +29,7 @@
     - https://github.com/jvcasillas/LaTeX-IPA
 -->
 
+\cventry{}{\bibentry{casillas_ds4ling}}{}{}{}{}
 \cventry{}{\bibentry{casillas_contributoR}}{}{}{}{}
 \cventry{}{\bibentry{casillas_academicWriteR}}{}{}{}{}
 \cventry{}{\bibentry{casillas_untidydata}}{}{}{}{}

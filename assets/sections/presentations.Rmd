@@ -4,6 +4,8 @@
 
 \subsection{Conference Presentations}
 
+\cventry{}{\hangbibentry{sagarra_casillas_eurosla_2021}}{}{}{}{}
+\cventry{}{\hangbibentry{lozano_sagarra_casillas_isbpac_2021}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_dpbe_CASPSLAP2020}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_wise_2020}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_dpbe_HLS2019}}{}{}{}{}
@@ -48,6 +50,7 @@
 
 \subsection{Unrefereed Presentations}
 
+\cventry{}{\hangbibentry{chang_gomez_casillas_aresty_poster_2021}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasMidd2017}}{}{}{}{}
 \cventry{}{\hangbibentry{SagarraCasillasLozanoRodriguez2017poster}}{}{}{}{}
 \cventry{}{\hangbibentry{SagarraCasillasLozanoEriksson2017poster}}{}{}{}{}
@@ -55,6 +58,8 @@
 
 \subsection{Invited Talks/Workshops}
 
+\cventry{}{\hangbibentry{casillas_coretta_roettger_bayes_labphon_2021}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_ru_publishing_2020}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_ru_jobmarket_2019}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_ru_jobmarket_2018}}{}{}{}{}
 \cventry{}{\hangbibentry{Casillas_AMWclassA_2018}}{}{}{}{}

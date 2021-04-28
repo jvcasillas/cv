@@ -40,6 +40,10 @@
 \cventry{}{Isabelle Chang}{School of Arts and Sciences Aresty Research Program}{}{}{Spanish/Linguistics, Rutgers University}
 \cventry{}{Kimberly Gomez}{School of Arts and Sciences Aresty Research Program}{}{}{Pre-med/Spanish, Rutgers University}
 \cventry{}{Nikila Baradi}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Rutgers University}
+\cventry{}{Victor Álvarez Llor}{Language Engagement Project Language Exchange Program}{}{}{Universidad de Santiago de Chile}
+\cventry{}{Tenia Bay}{Language Engagement Project Language Exchange Program}{}{}{Rutgers University}
+\cventry{}{Camila Nuñez}{Language Engagement Project Language Exchange Program}{}{}{Universidad de Santiago de Chile}
+\cventry{}{Katherine Anderson}{Language Engagement Project Language Exchange Program}{}{}{Rutgers University}
 
 \cventry{2019 -- 2020}{Avery Fields}{School of Arts and Sciences Aresty Research Program}{}{}{Spanish/Linguistics, Rutgers University}
 \cventry{}{Robert Esposito}{Independent Study}{}{}{Intonation of Salvadoran Spanish \\ Linguistics, Rutgers University}

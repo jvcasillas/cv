@@ -29,20 +29,47 @@
     - https://github.com/jvcasillas/LaTeX-IPA
 -->
 
-\cventry{}{\bibentry{casillas_ds4ling}}{}{}{}{}
-\cventry{}{\bibentry{casillas_contributoR}}{}{}{}{}
-\cventry{}{\bibentry{casillas_academicWriteR}}{}{}{}{}
-\cventry{}{\bibentry{casillas_untidydata}}{}{}{}{}
-\cventry{}{\bibentry{casillas_r_4_ling}}{}{}{}{}
-\cventry{}{\bibentry{casillas_cental_limit}}{}{}{}{}
-\cventry{}{\bibentry{casillas_blr}}{}{}{}{}
-\cventry{}{\bibentry{casillas_glm}}{}{}{}{}
-\cventry{}{\bibentry{casillas_crossover}}{}{}{}{}
-\cventry{}{\bibentry{casillas_power}}{}{}{}{}
-\cventry{}{\bibentry{casillas_distinctive_features}}{}{}{}{}
-\cventry{}{\bibentry{casillas_lingStuff}}{}{}{}{}
-\cventry{}{\bibentry{casillas_r_snippets}}{}{}{}{}
-\cventry{}{\bibentry{casillas_latex_ipa}}{}{}{}{}
+\cventry{}{\bibentry{casillas_ds4ling}
+\phantom{-}\href{https://github.com/jvcasillas/ds4ling}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_contributoR}
+\phantom{-}\href{https://github.com/jvcasillas/contributoR}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_academicWriteR}
+\phantom{-}\href{https://github.com/jvcasillas/academicWriteR}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_untidydata}
+\phantom{-}\href{https://github.com/jvcasillas/untidydata}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_r_4_ling}
+\phantom{-}\href{https://github.com/jvcasillas/r_for_linguists}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_cental_limit}
+\phantom{-}\href{https://github.com/jvcasillas/shiny_clt}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_blr}
+\phantom{-}\href{https://github.com/jvcasillas/shiny_bivariate_regression}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_glm}
+\phantom{-}\href{https://github.com/jvcasillas/shiny_glm}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_crossover}
+\phantom{-}\href{https://github.com/jvcasillas/shiny_crossover}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_power}
+\phantom{-}\href{https://github.com/jvcasillas/shiny_power}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_distinctive_features} 
+\phantom{-}\href{https://github.com/jvcasillas/shiny_distinctiveFeatures}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_lingStuff} 
+\phantom{-}\href{https://github.com/jvcasillas/lingStuff}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_r_snippets}
+\phantom{-}\href{https://github.com/jvcasillas/R-snippets}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_latex_ipa}
+\phantom{-}\href{https://github.com/jvcasillas/LaTeX-IPA}{\faGithub}}{}{}{}{}
 
 
 

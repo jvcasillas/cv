@@ -2,8 +2,9 @@
 \section{Research Experience}
 
 \cventry{2018 -- present}{Principle Investigator}{Rutgers Applied Phonetics Group: \href{https://rap-group.github.io/}{\faLink}}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{2020 -- present}{Collaborator}{ManyBabies (MB-AtHome) \href{https://manybabies.github.io/MB-AtHome/}{\faLink}}{}{}{Online Infant Data Collection}
 \cventry{2016 -- present}{Member}{Bilingualism and Second Language Acquisition Group}{}{}{Rutgers University, New Brunswick, NJ}
-\cventry{2016 -- present}{Affiliated member}{Phonology and Field Research lab}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{2016 -- 2019}{Affiliated member}{Phonology and Field Research lab}{}{}{Rutgers University, New Brunswick, NJ}
 \cventry{2015 -- present}{Co-Principle Investigator}{Program Articulation and Language Acquisition Research (PArLAR)}{}{}{Middlebury College, Middlebury, VT}
 \cventry{2011 -- 2016}{Research Assistant}{Arizona Applied Phonetics Laboratory}{}{}{University of Arizona, Tucson, AZ, Lab director: Dr. Miquel Simonet}
 \cventry{Spring 2012}{Research Assistant}{Spanish Heritage Language Program}{}{}{University of Arizona. Tucson, AZ, Director: Dr. Sara Beaudrie}

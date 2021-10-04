@@ -1,7 +1,7 @@
 
 # Academic CV
 
-Last update: 2021-04-27
+Last update: 2021-10-04
 
 ## Overview
 
@@ -15,14 +15,22 @@ RMarkdown.
         -   in press:
         -   under review:
         -   accepted:
+            -   IPA: AMPS
         -   in prep:
     -   Presentations
 -   Teaching
 -   Service
     -   Reviews
+        -   CASPSLaP 2022 abstracts
+        -   HLS 2021 abstracts
     -   Committees
+        -   search committee TT job (2021-2022)
     -   Workshops
+        -   check B4SS and royal society
     -   Mentoring
+        -   update Nicole
+        -   new AreSTY
+        -   New honors students
 -   Academic accolades
 -   Software
 -   Misc

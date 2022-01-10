@@ -1,7 +1,7 @@
 
 # Academic CV
 
-Last update: 2021-10-04
+Last update: 2022-01-10
 
 ## Overview
 
@@ -18,11 +18,15 @@ RMarkdown.
             -   IPA: AMPS
         -   in prep:
     -   Presentations
+        -   HLS
+        -   CASPSLaP
+        -   New Sounds
 -   Teaching
 -   Service
     -   Reviews
         -   CASPSLaP 2022 abstracts
         -   HLS 2021 abstracts
+        -   Languages 2022
     -   Committees
         -   search committee TT job (2021-2022)
     -   Workshops

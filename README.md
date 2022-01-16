@@ -1,7 +1,7 @@
 
 # Academic CV
 
-Last update: 2022-01-10
+Last update: 2022-01-16
 
 ## Overview
 
@@ -27,6 +27,7 @@ RMarkdown.
         -   CASPSLaP 2022 abstracts
         -   HLS 2021 abstracts
         -   Languages 2022
+        -   LAB 2022
     -   Committees
         -   search committee TT job (2021-2022)
     -   Workshops

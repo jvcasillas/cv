@@ -29,6 +29,7 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
     - CASPSLaP 2022 abstracts
     - HLS 2021 abstracts
     - Languages 2022
+    - LAB 2022
   - Committees
     - search committee TT job (2021-2022)
   - Workshops

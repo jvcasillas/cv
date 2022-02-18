@@ -1,7 +1,7 @@
 
 # Academic CV
 
-Last update: 2022-01-16
+Last update: 2022-02-17
 
 ## Overview
 
@@ -14,14 +14,24 @@ RMarkdown.
     -   Publications
         -   in press:
         -   under review:
+            -   Empathy
+            -   Glide affiliation
         -   accepted:
             -   IPA: AMPS
         -   in prep:
     -   Presentations
         -   HLS
-        -   CASPSLaP
+        -   CASPSLaP  
+            Casillas J.V., Garrido Pozú, J.J., Rodríguez, N., Parrish,
+            K., Fernández Arroyo, L., Esposito, R., Chang, I., Gómez,
+            K., Constantin-Dureci, G., Shao, J., Andreu Rascón, I., and
+            Taveras, K. (2022). Inferring meaning from intonation: The
+            effects of proficiency and empathy on L2 pragmatic skills.
+            Current Approaches to Spanish and Portuguese Second Language
+            Phonology (CASPSLaP). University of Wisconsin, Madison, WI.
         -   New Sounds
 -   Teaching
+    -   data viz for humanities
 -   Service
     -   Reviews
         -   CASPSLaP 2022 abstracts
@@ -31,7 +41,7 @@ RMarkdown.
     -   Committees
         -   search committee TT job (2021-2022)
     -   Workshops
-        -   check B4SS and royal society
+        -   check B4SS and royal society (github, rmarkdown)
     -   Mentoring
         -   update Nicole
         -   new AreSTY

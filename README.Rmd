@@ -28,6 +28,7 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
     - New Sounds
 - Teaching
   - data viz for humanities
+  - Language ideologies
 - Service
   - Reviews
     - CASPSLaP 2022 abstracts

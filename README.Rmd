@@ -44,5 +44,7 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
     - new AreSTY
     - New honors students
 - Academic accolades
+  - Humanities plus grant (2k)
+  - Presidential Fellowship for Teaching Excellence Award (21-22), 1k
 - Software
 - Misc

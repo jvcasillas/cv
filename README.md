@@ -1,7 +1,7 @@
 
 # Academic CV
 
-Last update: 2022-02-17
+Last update: 2022-04-27
 
 ## Overview
 
@@ -32,6 +32,7 @@ RMarkdown.
         -   New Sounds
 -   Teaching
     -   data viz for humanities
+    -   Language ideologies
 -   Service
     -   Reviews
         -   CASPSLaP 2022 abstracts
@@ -47,5 +48,8 @@ RMarkdown.
         -   new AreSTY
         -   New honors students
 -   Academic accolades
+    -   Humanities plus grant (2k)
+    -   Presidential Fellowship for Teaching Excellence Award (21-22),
+        1k
 -   Software
 -   Misc

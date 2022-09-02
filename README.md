@@ -1,7 +1,7 @@
 
 # Academic CV
 
-Last update: 2022-04-27
+Last update: 2022-09-02
 
 ## Overview
 
@@ -16,6 +16,7 @@ RMarkdown.
         -   under review:
             -   Empathy
             -   Glide affiliation
+            -   SLR
         -   accepted:
             -   IPA: AMPS
         -   in prep:
@@ -41,8 +42,13 @@ RMarkdown.
         -   LAB 2022
     -   Committees
         -   search committee TT job (2021-2022)
+        -   Grad development committee (Fall 2022)
     -   Workshops
         -   check B4SS and royal society (github, rmarkdown)
+        -   Stats for linguists (spain)
+    -   Talks
+        -   Illinois
+        -   Penn state
     -   Mentoring
         -   update Nicole
         -   new AreSTY
@@ -51,5 +57,6 @@ RMarkdown.
     -   Humanities plus grant (2k)
     -   Presidential Fellowship for Teaching Excellence Award (21-22),
         1k
+    -   ISGRJ
 -   Software
 -   Misc

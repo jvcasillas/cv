@@ -14,13 +14,16 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
 
 - Research
   - Publications
+    - published: 
+      - Frontiers in comm
     - in press: 
     - under review: 
       - Empathy
       - Glide affiliation
       - SLR
+      - transparency in ling
     - accepted: 
-      - IPA: AMPS
+      - IPA: msa AMPS
     - in prep: 
   - Presentations
     - HLS
@@ -36,22 +39,32 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
     - HLS 2021 abstracts
     - Languages 2022
     - LAB 2022
+    - tons more (check folder)
   - Committees
     - search committee TT job (2021-2022)
     - Grad development committee (Fall 2022)
+    - Admissions s2023
+    - A&P s2023
+    - tenure case silvia
   - Workshops
     - check B4SS and royal society (github, rmarkdown)
     - Stats for linguists (spain)
   - Talks
     - Illinois
     - Penn state
+    - utoronto
+    - purdue
+  - Keynotes
+    - CASPSLAP
   - Mentoring
     - update Nicole
     - new AreSTY
     - New honors students
+    - Jennifer PhD defense
 - Academic accolades
   - Humanities plus grant (2k)
   - Presidential Fellowship for Teaching Excellence Award (21-22), 1k
   - ISGRJ
 - Software
+  - worldlanguages
 - Misc

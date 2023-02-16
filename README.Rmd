@@ -49,6 +49,7 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
     - Admissions s2023
     - A&P s2023
     - tenure case silvia
+    - https://www.ub.edu/journalofexperimentalphonetics/
   - Workshops
     - check B4SS and royal society (github, rmarkdown)
     - Stats for linguists (spain)

@@ -6,26 +6,27 @@
 % available at http://www.latex-project.org/lppl/.
 
 
-%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 %                identification
-%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{moderncv}[2011/12/04 v0.14 modern curriculum vitae document class]
 
 
-%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 %                debugging
-%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 \newif\if@DEBUG\@DEBUGfalse
 
 
-%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 %                class options
 %
 % (need to be done before the external package loading, for example because
 % we need \paperwidth, \paperheight and \@ptsize to be defined before loading
 % geometry and fancyhdr)
-%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
+
 % paper size option
 \DeclareOption{a4paper}{
   \setlength\paperheight{297mm}
@@ -72,9 +73,9 @@
 \input{size1\@ptsize.clo}
 
 
-%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 %                required packages
-%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 % \AtEndPreamble hook (loading tetoolbox instead of defining the macro, as to avoid incompatibilities with etoolbox (and packages relying on it) defining the macro too)
 \RequirePackage{etoolbox}
 %\let\@endpreamblehook\@empty
@@ -85,8 +86,9 @@
 % if... then... else... constructs
 \RequirePackage{ifthen}
 
-% color
-\RequirePackage{color}
+% color (20230918: changed from 'color' to 'xcolor' to remove incompatibility 
+% warnings
+\RequirePackage{xcolor}
 
 % font encoding
 \RequirePackage[T1]{fontenc}
@@ -109,7 +111,8 @@
 % hyperrefs
 \RequirePackage{url}
 \urlstyle{tt}
-% load hyperred at the end of the preamble to pass options required by loaded packages (like CJK)
+% load hyperred at the end of the preamble to pass options required by loaded 
+% packages (like CJK)
 \AtEndPreamble{
   \@ifpackageloaded{CJK}
     {\RequirePackage[unicode]{hyperref}}
@@ -118,8 +121,8 @@
       breaklinks,
       baseurl       = http://,
       pdfborder     = 0 0 0,
-      pdfpagemode   = UseNone,% do not show thumbnails or bookmarks on opening
-      pdfpagelabels = false,% to avoid a warning setting it automatically to false anyway, because hyperref detects \thepage as undefined (why?)
+      pdfpagemode   = UseNone, % do not show thumbnails or bookmarks on opening
+      pdfpagelabels = false, % to avoid a warning setting it automatically to false anyway, because hyperref detects \thepage as undefined (why?)
       pdfstartpage  = 1,
       pdfcreator    = \LaTeX{} with `moderncv' package,
       pdfproducer   = \LaTeX{},
@@ -149,9 +152,9 @@
 \RequirePackageWithOptions{moderncvcompatibility}
 
 
-%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 %                class definition
-%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 % minimal base settings
 \setlength\lineskip{1\p@}
 \setlength\normallineskip{1\p@}
@@ -230,9 +233,9 @@
   \RequirePackage[#1]{moderncvtheme#2}}
 
 
-%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 %                structure commands definitions
-%-------------------------------------------------------------------------------
+%------------------------------------------------------------------------------
 \newcommand*{\firstname}[1]{\def\@firstname{#1}}
 \newcommand*{\familyname}[1]{\def\@familyname{#1}}
 \renewcommand*{\title}[1]{\def\@title{#1}}

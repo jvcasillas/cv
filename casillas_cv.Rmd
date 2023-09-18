@@ -11,11 +11,18 @@ output:
     template: assets/tex/my_template.tex
 ---
 
-```{r, 'setup', include=FALSE}
+```{r}
+#| label: setup 
+#| include: false
 Sys.setenv(TEXINPUTS = ".:./assets/tex:")
 ```
 
-```{r, 'download-refs', echo=F, cache=F, warning=F, eval=F}
+```{r}
+#| label: download-refs
+#| echo: false
+#| cache: false
+#| warning: false
+#| eval: false
 library("RefManageR")
 library("here")
 
@@ -26,43 +33,96 @@ download.file(fileUrl,
 bib <- ReadBib(here("assets", "bib", "publications_latex.bib"), check = FALSE)
 ```
 
-```{r, 'fix-color-incompatibilities', echo=F}
+```{r}
+#| label: fix-color-incompatibilities
+#| echo: false
+#| eval: false
+# This may now be irrelevant after editing /tex/moderncv.cls but leaving
+# just in case
 library("knitr")
 knit_hooks$set(document = function(x) {sub('\\usepackage[]{color}', '\\usepackage[table]{xcolor}', x, fixed = TRUE)})
 ```
 
-```{r, child='./assets/sections/set_fonts.Rmd'}
+```{r}
+#| label: insert-set-fonts
+#| child: './assets/sections/set_fonts.Rmd'
 ```
-```{r, child='./assets/sections/make_title.Rmd'}
+
+```{r}
+#| label: insert-make-title
+#| child: './assets/sections/make_title.Rmd'
 ```
-```{r, child='./assets/sections/address_block.Rmd', eval=T}
+
+```{r}
+#| label: insert-address-block
+#| child: './assets/sections/address_block.Rmd'
 ```
-```{r, child='./assets/sections/appointments.Rmd', eval=T}
+
+```{r}
+#| label: insert-appointments
+#| child: './assets/sections/appointments.Rmd'
 ```
-```{r, child='./assets/sections/education.Rmd', eval=T}
+
+```{r}
+#| label: insert-education
+#| child: './assets/sections/education.Rmd'
 ```
-```{r, child='./assets/sections/publications.Rmd', eval=T}
+
+```{r}
+#| label: insert-publications
+#| child: './assets/sections/publications.Rmd'
 ```
-```{r, child='./assets/sections/software.Rmd', eval=T}
+
+```{r}
+#| label: insert-software
+#| child: './assets/sections/software.Rmd'
 ```
-```{r, child='./assets/sections/presentations.Rmd', eval=T}
+
+```{r}
+#| label: insert-presentations
+#| child: './assets/sections/presentations.Rmd'
 ```
-```{r, child='./assets/sections/research_experience.Rmd', eval=T}
+
+```{r}
+#| label: insert-research-experience
+#| child: './assets/sections/research_experience.Rmd'
 ```
-```{r, child='./assets/sections/academic_accolades.Rmd', eval=T}
+
+```{r}
+#| label: insert-academic-accolates
+#| child: './assets/sections/academic_accolades.Rmd'
 ```
-```{r, child='./assets/sections/teaching_experience.Rmd', eval=T}
+
+```{r}
+#| label: insert-teaching-experience
+#| child: './assets/sections/teaching_experience.Rmd'
 ```
-```{r, child='./assets/sections/service_outreach.Rmd', eval=T}
+
+```{r}
+#| label: insert-service-outreach
+#| child: './assets/sections/service_outreach.Rmd'
 ```
-```{r, child='./assets/sections/professional_development.Rmd', eval=T}
+
+```{r}
+#| label: insert-professional-development
+#| child: './assets/sections/professional_development.Rmd'
 ```
-```{r, child='./assets/sections/professional_memberships.Rmd', eval=T}
+
+```{r}
+#| label: insert-professional-memberships
+#| child: './assets/sections/professional_memberships.Rmd'
 ```
-```{r, child='./assets/sections/additional_interests.Rmd', eval=T}
+
+```{r}
+#| label: insert-additional-interests
+#| child: './assets/sections/additional_interests.Rmd'
 ```
-```{r, child='./assets/sections/footer.Rmd', eval=T}
+
+```{r}
+#| label: insert-footer
+#| child: './assets/sections/footer.Rmd'
 ```
 
 \bibliographystyle{apalike}
 \nobibliography{assets/bib/publications_latex}
+

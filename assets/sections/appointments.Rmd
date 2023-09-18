@@ -1,6 +1,7 @@
 
 \section{Appointments}
 
+\cventry{2023 -- Present}{Undergraduate Program Director}{Rutgers University, New Brunswick}{}{}{Department of Spanish and Portuguese}
 \cventry{2022 -- Present}{\mytitle}{Rutgers University, New Brunswick}{}{}{Bilingualism \& Second Language Acquisition, Department of Spanish and Portuguese \\Associate Faculty member, Department of Linguistics}
 \cventry{2016 -- 2022}{Assistant Professor}{Rutgers University, New Brunswick}{}{}{Bilingualism \& Second Language Acquisition, Department of Spanish and Portuguese \\Associate Faculty member, Department of Linguistics}
 \cventry{2013 -- Present}{Visiting Faculty Member}{Middlebury College}{}{}{Language Schools -- School of Spanish}

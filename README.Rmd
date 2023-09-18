@@ -8,7 +8,13 @@ Last update: `r Sys.Date()`
 
 ## Overview
 
-Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown. 
+Version controlled CV using the `moderncv` LaTeX class. 
+Ported to RMarkdown. 
+
+## Notes
+
+- Occasionally it is necessary to reinstall the fonts used in this repo (after a system update, for example)
+- They live in `assets/fonts` and should only need to be installed once 
 
 ## To add:
 
@@ -17,21 +23,34 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
     - published: 
       - Frontiers in comm (fuzzy boundaries)
       - Frontiers (morph pred with nuria and cris)
-    - in press: 
+      - Frontiers (morph pred with nuria)
       - msa AMPS
-    - under review: 
       - Empathy
-      - Glide affiliation
-      - transparency in ling
       - morph pred at language learning
+    - in press: 
+      - transparency in ling
+    - under review: 
+      - Glide affiliation
+      - Ears to eyes with ivan
     - accepted: 
     - in prep: 
+      - Lextale stuff
+      - GAMS
+      - lexical stress with nicole
+      - coronals with miquel and alex
   - Presentations
-    - HLS
+    - HLS (2022, 2023)
     - CASPSLaP  
     Casillas J.V., Garrido Pozú, J.J., Rodríguez, N., Parrish, K., Fernández Arroyo, L., Esposito, R., Chang, I., Gómez, K., Constantin-Dureci, G., Shao, J., Andreu Rascón, I., and Taveras, K. (2022). Inferring meaning from intonation: The effects of proficiency and empathy on L2 pragmatic skills. Current Approaches to Spanish and Portuguese Second Language Phonology (CASPSLaP). University of Wisconsin, Madison, WI.
     - New Sounds
     - https://www.researchgate.net/publication/363913647_Research_Management_in_Many_Analysts_Projects
+    - Are ´literal translations´ always easier to process?: a process-based study of effort based on comparable corpus data
+      - https://www.researchgate.net/publication/370682256_Are_literal_translations_always_easier_to_process_a_process-based_study_of_effort_based_on_comparable_corpus_data
+    - Invited talks
+      - UIUC, Penn state, Toronto, FUrman
+      - PSLLT purdue
+      - CASPSLAP 2024
+      - FIGS
 - Teaching
   - data viz for humanities
   - Language discrimination in the US
@@ -39,20 +58,24 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
   - Reviews
     - CASPSLaP 2022 abstracts
     - HLS 2021 abstracts
-    - Languages 2022
+    - Languages 2022, 2023
     - LAB 2022
     - Ampersand
     - tons more (check folder)
   - Committees
     - search committee TT job (2021-2022)
-    - Grad development committee (Fall 2022)
+    - search committee Lang coord (2022, 2023)
+    - Grad development committee (Fall 2022, Fall 2023)
     - Admissions s2023
     - A&P s2023
     - tenure case silvia
+    - tenure case adam
     - https://www.ub.edu/journalofexperimentalphonetics/
+    - AOOC committee
   - Workshops
     - check B4SS and royal society (github, rmarkdown)
     - Stats for linguists (spain)
+    - Dataviz workshop
   - Talks
     - Illinois
     - Penn state
@@ -60,12 +83,13 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
     - purdue
   - Keynotes
     - CASPSLAP
-    - PLM (poland)
   - Mentoring
     - update Nicole
-    - new AreSTY
-    - New honors students
+    - update Kyle
+    - new AreSTY (2022, 2023/4)
+    - New honors students (find names, 2022-3, 2023-4)
     - Jennifer PhD defense
+    - Patrick Defense
     - Mohraty honors mentee
 - Academic accolades
   - Humanities plus grant (2k)
@@ -73,4 +97,5 @@ Version controlled CV using the `moderncv` LaTeX class. Ported to RMarkdown.
   - ISGRJ
 - Software
   - worldlanguages
+  - rult
 - Misc

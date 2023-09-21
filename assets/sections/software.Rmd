@@ -1,14 +1,40 @@
 
 \section{Software}
 
+\subsection{R packages}
 <!--
 - R packages
   - lingstuff https://www.jvcasillas.com/lingStuff/index.html
   - untidydata https://www.jvcasillas.com/untidydata/index.html
   - academicWriteR https://www.jvcasillas.com/academicWriteR/index.html
   - contributoR https://www.jvcasillas.com/contributoR/index.html
+  - ds4ling https://www.jvcasillas.com/ds4ling/index.html
+  - worldlanguages https://www.jvcasillas.com/worldlanguages/index.html
+  - rult https://www.jvcasillas.com/rult/index.html
 -->
+\cventry{}{\bibentry{casillas_rult-rpackage_NA}
+\phantom{-}\href{https://github.com/jvcasillas/rult}{\faGithub}}{}{}{}{}
 
+\cventry{}{\bibentry{casillas_worldlanguages-rpackage_NA}
+\phantom{-}\href{https://github.com/jvcasillas/worldlanguages}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_ds4ling-rpackage_NA}
+\phantom{-}\href{https://github.com/jvcasillas/ds4ling}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_contributoR-rpackage_NA}
+\phantom{-}\href{https://github.com/jvcasillas/contributoR}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_academicWriteR-rpackage_NA}
+\phantom{-}\href{https://github.com/jvcasillas/academicWriteR}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_untidydata-rpackage_NA}
+\phantom{-}\href{https://github.com/jvcasillas/untidydata}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_lingStuff-rpackage_NA} 
+\phantom{-}\href{https://github.com/jvcasillas/lingStuff}{\faGithub}}{}{}{}{}
+
+
+\subsection{Web applications}
 <!--
 - Shiny apps
   - spanish distinctive features https://jvcasillas.shinyapps.io/shiny_distinctiveFeatures/
@@ -18,7 +44,38 @@
   - generalized linear model https://jvcasillas.shinyapps.io/shiny_glm/
   - crossover https://jvcasillas.shinyapps.io/shiny_crossOver/
   - power calculator https://jvcasillas.shinyapps.io/shiny_power/
+  - parameter space https://jvcasillas.shinyapps.io/shiny_parameter_space/
+  - msa https://jvcasillas.shinyapps.io/shiny_msa/
 -->
+\cventry{}{\bibentry{casillas_msa-shiny_NA}
+\phantom{-}\href{https://github.com/jvcasillas/shiny_msa}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_paramspace-shiny_NA}
+\phantom{-}\href{https://github.com/jvcasillas/shiny_parameter_space}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_r4ling-shiny_NA}
+\phantom{-}\href{https://github.com/jvcasillas/r_for_linguists}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_clt-shiny_NA}
+\phantom{-}\href{https://github.com/jvcasillas/shiny_clt}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_blr-shiny_NA}
+\phantom{-}\href{https://github.com/jvcasillas/shiny_bivariate_regression}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_glm-shiny_NA}
+\phantom{-}\href{https://github.com/jvcasillas/shiny_glm}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_crossover-shiny_NA}
+\phantom{-}\href{https://github.com/jvcasillas/shiny_crossover}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_power-shiny_NA}
+\phantom{-}\href{https://github.com/jvcasillas/shiny_power}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_distinctivefeatures-shiny_NA} 
+\phantom{-}\href{https://github.com/jvcasillas/shiny_distinctiveFeatures}{\faGithub}}{}{}{}{}
+
+
+\subsection{Miscellaneous}
 <!--
 - sublime text snippets 
   - r-snippets
@@ -28,48 +85,8 @@
     - https://packagecontrol.io/packages/LaTeX-IPA
     - https://github.com/jvcasillas/LaTeX-IPA
 -->
-
-\cventry{}{\bibentry{casillas_ds4ling}
-\phantom{-}\href{https://github.com/jvcasillas/ds4ling}{\faGithub}}{}{}{}{}
-
-\cventry{}{\bibentry{casillas_contributoR}
-\phantom{-}\href{https://github.com/jvcasillas/contributoR}{\faGithub}}{}{}{}{}
-
-\cventry{}{\bibentry{casillas_academicWriteR}
-\phantom{-}\href{https://github.com/jvcasillas/academicWriteR}{\faGithub}}{}{}{}{}
-
-\cventry{}{\bibentry{casillas_untidydata}
-\phantom{-}\href{https://github.com/jvcasillas/untidydata}{\faGithub}}{}{}{}{}
-
-\cventry{}{\bibentry{casillas_r_4_ling}
-\phantom{-}\href{https://github.com/jvcasillas/r_for_linguists}{\faGithub}}{}{}{}{}
-
-\cventry{}{\bibentry{casillas_cental_limit}
-\phantom{-}\href{https://github.com/jvcasillas/shiny_clt}{\faGithub}}{}{}{}{}
-
-\cventry{}{\bibentry{casillas_blr}
-\phantom{-}\href{https://github.com/jvcasillas/shiny_bivariate_regression}{\faGithub}}{}{}{}{}
-
-\cventry{}{\bibentry{casillas_glm}
-\phantom{-}\href{https://github.com/jvcasillas/shiny_glm}{\faGithub}}{}{}{}{}
-
-\cventry{}{\bibentry{casillas_crossover}
-\phantom{-}\href{https://github.com/jvcasillas/shiny_crossover}{\faGithub}}{}{}{}{}
-
-\cventry{}{\bibentry{casillas_power}
-\phantom{-}\href{https://github.com/jvcasillas/shiny_power}{\faGithub}}{}{}{}{}
-
-\cventry{}{\bibentry{casillas_distinctive_features} 
-\phantom{-}\href{https://github.com/jvcasillas/shiny_distinctiveFeatures}{\faGithub}}{}{}{}{}
-
-\cventry{}{\bibentry{casillas_lingStuff} 
-\phantom{-}\href{https://github.com/jvcasillas/lingStuff}{\faGithub}}{}{}{}{}
-
-\cventry{}{\bibentry{casillas_r_snippets}
+\cventry{}{\bibentry{casillas_rsnippets-prog_NA}
 \phantom{-}\href{https://github.com/jvcasillas/R-snippets}{\faGithub}}{}{}{}{}
 
-\cventry{}{\bibentry{casillas_latex_ipa}
+\cventry{}{\bibentry{casillas_latexipa-prog_NA}
 \phantom{-}\href{https://github.com/jvcasillas/LaTeX-IPA}{\faGithub}}{}{}{}{}
-
-
-

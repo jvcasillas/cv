@@ -26,10 +26,18 @@ Sys.setenv(TEXINPUTS = ".:./assets/tex:")
 library("RefManageR")
 library("here")
 
+# Set bib file url
 fileUrl <- "https://raw.githubusercontent.com/jvcasillas/mybib/master/publications_latex.bib"
-download.file(fileUrl, 
-              destfile = here("assets", "bib", "publications_latex.bib"), 
-              method = "curl")
+
+# Download bib file 
+download.file(
+  fileUrl, 
+  cacheOK = F, 
+  destfile = here("assets", "bib", "publications_latex.bib"), 
+  method = "curl"
+)
+
+# Load bib file 
 bib <- ReadBib(here("assets", "bib", "publications_latex.bib"), check = FALSE)
 ```
 

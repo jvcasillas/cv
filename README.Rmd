@@ -21,23 +21,10 @@ Ported to RMarkdown.
 - Research
   - Publications
     - published: 
-      - Frontiers in comm (fuzzy boundaries)
-      - Frontiers (morph pred with nuria and cris)
-      - Frontiers (morph pred with nuria)
-      - msa AMPS
-      - Empathy
-      - morph pred at language learning
     - in press: 
-      - transparency in ling
     - under review: 
-      - Glide affiliation
-      - Ears to eyes with ivan
     - accepted: 
     - in prep: 
-      - Lextale stuff
-      - GAMS
-      - lexical stress with nicole
-      - coronals with miquel and alex
   - Presentations
     - HLS (2022, 2023)
     - CASPSLaP  
@@ -46,11 +33,13 @@ Ported to RMarkdown.
     - https://www.researchgate.net/publication/363913647_Research_Management_in_Many_Analysts_Projects
     - Are ´literal translations´ always easier to process?: a process-based study of effort based on comparable corpus data
       - https://www.researchgate.net/publication/370682256_Are_literal_translations_always_easier_to_process_a_process-based_study_of_effort_based_on_comparable_corpus_data
+    - ICPhS
     - Invited talks
       - UIUC, Penn state, Toronto, FUrman
       - PSLLT purdue
       - CASPSLAP 2024
       - FIGS
+      - Princeton
 - Teaching
   - data viz for humanities
   - Language discrimination in the US
@@ -96,6 +85,6 @@ Ported to RMarkdown.
   - Presidential Fellowship for Teaching Excellence Award (21-22), 1k
   - ISGRJ
 - Software
-  - worldlanguages
-  - rult
+  - RUthesis (port to qmd, make package)
 - Misc
+

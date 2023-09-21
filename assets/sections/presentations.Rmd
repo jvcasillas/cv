@@ -29,7 +29,7 @@
 \cventry{}{\hangbibentry{BessettCasillasMartinezWSS72014}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasSLRF2013}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasPAPI2013}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasWSS62013}}{}{}{}{}
+\cventry{}{\hangbibentry{CasillasWSS6CONF2013}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasCONF2012a}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasCONF2011}}{}{}{}{}
 \cventry{}{\hangbibentry{CasillasCONF2011a}}{}{}{}{}

@@ -5,49 +5,58 @@
 
 \subsection{Journal Articles}
 
-\cventry{}{\hangbibentry{jimenez_casillas_trans_processing_2021}}{}{}{}{}
-\cventry{}{\hangbibentry{casillas_perfomance_mismatches_2021}}{}{}{}{}
-\cventry{}{\hangbibentry{casillas_dpbe_l2_2020}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasProdStops_ll2020}}{}{}{}{}
-\cventry{}{\hangbibentry{SagarraLozanoCasillas_blc2019}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasProdPercStops}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasSimonet_jphon2018}}{}{}{}{}
-\cventry{}{\hangbibentry{SagarraCasillas_JSLS2018}}{}{}{}{}
-\cventry{}{\hangbibentry{BessettCasillasRamirezSpIC2017}}{}{}{}{}
-\cventry{}{\hangbibentry{LlmopartCasillasJASAEL2016}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasSimonetSLR2016}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasPhonetica2015}}{}{}{}{}
+\cventry{}{\hangbibentry{bochunska-etal_gpsy-article_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{lozano-sagarra-casillas_ll-article_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{sagarra-casillas_frontiers-article_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{lozano-casillas-sagarra_frontiers-article_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{coretta-etal_ampps-article_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas-etal_ap-article_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{carignan-casillas-chodroff-zellou_fic-article_2022}}{}{}{}{}
+\cventry{}{\hangbibentry{jimenez-casillas_tcb-article_2021}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_languages-article_2021}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_ssla-article_2020}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_ll-article_2020}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_las-article_2020}}{}{}{}{}
+\cventry{}{\hangbibentry{sagarra-lozano-casillas_blc-article_2019}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas-simonet_jphon-article_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{sagarra-casillas_jsls-article_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{bessett-casillas-ramirez_spic-article_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{llompart-casillas_jasael-article_2016}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas-simonet_slr-article_2016}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_phonetica-article_2015}}{}{}{}{}
 
 
 \subsection{Selected Proceedings and Electronic Publications}
 
-\cventry{}{\hangbibentry{CasillasICPhS2019article}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasDiazSimonetICPhS2015article}}{}{}{}{}
-\cventry{}{\hangbibentry{SimonetCasillasDiazSP72014}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasBessettDFTable2013}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasWSS62013}}{}{}{}{}
-\cventry{}{\hangbibentry{Casillas2012}}{}{}{}{}
-\cventry{}{\hangbibentry{Casillas2010}}{}{}{}{}
-\cventry{}{\hangbibentry{Casillas2009}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_icphs-article_2019}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas-diaz-simonet_icphs-article_2015}}{}{}{}{}
+\cventry{}{\hangbibentry{simonet-casillas-diaz_sp7-article_2014}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas-bessett_df-table_2013}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_wss6-article_2013}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_divergencias-article_2012}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_ghm-article_2010}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_ghm-article_2009}}{}{}{}{}
 
 
 \subsection{Book Reviews}
 
-\cventry{}{\hangbibentry{casillasROUTLEDGEreview2017}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_routledge-review_2017}}{}{}{}{}
 
 
 \subsection{Manuscripts Under Review}
 
-\cventry{}{\hangbibentry{coretta_casillas_roettger_many_analyses}}{}{}{}{}
-
+\cventry{}{\hangbibentry{colina_casillas-shll-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{rascon_casillas-ijb-article_NA}}{}{}{}{}
 
 
 \subsection{Manuscripts in Preparation}
 
-\cventry{}{\hangbibentry{Casillas_et_al_empathy_intonation}}{}{}{}{}
-\cventry{}{\hangbibentry{Casillas_simonet_aldrich_coronal_stops}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasProdSemantic}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasStress}}{}{}{}{}
-\cventry{}{\hangbibentry{SagarraCasillasETL2}}{}{}{}{}
-\cventry{}{\hangbibentry{SagarraCasillasETheritage}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasDICT}}{}{}{}{}
+\cventry{}{\hangbibentry{garrido_casillas_lextale-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{coretta_casillas_gams-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{rodriguez_casillas_stressprod-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{rodriguez_casillas_stressperc-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{rodriguez_casillas_stressped-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_bayes-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_simonet_aldrich_coronals-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_semproc-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_stress-article_NA}}{}{}{}{}

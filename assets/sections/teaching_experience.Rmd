@@ -8,11 +8,13 @@
             \item[] \small \emph{Introduction to Spanish Phonetics/Phonology}
             \item[] \small \emph{Current Issues in Second Language Acquisition}
             \item[] \small \emph{Languages and Cultures Across the Curriculum: 
-                                 Data Science in Spanish }
+                                 Data Science in Spanish}
+            \item[] \small \emph{Data Visualization of the Social Sciences}
+            \item[] \small \emph{Linguistic discrimination in the United States}
         \end{itemize}
         Graduate:
         \begin{itemize}
-            \item[] \small \emph{Spanish Phonology/Phonetics}
+            \item[] \small \emph{Phonetics and Phonology of Bilingualism}
             \item[] \small \emph{Data Science for Linguists}
             \item[] \small \emph{Research Methods: Open Science and Reproducible 
                                  Research in Linguistics}

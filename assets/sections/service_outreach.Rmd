@@ -5,19 +5,27 @@
 
 \subsection{Mentoring of doctoral students}
 
-\cventry{Ongoing}{Nicole Rodr\'iguez}{Co-chair of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
-\cventry{}{Juan Jos\'e Garrido Pozu}{Co-chair of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{Ongoing}{Iv\'an Andreu Rasc\'on}{Chair of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{}{Gabrielle Constantin-Durechi}{Co-chair of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{}{Jiawei Show}{Chair of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{}{Hyunjung Joo}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
+\cventry{}{Yarkin Ergin}{Member of PhD dissertation committee}{}{}{Psychology, Rutgers University}
+\cventry{}{Diana S\'anchez}{Co-chair of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{}{Patrick Thane}{Member of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{}{Jennifer Markovitz}{Member of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
+
+
+\cventry{2022}{Juan Jos\'e Garrido Pozu}{Co-chair of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Laura Fern\'andez Arroyo}{Member of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Ezequiel L\'opez Durand}{Member of dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
-\cventry{}{Gabrielle Tompkins}{Member of M.A. for Teachers portfolio committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Maddie Gilbert}{Member of dissertation committee}{}{}{Linguistics, New York University}
-\cventry{}{Drake Asberry}{Member of dissertation committee}{}{}{Second Language Acquisition and Teaching, University of Arizona}
-\cventry{}{Diana S\'anchez}{Academic advisor}{}{}{Spanish and Portuguese, Rutgers University}
 
-\cventry{2021}{Esther Hur}{Member of dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{2021}{Nicole Rodr\'iguez}{Co-chair of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
+\cventry{}{Esther Hur}{Member of dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Kyle Parrish}{Co-chair of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Patrick Thane}{Member of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Huteng Dai}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
+\cventry{}{Gabrielle Tompkins}{Member of M.A. for Teachers portfolio committee}{}{}{Spanish and Portuguese, Rutgers University}
 
 \cventry{2020}{Cristina Lozano Arg\"uelles}{Member of dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Michele Goldin}{Member of dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
@@ -42,6 +50,17 @@
 
 \subsection{Mentoring of undergraduate students}
 
+\cventry{2023 -- 2024}{Alexandria Minetti}{School of Arts and Sciences Aresty Research Program}{}{}{Linguistics, Rutgers University}
+\cventry{}{Rhode Gardere}{School of Arts and Sciences Aresty Research Program}{}{}{Linguistics, Rutgers University}
+\cventry{}{Krishita Laungani}{School of Arts and Sciences Aresty Research Program}{}{}{Computer Science, Rutgers University}
+\cventry{}{John Thatcher}{School of Arts and Sciences Aresty Research Program}{}{}{Spanish, Rutgers University}
+\cventry{}{Erin Foley}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Rutgers University}
+\cventry{2022 -- 2023}{Melany Subina}{School of Arts and Sciences Aresty Research Program}{}{}{Linguistics, Rutgers University}
+\cventry{}{Adrija Gadamsetty}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Rutgers University}
+\cventry{2021 -- 2022}{Katherine Taveras}{School of Arts and Sciences Aresty Research Program}{}{}{Spanish/Linguistics, Rutgers University}
+\cventry{}{Sara Arastu}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Rutgers University}
+\cventry{}{Libby Birenboim}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Rutgers University}
+\cventry{}{Priyanshi Shah}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Rutgers University}
 \cventry{2020 -- 2021}{Robert Esposito}{Honors thesis}{}{}{Intonation of Salvadoran Spanish (co-directed with Dr. Mariapaola D'Imperio)\\ Linguistics, Rutgers University}
 \cventry{}{Isabelle Chang}{School of Arts and Sciences Aresty Research Program}{}{}{Spanish/Linguistics, Rutgers University}
 \cventry{}{Kimberly Gomez}{School of Arts and Sciences Aresty Research Program}{}{}{Pre-med/Spanish, Rutgers University}
@@ -50,15 +69,12 @@
 \cventry{}{Tenia Bay}{Language Engagement Project Language Exchange Program}{}{}{Rutgers University}
 \cventry{}{Camila Nuñez}{Language Engagement Project Language Exchange Program}{}{}{Universidad de Santiago de Chile}
 \cventry{}{Katherine Anderson}{Language Engagement Project Language Exchange Program}{}{}{Rutgers University}
-
 \cventry{2019 -- 2020}{Avery Fields}{School of Arts and Sciences Aresty Research Program}{}{}{Spanish/Linguistics, Rutgers University}
 \cventry{}{Robert Esposito}{Independent Study}{}{}{Intonation of Salvadoran Spanish \\ Linguistics, Rutgers University}
 \cventry{}{Jack Fastenau}{School of Arts and Sciences Aresty Research Program}{}{}{Pre-med/Spanish, Rutgers University}
-
 \cventry{2018 -- 2019}{Maxine Ellicott}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Pre-med, Rutgers University}
 \cventry{}{Hamail Iqbal}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Rutgers University}
 \cventry{}{Jessica Philip}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Statistics, Rutgers University}
-
 \cventry{2017 -- 2018}{Jessyca Campos}{Independent Study}{}{}{How syllable weight influences the perception of stress in second language learners of Spanish \\ Linguistics, Rutgers University}
 \cventry{}{Tiffany Calvache}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Molecular Biology and Biochemistry, Rutgers University}
 \cventry{}{Shuxiang Michelle Fan}{School of Arts and Sciences Honors Program Faculty Mentoring}{}{}{Linguistic Anthropology, Rutgers University}
@@ -66,7 +82,20 @@
 
 \subsection{Manuscript Reviewer}
 
+\cventry{2023}{Ampersand.}{}{}{}{}
+\cventry{}{Cambridge Handbook of Bilingual Phonology.}{}{}{}{}
+\cventry{}{Studies in Hispanic and Lusophone Linguistic.}{}{}{}{}
+\cventry{}{Second Language Research.}{}{}{}{}
+\cventry{2022}{Journal of Phonetics.}{}{}{}{}
+\cventry{}{Linguistic Approaches to Bilingualism.}{}{}{}{}
+\cventry{}{Languages.}{}{}{}{}
+\cventry{}{Poznan Studies in Contemporary Linguistics.}{}{}{}{}
+\cventry{}{Studies in Second Language Acquisition.}{}{}{}{}
 \cventry{2021}{International Journal of Bilingualism.}{}{}{}{}
+\cventry{}{Journal of Phonetics.}{}{}{}{}
+\cventry{}{Bilingualism: Language and Cognition.}{}{}{}{}
+\cventry{}{The R Journal.}{}{}{}{}
+\cventry{}{Routledge: Bayesian Multilevel Models for Repeated Measures Data: A Practical and Conceptual Introduction in R}{}{}{}{}
 \cventry{2020}{Language and Speech.}{}{}{}{}
 \cventry{}{Journal of Phonetics.}{}{}{}{}
 \cventry{}{Laboratory Phonology.}{}{}{}{}
@@ -100,6 +129,9 @@
 
 \subsection{Abstract Reviewer}
 
+\cventry{2022}{Current Approaches to Spanish and Portuguese Second Language Phonology.}{}{}{}{University of Wisconsin-Madison, Madison, WI.}
+\cventry{}{Hispanic Linguistics Symposium.}{}{}{}{Arizona State University, Tempe, AZ.}
+\cventry{}{Poznan Linguistic Meeting.}{}{}{}{Adam Mickiewicz University, Ponzan, Poland.}
 \cventry{2021}{Hispanic Linguistics Symposium.}{}{}{}{Wake Forest University, Winston-Salem, NC.}
 \cventry{2019}{Hispanic Linguistics Symposium.}{}{}{}{University of Texas, El Paso.}
 \cventry{2014}{Speech Prosody 7: Social and Linguistic Speech Prosody.}{}{}{}{Trinity College, Dublin.}
@@ -108,8 +140,28 @@
 
 \subsection{Departmental Committees and Administrative Assignments}
 
+\cventry{2023 -- 2024}{Academic Athletic Oversight Committee}{}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{}{Undergraduate Curriculum Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{}{Graduate Professional Development Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{}{NTT Search Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{}{Tenure and Promotion Committee}{}{}{}{Department of Linguistics, Rutgers University, New Brunswick, NJ}
+\cventry{}{Tenure and Promotion review}{}{}{}{Department of Spanish, Lawrence University, Appleton, WI}
+
+\cventry{2022 -- 2023}{Advisory Committees on Appointments and Promotions}{}{}{}{School of Arts and Sciences, Rutgers University, New Brunswick, NJ}
+\cventry{}{Graduate Professional Development Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{}{Graduate Admissions Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{}{Graduate Curriculum Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{}{NTT Search Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{}{Department Website Improvement Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{}{Tenure and Promotion Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, Camden, NJ}
+
+\cventry{2021 -- 2022}{Budget Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{}{Graduate Admissions Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{}{NTT Search Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+
 \cventry{2020 -- 2021}{Graduate Professional Development Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
 \cventry{}{Graduate Admissions Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
+\cventry{}{Tenure Track Assistant Professor Search Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
 
 \cventry{2019 -- 2020}{NTT Search Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
 \cventry{}{Graduate Admissions Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
@@ -132,6 +184,8 @@
 
 \subsection{Organizations and Committees}
 
+\cventry{2023 -- Present}{Associate editor}{Loquens}{Editorial of the Spanish National Research Council}{}{Madrid, Spain}
+\cventry{2022 -- Present}{Advisory Board member}{Poznan Studies in Contemporary Linguistics (PSiCL)}{}{}{Adam Mickiewicz University, Poznan, Poland}
 \cventry{2020 -- Present}{Scientific board}{Journal of Experimental Phonetics}{}{}{University of Barcelona, Barcelona, Spain}
 \cventry{2019}{Chair, Pedagogy}{Hispanic Linguistics Symposium}{}{}{University of Texas, El Paso, TX}
 \cventry{2017}{Chair, Phonetics/Phonology}{Hispanic Linguistics Symposium}{}{}{Texas Tech University, Lubbock, TX}

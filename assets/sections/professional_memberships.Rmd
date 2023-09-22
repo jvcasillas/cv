@@ -1,6 +1,8 @@
 
 \section{Professional memberships}
 
+\cventry{}{International Phonetic Association}{}{}{}{}
+\cventry{}{Association for Laboratory Phonology}{}{}{}{}
 \cventry{}{Modern Language Association}{}{}{}{}
 \cventry{}{Sigma Delta Pi National Hispanic Honor Society}{Chapter MU}{}{}{}
 \cventry{}{The American Council on the Teaching of Foreign Languages}{}{}{}{}

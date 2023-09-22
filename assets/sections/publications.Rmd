@@ -45,18 +45,18 @@
 
 \subsection{Manuscripts Under Review}
 
-\cventry{}{\hangbibentry{colina_casillas-shll-article_NA}}{}{}{}{}
-\cventry{}{\hangbibentry{rascon_casillas-ijb-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{colina-casillas_shll-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{rascon-casillas_ijb-article_NA}}{}{}{}{}
 
 
 \subsection{Manuscripts in Preparation}
 
-\cventry{}{\hangbibentry{garrido_casillas_lextale-article_NA}}{}{}{}{}
-\cventry{}{\hangbibentry{coretta_casillas_gams-article_NA}}{}{}{}{}
-\cventry{}{\hangbibentry{rodriguez_casillas_stressprod-article_NA}}{}{}{}{}
-\cventry{}{\hangbibentry{rodriguez_casillas_stressperc-article_NA}}{}{}{}{}
-\cventry{}{\hangbibentry{rodriguez_casillas_stressped-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{garrido-casillas_lextale-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{coretta-casillas_gams-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{rodriguez-casillas_stressprod-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{rodriguez-casillas_stressperc-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{rodriguez-casillas_stressped-article_NA}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_bayes-article_NA}}{}{}{}{}
-\cventry{}{\hangbibentry{casillas_simonet_aldrich_coronals-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas-simonet-aldrich_coronals-article_NA}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_semproc-article_NA}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_stress-article_NA}}{}{}{}{}

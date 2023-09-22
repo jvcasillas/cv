@@ -1,77 +1,102 @@
 \section{Presentations}
 
-\vspace{-0.2in}
-
 \subsection{Conference Presentations}
 
-\cventry{}{\hangbibentry{sagarra_casillas_eurosla_2021}}{}{}{}{}
-\cventry{}{\hangbibentry{lozano_sagarra_casillas_isbpac_2021}}{}{}{}{}
-\cventry{}{\hangbibentry{casillas_dpbe_CASPSLAP2020}}{}{}{}{}
-\cventry{}{\hangbibentry{casillas_wise_2020}}{}{}{}{}
-\cventry{}{\hangbibentry{casillas_dpbe_HLS2019}}{}{}{}{}
-\cventry{}{\hangbibentry{casillas_morphpred_HLS2019}}{}{}{}{}
-\cventry{}{\hangbibentry{simonet_casillas_coloq2019}}{}{}{}{}
-\cventry{}{\hangbibentry{colina_diaz_casillas_HLS2018_glide}}{}{}{}{}
-\cventry{}{\hangbibentry{lozano_sagarra_casillasHLS2018morph}}{}{}{}{}
-\cventry{}{\hangbibentry{lozano_sagarra_casillasISBPAC2018morph}}{}{}{}{}
-\cventry{}{\hangbibentry{lozano_sagarra_casillasISB2017morph}}{}{}{}{}
-\cventry{}{\hangbibentry{casillasHLSa2017morph}}{}{}{}{}
-\cventry{}{\hangbibentry{casillasHLSb2017morph}}{}{}{}{}
-\cventry{}{\hangbibentry{casillasSLRF2017morph}}{}{}{}{}
-\cventry{}{\hangbibentry{casillasLSRL2017morph}}{}{}{}{}
-\cventry{}{\hangbibentry{casillasLSRL2017prodperc}}{}{}{}{}
-\cventry{}{\hangbibentry{casillasSSHL2017}}{}{}{}{}
-\cventry{}{\hangbibentry{casillasHLS2016}}{}{}{}{}
-\cventry{}{\hangbibentry{SimonetCasillasOsborneSOUNDWORD2016}}{}{}{}{}
-\cventry{}{\hangbibentry{SimonetCasillasOsborneIPSP2016}}{}{}{}{}
-\cventry{}{\hangbibentry{SimonetCasillasOsborneSLAT2016}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasDiazSimonetHLS2015}}{}{}{}{}
-\cventry{}{\hangbibentry{BessettCasillasMartinezWSS72014}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasSLRF2013}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasPAPI2013}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasWSS6CONF2013}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasCONF2012a}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasCONF2011}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasCONF2011a}}{}{}{}{}
+\cventry{}{\hangbibentry{rascon-casillas_hls-pres_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{roettger-casillas_icphs-pres_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{garrido-casillas_hls-pres_2022}}{}{}{}{}
+\cventry{}{\hangbibentry{sagarra-casillas_hls-pres_2022}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_lagb-pres_2022}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_newsounds-pres_2022}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas-garrido-rodriguez_caspslap-pres_2022}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas-garrido-rodriguez_hls-pres_2021}}{}{}{}{}
+\cventry{}{\hangbibentry{sagarra-casillas_eurosla-pres_2021}}{}{}{}{}
+\cventry{}{\hangbibentry{lozano-sagarra-casillas_isbpac-pres_2021}}{}{}{}{}
+\cventry{}{\hangbibentry{jimenez-casillas_tt5-pres_2020}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas-etal_caspslap-pres_2020}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_wise-pres_2020}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_hlsA-pres_2019}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_hlsB-pres_2019}}{}{}{}{}
+\cventry{}{\hangbibentry{simonet-casillas_coloq-pres_2019}}{}{}{}{}
+\cventry{}{\hangbibentry{colina-diaz-casillas_hls-pres_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{lozano-sagarra-casillas_hls-pres_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{lozano-sagarra-casillas_isbpac-pres_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{lozano-sagarra-casillas_isb-pres_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_hlsA-pres_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_hlsB-pres_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_slrf-pres_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_lsrlA-pres_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_lsrlB-pres_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_sshl-pres_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_hls-pres_2016}}{}{}{}{}
+\cventry{}{\hangbibentry{simonet-casillas-osborne_soundword-pres_2016}}{}{}{}{}
+\cventry{}{\hangbibentry{simonet-casillas-osborne_ipsp-pres_2016}}{}{}{}{}
+\cventry{}{\hangbibentry{simonet-casillas-osborne_slat-pres_2016}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas-diaz-simonet_hls-pres_2015}}{}{}{}{}
+\cventry{}{\hangbibentry{bessett-casillas-martinez_wss7-pres_2014}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_slrf-pres_2013}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_papi-pres_2013}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_wss6-pres_2013}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_symp-pres_2012}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_symp-pres_2011}}{}{}{}{}
 
 
 \subsection{Poster Presentations}
 
-\cventry{}{\hangbibentry{CasillasICPhS2019poster}}{}{}{}{}
-\cventry{}{\hangbibentry{lozano_sagarra_casillas_IICPEB2018}}{}{}{}{}
-\cventry{}{\hangbibentry{sagarra_casillas_SBL2P2018}}{}{}{}{}
-\cventry{}{\hangbibentry{lozano_sagarra_casillas_BAP2018}}{}{}{}{}
-\cventry{}{\hangbibentry{RamirezCasillasWSS82016poster}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasDiazSimonetICPhS2015poster}}{}{}{}{}
-\cventry{}{\hangbibentry{SimonetCasillasDiazHLS2014poster}}{}{}{}{}
-\cventry{}{\hangbibentry{SimonetCasillasDiazSP72014poster}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasPPLC2013}}{}{}{}{}
+\cventry{}{\hangbibentry{correta-casillas-roettger_eorc-poster_2022}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_icphs-poster_2019}}{}{}{}{}
+\cventry{}{\hangbibentry{lozano-sagarra-casillas_iicped-poster_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{sagarra-casillas_sbl2p-poster_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{lozano-sagarra-casillas_bap-poster_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{ramirez-casillas_wss8-poster_2016}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas-diaz-simonet_icphs-poster_2015}}{}{}{}{}
+\cventry{}{\hangbibentry{simonet-casillas-diaz_hls-poster_2014}}{}{}{}{}
+\cventry{}{\hangbibentry{simonet-casillas-diaz_sp7-poster_2014}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_pplc-poster_2013}}{}{}{}{}
 
 
 \subsection{Unrefereed Presentations}
 
-\cventry{}{\hangbibentry{chang_gomez_casillas_aresty_poster_2021}}{}{}{}{}
-\cventry{}{\hangbibentry{field_casillas_aresty_poster_2020}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasMidd2017}}{}{}{}{}
-\cventry{}{\hangbibentry{SagarraCasillasLozanoRodriguez2017poster}}{}{}{}{}
-\cventry{}{\hangbibentry{SagarraCasillasLozanoEriksson2017poster}}{}{}{}{}
+\cventry{}{\hangbibentry{subina-casillas_arestyUNREF-poster_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{taveras-casillas_arestyUNREF-poster_2022}}{}{}{}{}
+\cventry{}{\hangbibentry{chang-gomez-casillas_arestyUNREF-poster_2021}}{}{}{}{}
+\cventry{}{\hangbibentry{field-casillas_arestyUNREF-poster_2020}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_middUNREF-pres_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{sagarra-casillas-lozano-eriksson_arestyUNREF-poster_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{sagarra-casillas-lozano-rodriguez_pcsf11-poster_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_share-pres_2011}}{}{}{}{}
 
 
-\subsection{Invited Talks/Workshops}
+\subsection{Invited Talks}
 
-\cventry{}{\hangbibentry{casillas_rmd_git_2021}}{}{}{}{}
-\cventry{}{\hangbibentry{casillas_coretta_roettger_bayes_labphon_2021}}{}{}{}{}
-\cventry{}{\hangbibentry{casillas_ru_publishing_2020}}{}{}{}{}
-\cventry{}{\hangbibentry{casillas_ru_jobmarket_2019}}{}{}{}{}
-\cventry{}{\hangbibentry{casillas_ru_jobmarket_2018}}{}{}{}{}
-\cventry{}{\hangbibentry{Casillas_AMWclassA_2018}}{}{}{}{}
-\cventry{}{\hangbibentry{Casillas_AMWclassB_2018}}{}{}{}{}
-\cventry{}{\hangbibentry{Casillas_MIDD_LS_2018}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasPronunciation2017}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasPsyPy2017}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasHeritagePedagogy2017}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasRmarkdown2015}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasQualtrics2015}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasL2overview2014}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasPsyPy2014}}{}{}{}{}
-\cventry{}{\hangbibentry{CasillasLaTeX2014}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_caspslap-talk_2024}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_advmethods-talk_2024}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_figs-talk_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_furman-talk_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_toronto-talk_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_penn-talk_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_uiuc-talk_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_anwA-talk_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_amwB-talk_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_dmlwc-talk_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_slat-talk_2014}}{}{}{}{}
+
+
+\subsection{Workshops}
+
+\cventry{}{\hangbibentry{casillas_princeton-ws_2024}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_psllt-ws_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_stats-ws_2022}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_git-ws_2021}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_rmd-ws_2021}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas-coretta-roettger_bayes-ws_2021}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_publishing-ws_2020}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_jobmarket-ws_2019}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_jobmarket-ws_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_pronunciation-ws_2018}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_psychopy-ws_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_hped-ws_2017}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_rmarkdown-ws_2015}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_qualtrics-ws_2015}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_psychopy-ws_2014}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_latex-ws_2014}}{}{}{}{}

@@ -4,6 +4,7 @@
 
 \subsection{Grants and Scholarships}
 
+\cventry{2022 -- 2023}{Humanities Plus Grant}{\newline Awarded \$2,000.00 developing new pedagogical methodologies and initiatives for \emph{Linguistic discrimnation in the US} course}{}{}{Rutgers University, New Brunswick, NJ}{}{}
 \cventry{2019}{Open and Affordable Textbooks Program grant}{\newline Awarded \$1,000.00 to develop open access educational materials for \emph{Intro to Spanish Phonetics}}{}{}{Rutgers University, New Brunswick, NJ}{}{}
 \cventry{2019}{Language Engagement Project: 991 Challenge Course Grant}{\newline Awarded \$1,000.00 to develop a 1-credit module entitled \emph{Data Science in Spanish}}{}{}{Rutgers University, New Brunswick, NJ}{}{}
 \cventry{2008 -- 2016}{Comanche Nation Department of Higher Education Scholarship}{}{}{}{}{} 
@@ -18,6 +19,8 @@
 
 \subsection{Awards and Honors}
 
+\cventry{2022 -- 2023}{Institute for the Study of Global Racial Justice Early Career Faculty Fellow}{}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{2021 -- 2022}{Presidential Fellowship for Teaching Excellence Award (\$1,000.00)}{}{}{}{Rutgers University, New Brunswick, NJ}
 \cventry{2015}{College of Humanities Fellowship}{}{}{}{University of Arizona, Tucson, AZ}
 \cventry{2013}{College of Humanities Fellowship}{}{}{}{University of Arizona, Tucson, AZ}
 \cventry{2010 -- 2011}{College of Humanities Fellowship}{}{}{}{University of Arizona, Tucson, AZ}
@@ -25,4 +28,3 @@
 \cventry{2009}{Outstanding Graduate Student}{Middlebury College}{Middlebury, VT}{}{}{}
 \cventry{2006}{Outstanding Graduating Senior Nominee}{Western Washington University}{Bellingham, WA}{Department of Psychology}{}{}
 \cventry{2006}{Outstanding Graduating Senior Nominee}{Western Washington University}{Bellingham, WA}{Department of Modern and Classical Languages}{}{}
-

@@ -13,7 +13,7 @@ Languages \vspace{-.18in}
 \vspace{.2in}
 
 
-Programing  
+Programming  
 Languages \vspace{-.37in}  
 
 \begin{tabular}{p{1.15in}lp{.7in}l}
@@ -29,7 +29,7 @@ Languages \vspace{-.37in}
 Technology \vspace{-.18in}  
 
 \begin{tabular}{p{1.15in}lp{.55in}lp{.7in}l}
-   & MacOS X             & & SPSS      & & Praat                \\ 
+   & MacOS X              & & SPSS      & & Praat                \\ 
    & Windows              & & R/RStudio & & PsychoPy             \\ 
-   & Linux                & & GIt       & & Adobe Creative Suite \\ [2.5ex]
+   & Linux                & & Git       & & Adobe Creative Suite \\ [2.5ex]
 \end{tabular}

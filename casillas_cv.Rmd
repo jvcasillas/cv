@@ -29,7 +29,7 @@ library("here")
 # Set bib file url
 fileUrl <- "https://raw.githubusercontent.com/jvcasillas/mybib/master/publications_latex.bib"
 
-# Download bib file 
+# Download bib file
 download.file(
   fileUrl, 
   cacheOK = F, 
@@ -37,7 +37,7 @@ download.file(
   method = "curl"
 )
 
-# Load bib file 
+# Load bib file
 bib <- ReadBib(here("assets", "bib", "publications_latex.bib"), check = FALSE)
 ```
 

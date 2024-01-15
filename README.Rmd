@@ -22,6 +22,7 @@ Ported to RMarkdown.
   - Publications
     - published: 
     - in press: 
+      - LL with nuria
     - under review: 
     - accepted: 
     - in prep: 
@@ -36,6 +37,5 @@ Ported to RMarkdown.
   - Mentoring
 - Academic accolades
 - Software
-  - RUthesis (port to qmd, make package)
 - Misc
 

@@ -77,6 +77,8 @@
 
 \subsection{Miscellaneous}
 <!--
+- RUthesis
+- UAthesis
 - sublime text snippets 
   - r-snippets
     - https://www.jvcasillas.com/project/r_snippets/
@@ -85,6 +87,13 @@
     - https://packagecontrol.io/packages/LaTeX-IPA
     - https://github.com/jvcasillas/LaTeX-IPA
 -->
+
+\cventry{}{\bibentry{casillas_ruthesis-prog_NA}
+\phantom{-}\href{https://github.com/jvcasillas/RUthesis}{\faGithub}}{}{}{}{}
+
+\cventry{}{\bibentry{casillas_uathesis-prog_NA}
+\phantom{-}\href{https://github.com/jvcasillas/UAthesis}{\faGithub}}{}{}{}{}
+
 \cventry{}{\bibentry{casillas_rsnippets-prog_NA}
 \phantom{-}\href{https://github.com/jvcasillas/R-snippets}{\faGithub}}{}{}{}{}
 

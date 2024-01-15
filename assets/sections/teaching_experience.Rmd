@@ -1,7 +1,7 @@
 
 \section{Teaching Experience}
 
-\cventry{2016 -- present}{Assistant Professor}{Rutgers University}{New Brunswick, NJ}{}{ Undergraduate:
+\cventry{2016 -- present}{Associate Professor}{Rutgers University}{New Brunswick, NJ}{}{ Undergraduate:
         \begin{itemize}
             \item[] \small \emph{Spanish Culture and Composition for Heritage Learners}
             \item[] \small \emph{Introduction to the Study of Language}

@@ -69,6 +69,7 @@
 
 \subsection{Invited Talks}
 
+\cventry{}{\hangbibentry{casillas_uasymposium-talk_2024}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_caspslap-talk_2024}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_advmethods-talk_2024}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_figs-talk_2023}}{}{}{}{}
@@ -84,6 +85,7 @@
 
 \subsection{Workshops}
 
+\cventry{}{\hangbibentry{casillas_uasymposium-ws_2024}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_princeton-ws_2024}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_psllt-ws_2023}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_stats-ws_2022}}{}{}{}{}

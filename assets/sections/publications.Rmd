@@ -5,8 +5,8 @@
 
 \subsection{Journal Articles}
 
-\cventry{}{\hangbibentry{bochunska-etal_gpsy-article_2023}}{}{}{}{}
 \cventry{}{\hangbibentry{lozano-sagarra-casillas_ll-article_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{bochunska-etal_gpsy-article_2023}}{}{}{}{}
 \cventry{}{\hangbibentry{sagarra-casillas_frontiers-article_2023}}{}{}{}{}
 \cventry{}{\hangbibentry{lozano-casillas-sagarra_frontiers-article_2023}}{}{}{}{}
 \cventry{}{\hangbibentry{coretta-etal_ampps-article_2023}}{}{}{}{}
@@ -45,18 +45,19 @@
 
 \subsection{Manuscripts Under Review}
 
+\cventry{}{\hangbibentry{casillas-etal_linguistics-article_NA}}{}{}{}{}
 \cventry{}{\hangbibentry{colina-casillas_shll-article_NA}}{}{}{}{}
 \cventry{}{\hangbibentry{rascon-casillas_ijb-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{coretta-casillas_gams-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_bayes-article_NA}}{}{}{}{}
 
 
 \subsection{Manuscripts in Preparation}
 
 \cventry{}{\hangbibentry{garrido-casillas_lextale-article_NA}}{}{}{}{}
-\cventry{}{\hangbibentry{coretta-casillas_gams-article_NA}}{}{}{}{}
 \cventry{}{\hangbibentry{rodriguez-casillas_stressprod-article_NA}}{}{}{}{}
 \cventry{}{\hangbibentry{rodriguez-casillas_stressperc-article_NA}}{}{}{}{}
 \cventry{}{\hangbibentry{rodriguez-casillas_stressped-article_NA}}{}{}{}{}
-\cventry{}{\hangbibentry{casillas_bayes-article_NA}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas-simonet-aldrich_coronals-article_NA}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_semproc-article_NA}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_stress-article_NA}}{}{}{}{}

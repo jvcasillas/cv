@@ -1,7 +1,7 @@
 
 # Academic CV
 
-Last update: 2023-09-22
+Last update: 2024-01-15
 
 ## Overview
 
@@ -20,6 +20,7 @@ RMarkdown.
   - Publications
     - published:
     - in press:
+      - LL with nuria
     - under review:
     - accepted:
     - in prep:
@@ -34,5 +35,4 @@ RMarkdown.
   - Mentoring
 - Academic accolades
 - Software
-  - RUthesis (port to qmd, make package)
 - Misc

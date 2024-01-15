@@ -82,6 +82,8 @@
 
 \subsection{Manuscript Reviewer}
 
+\cventry{2024}{Journal of Phonetics.}{}{}{}{}
+\cventry{}{Languages.}{}{}{}{}
 \cventry{2023}{Ampersand.}{}{}{}{}
 \cventry{}{Cambridge Handbook of Bilingual Phonology.}{}{}{}{}
 \cventry{}{Studies in Hispanic and Lusophone Linguistic.}{}{}{}{}
@@ -141,6 +143,7 @@
 \subsection{Departmental Committees and Administrative Assignments}
 
 \cventry{2023 -- 2024}{Academic Athletic Oversight Committee}{}{}{}{Rutgers University, New Brunswick, NJ}
+\cventry{}{Advisory Committees on Appointments and Promotions}{}{}{}{School of Arts and Sciences, Rutgers University, New Brunswick, NJ}
 \cventry{}{Undergraduate Curriculum Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
 \cventry{}{Graduate Professional Development Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}
 \cventry{}{NTT Search Committee}{}{}{}{Department of Spanish and Portuguese, Rutgers University, New Brunswick, NJ}

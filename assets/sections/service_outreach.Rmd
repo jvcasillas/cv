@@ -10,7 +10,8 @@
 \cventry{}{Jiawei Show}{Chair of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Hyunjung Joo}{Member of PhD qualifying paper committee}{}{}{Linguistics, Rutgers University}
 \cventry{}{Yarkin Ergin}{Member of PhD dissertation committee}{}{}{Psychology, Rutgers University}
-\cventry{}{Diana S\'anchez}{Co-chair of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
+
+\cventry{2023}{Diana S\'anchez}{Co-chair of PhD qualifying paper committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Patrick Thane}{Member of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 \cventry{}{Jennifer Markovitz}{Member of PhD dissertation committee}{}{}{Spanish and Portuguese, Rutgers University}
 

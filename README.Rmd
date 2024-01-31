@@ -23,6 +23,7 @@ Ported to RMarkdown.
     - published: 
     - in press: 
       - LL with nuria
+      - Cambridge handbook chapter
     - under review: 
     - accepted: 
     - in prep: 

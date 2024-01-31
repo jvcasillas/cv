@@ -1,7 +1,7 @@
 
 # Academic CV
 
-Last update: 2024-01-15
+Last update: 2024-01-30
 
 ## Overview
 
@@ -21,6 +21,7 @@ RMarkdown.
     - published:
     - in press:
       - LL with nuria
+      - Cambridge handbook chapter
     - under review:
     - accepted:
     - in prep:

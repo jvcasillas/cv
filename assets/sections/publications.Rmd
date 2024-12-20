@@ -5,8 +5,9 @@
 
 \subsection{Journal Articles}
 
-\cventry{}{\hangbibentry{lozano-sagarra-casillas_ll-article_2023}}{}{}{}{}
-\cventry{}{\hangbibentry{bochunska-etal_gpsy-article_2023}}{}{}{}{}
+\cventry{}{\hangbibentry{coretta-casillas_lab-article_2024}}{}{}{}{}
+\cventry{}{\hangbibentry{sagarra-fernandez-lozano-casillas_ll-article_2024}}{}{}{}{}
+\cventry{}{\hangbibentry{bochynska-etal_gpsy-article_2023}}{}{}{}{}
 \cventry{}{\hangbibentry{sagarra-casillas_frontiers-article_2023}}{}{}{}{}
 \cventry{}{\hangbibentry{lozano-casillas-sagarra_frontiers-article_2023}}{}{}{}{}
 \cventry{}{\hangbibentry{coretta-etal_ampps-article_2023}}{}{}{}{}
@@ -38,18 +39,19 @@
 \cventry{}{\hangbibentry{casillas_ghm-article_2009}}{}{}{}{}
 
 
-\subsection{Book Reviews}
+\subsection{Book Chapters and Reviews}
 
+\cventry{}{\hangbibentry{casillas_eal-chapter_2025}}{}{}{}{}
+\cventry{}{\hangbibentry{casillas_chbpp-chapter_2024}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_routledge-review_2017}}{}{}{}{}
 
 
 \subsection{Manuscripts Under Review}
 
+\cventry{}{\hangbibentry{faytak-etal_xxx-article_NA}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas-etal_linguistics-article_NA}}{}{}{}{}
-\cventry{}{\hangbibentry{colina-casillas_shll-article_NA}}{}{}{}{}
 \cventry{}{\hangbibentry{rascon-casillas_ijb-article_NA}}{}{}{}{}
-\cventry{}{\hangbibentry{coretta-casillas_gams-article_NA}}{}{}{}{}
-\cventry{}{\hangbibentry{casillas_bayes-article_NA}}{}{}{}{}
+\cventry{}{\hangbibentry{colina-casillas_shll-article_NA}}{}{}{}{}
 
 
 \subsection{Manuscripts in Preparation}

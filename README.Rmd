@@ -22,20 +22,31 @@ Ported to RMarkdown.
   - Publications
     - published: 
     - in press: 
-      - LL with nuria
-      - Cambridge handbook chapter
     - under review: 
+      - Guide to open science
+      - Paper with Ivan 
+      - Sound communities
+      - Big team science
     - accepted: 
+      - Bayesian stats applied ling encyclopedia
     - in prep: 
+    - Misc:
+      - sabor y amor
   - Presentations
     - talks
+      - update titles of invited talks
+      - check to see whats missing
     - workshops
+      -  add penn state ws
 - Teaching
 - Service
   - chair sessions
   - Reviews
+    - SSLA, Applied psycho, Language
   - Committees
+    - AAOC, and departmental stuff, new SAS assessment com.
   - Mentoring
+    - update to undergrad and grad mentees
 - Academic accolades
 - Software
 - Misc

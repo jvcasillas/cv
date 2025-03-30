@@ -28,16 +28,13 @@ Ported to RMarkdown.
       - Sound communities
       - Big team science
     - accepted: 
-      - Bayesian stats applied ling encyclopedia
+      - EAL bayesian stats
     - in prep: 
     - Misc:
       - sabor y amor
   - Presentations
     - talks
-      - update titles of invited talks
-      - check to see whats missing
     - workshops
-      -  add penn state ws
 - Teaching
 - Service
   - chair sessions
@@ -45,8 +42,14 @@ Ported to RMarkdown.
     - SSLA, Applied psycho, Language
   - Committees
     - AAOC, and departmental stuff, new SAS assessment com.
+    - ICPhS, New Sounds, PAPE, ISB
   - Mentoring
-    - update to undergrad and grad mentees
+    - Honors mentees 2024/25
+    - QPs
+      - Alejandro
+      - Txell
+    - Defenses
+      - Gabi
 - Academic accolades
 - Software
 - Misc

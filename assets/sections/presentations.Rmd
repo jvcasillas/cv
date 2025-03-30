@@ -85,6 +85,7 @@
 
 \subsection{Workshops}
 
+\cventry{}{\hangbibentry{casillas_pswrmal-ws_2024}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_uasymposium-ws_2024}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_princeton-ws_2024}}{}{}{}{}
 \cventry{}{\hangbibentry{casillas_psllt-ws_2023}}{}{}{}{}
